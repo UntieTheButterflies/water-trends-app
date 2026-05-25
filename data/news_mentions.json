@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-05-24T10:14:02+00:00",
+  "refreshed_at": "2026-05-25T12:17:09+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,25 +18,267 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 214,
+  "total_unique_mentions": 218,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 77,
+    "forever chemicals": 81,
     "lead in water": 10,
     "arsenic in water": 0,
     "nitrate in water": 2,
-    "microplastics": 33,
-    "fluoride in water": 1,
+    "microplastics": 34,
+    "fluoride in water": 0,
     "chromium 6": 1,
     "well water testing": 0,
-    "hard water": 13,
+    "hard water": 12,
     "bottled water": 73,
     "water filter": 6,
-    "reverse osmosis": 4,
+    "reverse osmosis": 7,
     "water softener": 4,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.kuer.org/science-environment/2026-05-25/even-with-epa-more-testing-cash-incoming-utahs-in-a-good-spot-for-pfas",
+      "domain": "kuer.org",
+      "title": "Even with EPA more testing cash incoming , Utah in a  good spot  for PFAS",
+      "url": "https://www.kuer.org/science-environment/2026-05-25/even-with-epa-more-testing-cash-incoming-utahs-in-a-good-spot-for-pfas",
+      "published_at": "2026-05-25T11:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/f6/4b/f56993544acb91cab9b1e6dfdca5/istock-2257695777.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kuer.org"
+      ]
+    },
+    {
+      "id": "https://www.pymnts.com/travel-payments/2026/memorial-day-travelers-meet-the-new-price-of-travel/",
+      "domain": "pymnts.com",
+      "title": "PYMNTS | Memorial Day Travelers Meet the New Price of Travel",
+      "url": "https://www.pymnts.com/travel-payments/2026/memorial-day-travelers-meet-the-new-price-of-travel/",
+      "published_at": "2026-05-25T09:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/05/Main-feature-Mem-Day-travel-.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "pymnts.com"
+      ]
+    },
+    {
+      "id": "https://www.life979.com/2026/05/97-days-of-summer-2/",
+      "domain": "life979.com",
+      "title": "97 Days of Summer - LIFE 97 . 9",
+      "url": "https://www.life979.com/2026/05/97-days-of-summer-2/",
+      "published_at": "2026-05-25T06:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.life979.com/wp-content/uploads/main-featurelanding-page.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "life979.com"
+      ]
+    },
+    {
+      "id": "https://www.wsws.org/en/articles/2026/05/25/mthk-m25.html",
+      "domain": "wsws.org",
+      "title": "West Lafayette , Indiana government fast - tracks SK Hynix memory chip factory construction",
+      "url": "https://www.wsws.org/en/articles/2026/05/25/mthk-m25.html",
+      "published_at": "2026-05-25T04:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wsws.org"
+      ]
+    },
+    {
+      "id": "https://tucson.com/news/local/environment/article_900ce09e-1dc5-48c2-8318-676e0ed858b0.html",
+      "domain": "tucson.com",
+      "title": "Arizona gets $20M to clean up drinking water",
+      "url": "https://tucson.com/news/local/environment/article_900ce09e-1dc5-48c2-8318-676e0ed858b0.html",
+      "published_at": "2026-05-25T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/9/cd/9cdaf4e9-c8d4-4a7e-ad7c-92292243baec/6a10bafabde99.image.jpg?crop=1662%2C935%2C0%2C156",
+      "matched_keywords": [
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "tucson.com"
+      ]
+    },
+    {
+      "id": "https://maritime-executive.com/editorials/microplastics-could-affect-the-ocean-s-ability-to-absorb-carbon",
+      "domain": "maritime-executive.com",
+      "title": "Microplastics Could Affect the Ocean Ability to Absorb Carbon",
+      "url": "https://maritime-executive.com/editorials/microplastics-could-affect-the-ocean-s-ability-to-absorb-carbon",
+      "published_at": "2026-05-25T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://maritime-executive.com/media/images/article/plast-i-hand-foto-francesca-verones-ntnu-768x1024.3fa5da.jpeg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "maritime-executive.com"
+      ]
+    },
+    {
+      "id": "https://www.wpbf.com/article/wpbf-25-meteorologist-glenn-glazer-goes-shopping-for-hurricane-supplies-with-the-fire-chief/71395796",
+      "domain": "wpbf.com",
+      "title": "WPBF 25 meteorologist Glenn Glazer goes shopping for Hurricane Supplies with the Fire Chief",
+      "url": "https://www.wpbf.com/article/wpbf-25-meteorologist-glenn-glazer-goes-shopping-for-hurricane-supplies-with-the-fire-chief/71395796",
+      "published_at": "2026-05-24T23:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kubrick.htvapps.com/vidthumb/5ac672ff-a3c4-49e8-a968-cac847ff8237/0b5124a1-e6b2-4276-b8fb-a70500c00930.jpg?crop=0.809xw:0.809xh;0.0423xw,0",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wpbf.com"
+      ]
+    },
+    {
+      "id": "https://www.luxurytravelmagazine.com/news-articles/aspens-the-little-nell-unveils-summer-2026-programming",
+      "domain": "luxurytravelmagazine.com",
+      "title": "Aspen The Little Nell Unveils Summer 2026 Programming",
+      "url": "https://www.luxurytravelmagazine.com/news-articles/aspens-the-little-nell-unveils-summer-2026-programming",
+      "published_at": "2026-05-24T21:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "luxurytravelmagazine.com"
+      ]
+    },
+    {
+      "id": "https://www.windermeresun.com/2026/05/22/open-house-this-weekend-286/",
+      "domain": "windermeresun.com",
+      "title": "Open House This Weekend - Windermere Sun - For Healthier / Happier / More Sustainable Living",
+      "url": "https://www.windermeresun.com/2026/05/22/open-house-this-weekend-286/",
+      "published_at": "2026-05-24T20:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.windermeresun.com/wp-content/uploads/2024/06/open-sign-beautiful-business-girl-34543-1-final.jpg",
+      "matched_keywords": [
+        "reverse osmosis",
+        "water softener"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "windermeresun.com"
+      ]
+    },
+    {
+      "id": "https://www.chicagotribune.com/2026/05/24/epa-announces-295-million-to-remove-illinois-lead-pipes-even-as-trump-moves-to-roll-back-clean-water-protections/",
+      "domain": "chicagotribune.com",
+      "title": "EPA announces $295 million to remove Illinois lead pipes",
+      "url": "https://www.chicagotribune.com/2026/05/24/epa-announces-295-million-to-remove-illinois-lead-pipes-even-as-trump-moves-to-roll-back-clean-water-protections/",
+      "published_at": "2026-05-24T14:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.chicagotribune.com/wp-content/uploads/2026/05/ctc-l-lead-pipe.jpg",
+      "matched_keywords": [
+        "forever chemicals",
+        "lead in water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "chicagotribune.com",
+        "yahoo.com"
+      ]
+    },
+    {
+      "id": "https://hanfordsentinel.com/news/national/avoid-foam-on-michigans-waters-this-summer-health-experts-warn/article_42cc89c7-2d7d-5f32-a3f8-495c68b3b483.html",
+      "domain": "hanfordsentinel.com",
+      "title": "Avoid foam on Michigan waters this summer , health experts warn",
+      "url": "https://hanfordsentinel.com/news/national/avoid-foam-on-michigans-waters-this-summer-health-experts-warn/article_42cc89c7-2d7d-5f32-a3f8-495c68b3b483.html",
+      "published_at": "2026-05-24T12:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/2/63/26333644-0664-531f-9be4-0fa2252e1c70/6a12c1f7d6fac.image.jpg?crop=1765%2C927%2C0%2C123",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "hanfordsentinel.com"
+      ]
+    },
+    {
+      "id": "https://insideclimatenews.org/news/24052026/potomac-river-sewage-fuel-spills-contaminate-drinking-water/",
+      "domain": "insideclimatenews.org",
+      "title": "Sewage and Fuel Leaks Contaminate the Potomac River , Source of Drinking Water for More Than 5 Million People",
+      "url": "https://insideclimatenews.org/news/24052026/potomac-river-sewage-fuel-spills-contaminate-drinking-water/",
+      "published_at": "2026-05-24T12:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://insideclimatenews.org/wp-content/uploads/2026/05/GettyImages-2262014096-1024x683.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "insideclimatenews.org"
+      ]
+    },
+    {
+      "id": "https://wiscnews.com/life-entertainment/local/home-gardening/collection_512869e3-2d1e-5881-baf6-8cd9f2b2ee15.html",
+      "domain": "wiscnews.com",
+      "title": "Southern Wisconsin Housing : What $300K gets you today ( May . 24 , 2026 ) ",
+      "url": "https://wiscnews.com/life-entertainment/local/home-gardening/collection_512869e3-2d1e-5881-baf6-8cd9f2b2ee15.html",
+      "published_at": "2026-05-24T12:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/wiscnews.com/content/tncms/assets/v3/editorial/5/12/512869e3-2d1e-5881-baf6-8cd9f2b2ee15/6a12be580cc64.preview.jpg?crop=800%2C420%2C0%2C56",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wiscnews.com"
+      ]
+    },
+    {
+      "id": "https://www.torquenews.com/17998/tacoma-water-leak-some-shops-keep-passing-back-and-forth",
+      "domain": "torquenews.com",
+      "title": "The Toyota Tacoma Water Leak Some Shops Keep Passing Back and Forth",
+      "url": "https://www.torquenews.com/17998/tacoma-water-leak-some-shops-keep-passing-back-and-forth",
+      "published_at": "2026-05-24T11:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.torquenews.com/sites/default/files/styles/hero_standard/public/images/2017-toyota-tundra-platinum-black-front-three-quarter-desert.jpeg",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "torquenews.com"
+      ]
+    },
     {
       "id": "https://www.santafenewmexican.com/opinion/my_view/a-watershed-moment-infrastructure-progress-continues/article_fe090e38-3a1a-4be9-8c00-682c6a944261.html",
       "domain": "santafenewmexican.com",
@@ -565,7 +807,7 @@
       "matched_keywords": [
         "microplastics"
       ],
-      "syndicated_count": 1,
+      "syndicated_count": 2,
       "syndicated_domains": [
         "natureworldnews.com"
       ]
@@ -2554,23 +2796,6 @@
       ]
     },
     {
-      "id": "https://www.wpbf.com/article/hurricane-season-myths-debunked-what-you-need-to-know/71355619",
-      "domain": "wpbf.com",
-      "title": "Hurricane season myths debunked , what you need to know",
-      "url": "https://www.wpbf.com/article/hurricane-season-myths-debunked-what-you-need-to-know/71355619",
-      "published_at": "2026-05-20T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://kubrick.htvapps.com/vidthumb/4126dab3-3578-4277-a3e5-6da8f070267d/bc8f78a1-c46a-4c98-a3f3-efb5b648a2ad.jpg?crop=0.629xw:0.627xh;0.223xw,0.147xh",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wpbf.com"
-      ]
-    },
-    {
       "id": "https://www.adn.com/opinions/2026/05/19/opinion-the-microplastic-waves-that-are-dousing-alaska/",
       "domain": "adn.com",
       "title": "Opinion : The microplastic waves that are dousing Alaska",
@@ -3656,160 +3881,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "gearjunkie.com"
-      ]
-    },
-    {
-      "id": "https://www.mendocinobeacon.com/2026/02/05/pfas-forever-stained/",
-      "domain": "mendocinobeacon.com",
-      "title": "Inside the toxic legacy of America multibillion - dollar carpet empire",
-      "url": "https://www.mendocinobeacon.com/2026/02/05/pfas-forever-stained/",
-      "published_at": "2026-05-18T11:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "mendocinobeacon.com"
-      ]
-    },
-    {
-      "id": "https://www.paradisepost.com/2025/12/16/under-kennedy-americas-health-department-is-in-the-business-of-promoting-kennedy/",
-      "domain": "paradisepost.com",
-      "title": "Under Kennedy , America health department is in the business of promoting Kennedy \u2013 Paradise Post",
-      "url": "https://www.paradisepost.com/2025/12/16/under-kennedy-americas-health-department-is-in-the-business-of-promoting-kennedy/",
-      "published_at": "2026-05-18T09:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.paradisepost.com/wp-content/uploads/2025/12/202512110415MCT_____PHOTO____US-NEWS-HEALTH-KENNEDY-PROMOTION-GET.jpg",
-      "matched_keywords": [
-        "fluoride in water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "paradisepost.com"
-      ]
-    },
-    {
-      "id": "https://www.bu.edu/articles/2026/bu-153rd-commencement/",
-      "domain": "bu.edu",
-      "title": "Boston University Celebrates the Class of 2026 at 153rd Commencement | BU Today",
-      "url": "https://www.bu.edu/articles/2026/bu-153rd-commencement/",
-      "published_at": "2026-05-18T03:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.bu.edu/files/2026/05/26-1262-CMCT1-313_crop.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "bu.edu"
-      ]
-    },
-    {
-      "id": "https://www.mvariety.com/editorials/columnists-we-lost-our-homes-our-power-our-water-and-now-we-are-being-asked-to-pay-more/article_442b7cb1-1c7f-4482-ab20-5c1e0f60a70d.html",
-      "domain": "mvariety.com",
-      "title": "We lost our homes , our power , our water and now we are being asked to pay more ? ",
-      "url": "https://www.mvariety.com/editorials/columnists-we-lost-our-homes-our-power-our-water-and-now-we-are-being-asked-to-pay-more/article_442b7cb1-1c7f-4482-ab20-5c1e0f60a70d.html",
-      "published_at": "2026-05-17T23:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "mvariety.com"
-      ]
-    },
-    {
-      "id": "https://www.kimt.com/news/state-health-officials-minnesota-tap-water-safe-to-drink/article_8b47bc78-660d-4f63-a2c1-9eead52cd058.html",
-      "domain": "kimt.com",
-      "title": "State health officials : Minnesota tap water safe to drink",
-      "url": "https://www.kimt.com/news/state-health-officials-minnesota-tap-water-safe-to-drink/article_8b47bc78-660d-4f63-a2c1-9eead52cd058.html",
-      "published_at": "2026-05-17T21:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/kimt.com/content/tncms/assets/v3/editorial/2/80/28089e0c-450e-11ee-b310-074e1a821188/64eba10023a4a.image.png?crop=628%2C330%2C0%2C13",
-      "matched_keywords": [
-        "lead in water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "kimt.com"
-      ]
-    },
-    {
-      "id": "https://www.mlb.com/app/ballpark/yankees/tickets/single-game-tickets/2026/home-game-27",
-      "domain": "mlb.com",
-      "title": "Yankees Single Game Tickets for May 24 , 2026",
-      "url": "https://www.mlb.com/app/ballpark/yankees/tickets/single-game-tickets/2026/home-game-27",
-      "published_at": "2026-05-17T20:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "mlb.com"
-      ]
-    },
-    {
-      "id": "https://greatlakesecho.org/2026/05/17/great-lakes-show-signs-of-declining-pfas-pollution/",
-      "domain": "greatlakesecho.org",
-      "title": "Great Lakes show signs of declining PFAS pollution",
-      "url": "https://greatlakesecho.org/2026/05/17/great-lakes-show-signs-of-declining-pfas-pollution/",
-      "published_at": "2026-05-17T20:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://greatlakesecho.org/wp-content/uploads/2026/05/PFAS-STUDY-IMAGE-1-1170x658.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "greatlakesecho.org"
-      ]
-    },
-    {
-      "id": "https://www.prunderground.com/brightwater-plumbing-brings-trusted-service-to-oviedo-and-east-orlando/00380083/",
-      "domain": "prunderground.com",
-      "title": "Brightwater Plumbing Brings Trusted Service to Oviedo and East Orlando",
-      "url": "https://www.prunderground.com/brightwater-plumbing-brings-trusted-service-to-oviedo-and-east-orlando/00380083/",
-      "published_at": "2026-05-17T20:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "hard water",
-        "water softener"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "prunderground.com"
-      ]
-    },
-    {
-      "id": "https://www.kpcnews.com/lifestyles/entertainment/article_199ab06f-a05a-58f7-82f6-98d8948ac1fc.html",
-      "domain": "kpcnews.com",
-      "title": "  SNL  Season 51 Finale Cold Open Features Will Ferrell as Jeffrey Epstein Ghost | Entertainment",
-      "url": "https://www.kpcnews.com/lifestyles/entertainment/article_199ab06f-a05a-58f7-82f6-98d8948ac1fc.html",
-      "published_at": "2026-05-17T16:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/kpcnews.com/content/tncms/custom/image/9dd65992-b861-11ed-9571-e7c6e4601664.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "kpcnews.com"
       ]
     }
   ]
