@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-06-20T11:17:36+00:00",
+  "refreshed_at": "2026-06-21T11:59:21+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,25 +18,334 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 196,
+  "total_unique_mentions": 186,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 48,
-    "lead in water": 0,
+    "forever chemicals": 51,
+    "lead in water": 3,
     "arsenic in water": 0,
     "nitrate in water": 1,
-    "microplastics": 51,
+    "microplastics": 46,
     "fluoride in water": 0,
     "chromium 6": 0,
-    "well water testing": 0,
-    "hard water": 17,
-    "bottled water": 66,
+    "well water testing": 1,
+    "hard water": 0,
+    "bottled water": 67,
     "water filter": 11,
-    "reverse osmosis": 17,
-    "water softener": 0,
+    "reverse osmosis": 16,
+    "water softener": 5,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.twincities.com/2026/06/21/heres-a-list-of-east-metro-bonding-projects-funded-by-the-2026-legislature/",
+      "domain": "twincities.com",
+      "title": "Minnesota Legislature $1 . 2B bonding package",
+      "url": "https://www.twincities.com/2026/06/21/heres-a-list-of-east-metro-bonding-projects-funded-by-the-2026-legislature/",
+      "published_at": "2026-06-21T11:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.twincities.com/wp-content/uploads/2017/05/20130110__minnesotacapitol_dome_dusknight.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "twincities.com"
+      ]
+    },
+    {
+      "id": "https://www.fingerlakes1.com/2026/06/21/aquadiary-do-we-all-drink-plastic-podcast/",
+      "domain": "fingerlakes1.com",
+      "title": "AQUADIARY : Do we all drink plastic ? ( podcast ) ",
+      "url": "https://www.fingerlakes1.com/2026/06/21/aquadiary-do-we-all-drink-plastic-podcast/",
+      "published_at": "2026-06-21T09:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.fingerlakes1.com/wp-content/uploads/2026/06/you-drink-plastic.jpg",
+      "matched_keywords": [
+        "bottled water",
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "fingerlakes1.com"
+      ]
+    },
+    {
+      "id": "https://eastcountymagazine.org/county-planning-staffers-face-heated-questions-from-boulevard-residents-over-proposed-starlight-solar-and-its-massive-battery-storage-facility/",
+      "domain": "eastcountymagazine.org",
+      "title": "County planning staffers face heated questions from Boulevard residents over proposed Starlight Solar and its massive battery storage facility",
+      "url": "https://eastcountymagazine.org/county-planning-staffers-face-heated-questions-from-boulevard-residents-over-proposed-starlight-solar-and-its-massive-battery-storage-facility/",
+      "published_at": "2026-06-21T07:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://eastcountymagazine.org/wp-content/uploads/2026/06/starlight.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "eastcountymagazine.org"
+      ]
+    },
+    {
+      "id": "https://mynewsla.com/crime/2026/06/20/airdrops-stop-for-night-at-boyle-heights-cold-storage-facility/",
+      "domain": "mynewsla.com",
+      "title": "Airdrops Stop for Night at Boyle Heights Cold Storage Facility",
+      "url": "https://mynewsla.com/crime/2026/06/20/airdrops-stop-for-night-at-boyle-heights-cold-storage-facility/",
+      "published_at": "2026-06-21T07:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i0.wp.com/mynewsla.com/wp-content/uploads/2021/10/MNLA-Facebook.jpg?fit=640%2C360&ssl=1",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mynewsla.com"
+      ]
+    },
+    {
+      "id": "https://mynewsla.com/business/2026/06/20/governor-declares-state-of-emergency-at-massive-boyle-heights-fire/",
+      "domain": "mynewsla.com",
+      "title": "Governor Declares State of Emergency at Massive Boyle Heights Fire",
+      "url": "https://mynewsla.com/business/2026/06/20/governor-declares-state-of-emergency-at-massive-boyle-heights-fire/",
+      "published_at": "2026-06-21T07:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i0.wp.com/mynewsla.com/wp-content/uploads/2021/10/MNLA-Facebook.jpg?fit=640%2C360&ssl=1",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mynewsla.com"
+      ]
+    },
+    {
+      "id": "https://www2.ljworld.com/news/general-news/2026/jun/20/whats-in-your-well-water-douglas-county-health-department-launches-free-testing-program/",
+      "domain": "ljworld.com",
+      "title": "What in your well water ? Douglas County health department launches free testing program | News , Sports , Jobs - Lawrence Journal - World : news , information , headlines and events in Lawrence , Kansas",
+      "url": "https://www2.ljworld.com/news/general-news/2026/jun/20/whats-in-your-well-water-douglas-county-health-department-launches-free-testing-program/",
+      "published_at": "2026-06-21T05:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://ogden_images.s3.amazonaws.com/www.ljworld.com/images/2026/04/24112001/AdobeStock_333919000-scaled.jpeg",
+      "matched_keywords": [
+        "well water testing"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ljworld.com"
+      ]
+    },
+    {
+      "id": "https://www.whittierdailynews.com/2026/06/20/is-the-air-safe-what-to-know-about-smoke-from-the-boyle-heights-warehouse-fire/",
+      "domain": "whittierdailynews.com",
+      "title": "Is the air safe ? What to know about smoke from the Boyle Heights warehouse fire",
+      "url": "https://www.whittierdailynews.com/2026/06/20/is-the-air-safe-what-to-know-about-smoke-from-the-boyle-heights-warehouse-fire/",
+      "published_at": "2026-06-21T02:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.whittierdailynews.com/wp-content/uploads/2026/06/LDN-L-BOYLE-FIRE-0621-2330.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "whittierdailynews.com"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/06/21/comparing-coca-cola-consolidated-nasdaqcoke-and-luckin-coffee-otcmktslkncy.html",
+      "domain": "themarketsdaily.com",
+      "title": "Comparing Coca - Cola Consolidated ( NASDAQ : COKE ) and Luckin Coffee ( OTCMKTS : LKNCY ) ",
+      "url": "https://www.themarketsdaily.com/2026/06/21/comparing-coca-cola-consolidated-nasdaqcoke-and-luckin-coffee-otcmktslkncy.html",
+      "published_at": "2026-06-21T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "themarketsdaily.com"
+      ]
+    },
+    {
+      "id": "https://nypost.com/2026/06/20/health/chemicals-babies-drink-in-breast-milk-can-mess-with-hormones/",
+      "domain": "nypost.com",
+      "title": "Chemicals babies drink in breast milk can mess with hormones",
+      "url": "https://nypost.com/2026/06/20/health/chemicals-babies-drink-in-breast-milk-can-mess-with-hormones/",
+      "published_at": "2026-06-20T17:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newborn-baby-boy-sucking-milk-131646382.jpg?quality=75&strip=all",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "nypost.com"
+      ]
+    },
+    {
+      "id": "https://www.naturalnews.com/2026-06-20-final-countdown-prophetic-warning-or-paranoid-fantasy.html",
+      "domain": "naturalnews.com",
+      "title": "The Final Countdown : A prophetic warning or paranoid fantasy ? \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-06-20-final-countdown-prophetic-warning-or-paranoid-fantasy.html",
+      "published_at": "2026-06-20T16:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/The-Final-Countdown-The-Coming-Nuclear-War-and-the-Collapse-of-Civilization.png",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "naturalnews.com"
+      ]
+    },
+    {
+      "id": "https://www.naturalnews.com/2026-06-20-uv-light-natures-weapon-against-forever-chemicals.html",
+      "domain": "naturalnews.com",
+      "title": "Breakthrough in PFAS destruction : UV light unleashes nature hidden weapon against forever chemicals \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-06-20-uv-light-natures-weapon-against-forever-chemicals.html",
+      "published_at": "2026-06-20T16:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/pfas-drinking-water-epa-outreach-initiative-980-original.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "naturalnews.com"
+      ]
+    },
+    {
+      "id": "http://www.bignewsnetwork.com/news/279136038/the-west-is-losing-the-diplomacy-war-and-asean-is-quietly-winning-it",
+      "domain": "bignewsnetwork.com",
+      "title": "The West is losing the diplomacy war and ASEAN is quietly winning it",
+      "url": "http://www.bignewsnetwork.com/news/279136038/the-west-is-losing-the-diplomacy-war-and-asean-is-quietly-winning-it",
+      "published_at": "2026-06-20T16:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://image.chitra.live/api/v1/wps/1253502/5627857c-f6c3-41b8-b6ee-8731cbaa4c9a/0/MzBhNWJlYTUtMTA-600x315.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "bignewsnetwork.com",
+        "laosnews.net"
+      ]
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/06/20/danone-otcmktsdanoy-shares-cross-below-fifty-day-moving-average-should-you-sell.html",
+      "domain": "dailypolitical.com",
+      "title": "Danone ( OTCMKTS : DANOY ) Shares Cross Below Fifty Day Moving Average \u2013 Should You Sell ? ",
+      "url": "https://www.dailypolitical.com/2026/06/20/danone-otcmktsdanoy-shares-cross-below-fifty-day-moving-average-should-you-sell.html",
+      "published_at": "2026-06-20T14:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailypolitical.com"
+      ]
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/06/20/hsbc-holdings-plc-sells-65701-shares-of-pepsico-inc-pep.html",
+      "domain": "dailypolitical.com",
+      "title": "Hsbc Holdings PLC Sells 65 , 701 Shares of PepsiCo , Inc . $PEP",
+      "url": "https://www.dailypolitical.com/2026/06/20/hsbc-holdings-plc-sells-65701-shares-of-pepsico-inc-pep.html",
+      "published_at": "2026-06-20T13:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "dailypolitical.com",
+        "tickerreport.com"
+      ]
+    },
+    {
+      "id": "https://www.tickerreport.com/banking-finance/13482332/mengis-capital-management-inc-acquires-6210-shares-of-pepsico-inc-pep.html",
+      "domain": "tickerreport.com",
+      "title": "Mengis Capital Management Inc . Acquires 6 , 210 Shares of PepsiCo , Inc . $PEP",
+      "url": "https://www.tickerreport.com/banking-finance/13482332/mengis-capital-management-inc-acquires-6210-shares-of-pepsico-inc-pep.html",
+      "published_at": "2026-06-20T13:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "tickerreport.com"
+      ]
+    },
+    {
+      "id": "https://www.santafenewmexican.com/news/local_news/state-requests-more-info-testing-before-approving-lanl-hazardous-waste-permit/article_712b71aa-7494-4102-a43e-2acd42cd10f9.html",
+      "domain": "santafenewmexican.com",
+      "title": "State requests more info , testing before approving LANL hazardous waste permit",
+      "url": "https://www.santafenewmexican.com/news/local_news/state-requests-more-info-testing-before-approving-lanl-hazardous-waste-permit/article_712b71aa-7494-4102-a43e-2acd42cd10f9.html",
+      "published_at": "2026-06-20T13:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/3/7c/37c2919a-8ad2-48c1-b391-6af6a7b5fbf8/6980f7cca7f19.image.jpg?crop=1794%2C942%2C0%2C106",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "santafenewmexican.com"
+      ]
+    },
+    {
+      "id": "https://www.dailypolitical.com/2026/06/20/midfirst-bank-acquires-new-shares-in-pepsico-inc-pep.html",
+      "domain": "dailypolitical.com",
+      "title": "MidFirst Bank Acquires New Shares in PepsiCo , Inc . $PEP",
+      "url": "https://www.dailypolitical.com/2026/06/20/midfirst-bank-acquires-new-shares-in-pepsico-inc-pep.html",
+      "published_at": "2026-06-20T12:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailypolitical.com"
+      ]
+    },
+    {
+      "id": "https://www.jalopnik.com/2194360/is-drinking-water-from-plastic-bottle-left-in-hot-car-dangerous/",
+      "domain": "jalopnik.com",
+      "title": "Is It Dangerous To Drink Water From A Plastic Bottle Left In A Hot Car ? ",
+      "url": "https://www.jalopnik.com/2194360/is-drinking-water-from-plastic-bottle-left-in-hot-car-dangerous/",
+      "published_at": "2026-06-20T11:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.jalopnik.com/img/gallery/is-it-dangerous-to-drink-water-from-a-plastic-bottle-left-in-a-hot-car/l-intro-1781539359.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "jalopnik.com"
+      ]
+    },
     {
       "id": "https://www.altoonamirror.com/life/community/2026/06/across-the-area-779/",
       "domain": "altoonamirror.com",
@@ -143,23 +452,6 @@
       ]
     },
     {
-      "id": "https://www.goodhousekeeping.com/home/cleaning/a71631092/things-you-should-never-put-in-dishwasher/",
-      "domain": "goodhousekeeping.com",
-      "title": "Experts Reveal the Things You Should Never Put in the Dishwasher",
-      "url": "https://www.goodhousekeeping.com/home/cleaning/a71631092/things-you-should-never-put-in-dishwasher/",
-      "published_at": "2026-06-19T20:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/411bdda7-4039-4997-96aa-55eebbb9f16d.jpeg?crop=1.00xw:0.751xh;0,0.249xh",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "goodhousekeeping.com"
-      ]
-    },
-    {
       "id": "https://morningsun.net:443/news/local-news/a-12000-band-aid/",
       "domain": "morningsun.net",
       "title": "  A $12 , 000 Band - Aid  - The Morning Sun",
@@ -174,23 +466,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "morningsun.net"
-      ]
-    },
-    {
-      "id": "https://www.prnewswire.com/news-releases/in-hellonation-plumbing-experts-tim-fessler-and-dave-super-of-jackrabbit-plumbing-address-water-heater-replacement-decisions-302805634.html",
-      "domain": "prnewswire.com",
-      "title": "In HelloNation , Plumbing Experts Tim Fessler and Dave Super of Jackrabbit Plumbing Address Water Heater Replacement Decisions",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-plumbing-experts-tim-fessler-and-dave-super-of-jackrabbit-plumbing-address-water-heater-replacement-decisions-302805634.html",
-      "published_at": "2026-06-19T19:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "prnewswire.com"
       ]
     },
     {
@@ -262,23 +537,6 @@
       ]
     },
     {
-      "id": "https://cen.acs.org/environment/persistent-pollutants/seal-pups-rack-up-pfas-nursing-milk/104/web/2026/06",
-      "domain": "cen.acs.org",
-      "title": "Elephant seal pups rack up PFAS while nursing",
-      "url": "https://cen.acs.org/environment/persistent-pollutants/seal-pups-rack-up-pfas-nursing-milk/104/web/2026/06",
-      "published_at": "2026-06-19T15:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://s7d1.scene7.com/is/image/CENODS/PFAS-passed-down-in-seal-milk---496251:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "cen.acs.org"
-      ]
-    },
-    {
       "id": "https://www.thurstontalk.com/2026/06/19/hazardous-weather-event-declared-for-tuesday-june-23/",
       "domain": "thurstontalk.com",
       "title": "Hazardous Weather Event Declared for Tuesday , June 23",
@@ -293,6 +551,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "thurstontalk.com"
+      ]
+    },
+    {
+      "id": "https://cen.acs.org/environment/persistent-pollutants/seal-pups-rack-up-pfas-nursing-milk/104/web/2026/06",
+      "domain": "cen.acs.org",
+      "title": "Elephant seal pups rack up PFAS while nursing",
+      "url": "https://cen.acs.org/environment/persistent-pollutants/seal-pups-rack-up-pfas-nursing-milk/104/web/2026/06",
+      "published_at": "2026-06-19T15:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://s7d1.scene7.com/is/image/CENODS/PFAS-passed-down-in-seal-milk---496251:Widescreen?$responsive$&qlt=90,0&resMode=sharp2&fmt=webp",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "cen.acs.org"
       ]
     },
     {
@@ -374,7 +649,8 @@
       "source_country": "United States",
       "thumbnail": "http://npr-brightspot.s3.amazonaws.com/ff/d8/87d342584a1cba6ad438413903ff/20260224-eastaustinwater-04.JPG",
       "matched_keywords": [
-        "reverse osmosis"
+        "reverse osmosis",
+        "water softener"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
@@ -623,6 +899,57 @@
       ]
     },
     {
+      "id": "https://www.komu.com/news/midmissourinews/water-discoloration-possible-in-central-columbia-starting-next-week/article_3beb4f14-b316-405e-a411-b2c72bff5a69.html",
+      "domain": "komu.com",
+      "title": "Cloudy , discolored water possible in central Columbia | Mid - Missouri News",
+      "url": "https://www.komu.com/news/midmissourinews/water-discoloration-possible-in-central-columbia-starting-next-week/article_3beb4f14-b316-405e-a411-b2c72bff5a69.html",
+      "published_at": "2026-06-19T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/komu.com/content/tncms/assets/v3/editorial/3/be/3beb4f14-b316-405e-a411-b2c72bff5a69/6a34678344411.preview.jpg?crop=1920%2C1008%2C0%2C35",
+      "matched_keywords": [
+        "water softener"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "komu.com"
+      ]
+    },
+    {
+      "id": "http://www.wyomingnews.com/news/local_news/council-s-finance-committee-advances-20m-request-for-cheyenne-lead-water-line-project/article_f87e4bd0-f467-420e-bc78-e845d78541a9.html",
+      "domain": "wyomingnews.com",
+      "title": "Council Finance Committee advances $20M request for Cheyenne lead water line project | Local News",
+      "url": "http://www.wyomingnews.com/news/local_news/council-s-finance-committee-advances-20m-request-for-cheyenne-lead-water-line-project/article_f87e4bd0-f467-420e-bc78-e845d78541a9.html",
+      "published_at": "2026-06-19T00:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/wyomingnews.com/content/tncms/assets/v3/editorial/2/e0/2e03e801-4ff6-4ca3-9f99-49b490bcd634/69fa61ab27ed3.image.jpg?crop=1878%2C986%2C0%2C59",
+      "matched_keywords": [
+        "lead in water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wyomingnews.com"
+      ]
+    },
+    {
+      "id": "https://www.jalopnik.com/2197095/common-things-to-never-leave-in-hot-car/",
+      "domain": "jalopnik.com",
+      "title": "7 Common Objects That You Might Leave In A Hot Car That You Really Shouldnt",
+      "url": "https://www.jalopnik.com/2197095/common-things-to-never-leave-in-hot-car/",
+      "published_at": "2026-06-19T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.jalopnik.com/img/gallery/7-common-objects-that-you-might-leave-in-a-hot-car-that-you-really-shouldnt/l-intro-1781785990.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "jalopnik.com"
+      ]
+    },
+    {
       "id": "https://www.newsweek.com/these-9-things-are-worse-for-the-environment-than-ai-data-centers-12092268",
       "domain": "newsweek.com",
       "title": "These 9 Things Are Worse for the Environment Than AI Data Centers",
@@ -657,23 +984,6 @@
       ]
     },
     {
-      "id": "https://www.jalopnik.com/2197095/common-things-to-never-leave-in-hot-car/",
-      "domain": "jalopnik.com",
-      "title": "7 Common Objects That You Might Leave In A Hot Car That You Really Shouldnt",
-      "url": "https://www.jalopnik.com/2197095/common-things-to-never-leave-in-hot-car/",
-      "published_at": "2026-06-19T00:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.jalopnik.com/img/gallery/7-common-objects-that-you-might-leave-in-a-hot-car-that-you-really-shouldnt/l-intro-1781785990.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "jalopnik.com"
-      ]
-    },
-    {
       "id": "https://www.wmdt.com/2026/06/dnrec-launches-new-lab/",
       "domain": "wmdt.com",
       "title": "DNREC launches new , state - of - the - art lab",
@@ -689,6 +999,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wmdt.com"
+      ]
+    },
+    {
+      "id": "https://www.effinghamradio.com/2026/06/18/local-businesses-stepping-up-to-help-community-in-time-of-need/",
+      "domain": "effinghamradio.com",
+      "title": "Local Businesses Stepping Up To Help Community In Time Of Need",
+      "url": "https://www.effinghamradio.com/2026/06/18/local-businesses-stepping-up-to-help-community-in-time-of-need/",
+      "published_at": "2026-06-18T22:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/257/files/2021/05/local-news.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "effinghamradio.com"
       ]
     },
     {
@@ -725,23 +1052,6 @@
       "syndicated_domains": [
         "nbcbayarea.com",
         "nbcdfw.com"
-      ]
-    },
-    {
-      "id": "https://www.effinghamradio.com/2026/06/18/local-businesses-stepping-up-to-help-community-in-time-of-need/",
-      "domain": "effinghamradio.com",
-      "title": "Local Businesses Stepping Up To Help Community In Time Of Need",
-      "url": "https://www.effinghamradio.com/2026/06/18/local-businesses-stepping-up-to-help-community-in-time-of-need/",
-      "published_at": "2026-06-18T22:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/257/files/2021/05/local-news.png",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "effinghamradio.com"
       ]
     },
     {
@@ -915,6 +1225,23 @@
       ]
     },
     {
+      "id": "http://www.bignewsnetwork.com/news/279131913/why-your-hair-feels-worse-after-every-wash-and-it-might-not-be-your-shampoo",
+      "domain": "bignewsnetwork.com",
+      "title": "Why Your Hair Feels Worse After Every Wash ( And It Might Not Be Your Shampoo ) ",
+      "url": "http://www.bignewsnetwork.com/news/279131913/why-your-hair-feels-worse-after-every-wash-and-it-might-not-be-your-shampoo",
+      "published_at": "2026-06-18T14:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://image.chitra.live/api/v1/wps/54bee83/05856209-c4f7-4538-ad46-3e8cc460de3b/0/ANI-20260618112543-600x315.jpg",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "bignewsnetwork.com"
+      ]
+    },
+    {
       "id": "https://www.penbaypilot.com:443/article/mainehealth-awarded-11m-nih-grant-research-pediatric-pfas-exposure/271412",
       "domain": "penbaypilot.com",
       "title": "MaineHealth awarded $1 . 1M NIH grant to research pediatric PFAS exposure",
@@ -932,24 +1259,6 @@
       ]
     },
     {
-      "id": "http://www.bignewsnetwork.com/news/279131913/why-your-hair-feels-worse-after-every-wash-and-it-might-not-be-your-shampoo",
-      "domain": "bignewsnetwork.com",
-      "title": "Why Your Hair Feels Worse After Every Wash ( And It Might Not Be Your Shampoo ) ",
-      "url": "http://www.bignewsnetwork.com/news/279131913/why-your-hair-feels-worse-after-every-wash-and-it-might-not-be-your-shampoo",
-      "published_at": "2026-06-18T14:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://image.chitra.live/api/v1/wps/54bee83/05856209-c4f7-4538-ad46-3e8cc460de3b/0/ANI-20260618112543-600x315.jpg",
-      "matched_keywords": [
-        "hard water",
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "bignewsnetwork.com"
-      ]
-    },
-    {
       "id": "https://www.themarketsdaily.com/2026/06/18/infrastructure-capital-advisors-llc-has-412000-position-in-cocacola-company-the-ko.html",
       "domain": "themarketsdaily.com",
       "title": "Infrastructure Capital Advisors LLC Has $412 , 000 Position in CocaCola Company ( The ) $KO",
@@ -964,6 +1273,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "themarketsdaily.com"
+      ]
+    },
+    {
+      "id": "https://www.prnewswire.com/news-releases/goldfish-swim-school-celebrates-fathers-day-by-helping-dads-and-babies-connect-in-the-water-with-new-dads--minis-program-302803798.html",
+      "domain": "prnewswire.com",
+      "title": "GOLDFISH SWIM SCHOOL CELEBRATES FATHER DAY BY HELPING DADS AND BABIES CONNECT IN THE WATER WITH NEW  DADS & MINI PROGRAM",
+      "url": "https://www.prnewswire.com/news-releases/goldfish-swim-school-celebrates-fathers-day-by-helping-dads-and-babies-connect-in-the-water-with-new-dads--minis-program-302803798.html",
+      "published_at": "2026-06-18T13:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "lead in water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "prnewswire.com"
       ]
     },
     {
@@ -1069,23 +1395,6 @@
       ]
     },
     {
-      "id": "https://www.rollingstone.com/tv-movies/tv-movie-news/las-culturistas-culture-awards-2026-winners-list-1235577553/",
-      "domain": "rollingstone.com",
-      "title": "Las Culturistas Culture Awards 2026 : See the Winners List",
-      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/las-culturistas-culture-awards-2026-winners-list-1235577553/",
-      "published_at": "2026-06-18T06:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2026/06/las-culturistas-winners-list.jpg?crop=0px%2C32px%2C1800px%2C1014px",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "rollingstone.com"
-      ]
-    },
-    {
       "id": "https://www.lockhaven.com/opinion/columns/2026/06/parkinsons-patient-gets-mixed-advice-on-surgery-for-cancer/",
       "domain": "lockhaven.com",
       "title": "Parkinson patient gets mixed advice on surgery for cancer | News , Sports , Jobs",
@@ -1101,6 +1410,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "lockhaven.com"
+      ]
+    },
+    {
+      "id": "https://www.rollingstone.com/tv-movies/tv-movie-news/las-culturistas-culture-awards-2026-winners-list-1235577553/",
+      "domain": "rollingstone.com",
+      "title": "Las Culturistas Culture Awards 2026 : See the Winners List",
+      "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/las-culturistas-culture-awards-2026-winners-list-1235577553/",
+      "published_at": "2026-06-18T06:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.rollingstone.com/wp-content/uploads/2026/06/las-culturistas-winners-list.jpg?crop=0px%2C32px%2C1800px%2C1014px",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "rollingstone.com"
       ]
     },
     {
@@ -1220,23 +1546,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "newsminer.com"
-      ]
-    },
-    {
-      "id": "https://www.seattletimes.com/seattle-news/yakama-nation-elder-secret-sauce-for-columbia-river-impasses-dies/",
-      "domain": "seattletimes.com",
-      "title": "Yakama Nation elder ,  secret sauce  for Columbia River impasses , dies",
-      "url": "https://www.seattletimes.com/seattle-news/yakama-nation-elder-secret-sauce-for-columbia-river-impasses-dies/",
-      "published_at": "2026-06-18T02:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.seattletimes.com/wp-content/themes/st_refresh/img/st-meta-facebook.png",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "seattletimes.com"
       ]
     },
     {
@@ -1411,6 +1720,23 @@
       ]
     },
     {
+      "id": "https://www.dailygazette.com/the_recorder/the_recorder/news/amsterdam/amsterdam-lead-water-lines/article_be014a76-3fe9-4de4-8f76-9595b1431bcc.html",
+      "domain": "dailygazette.com",
+      "title": "Amsterdam seeks bids to replace lead water lines | Amsterdam",
+      "url": "https://www.dailygazette.com/the_recorder/the_recorder/news/amsterdam/amsterdam-lead-water-lines/article_be014a76-3fe9-4de4-8f76-9595b1431bcc.html",
+      "published_at": "2026-06-17T20:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/4/8f/48f78e49-e381-45fb-aad8-cba2770d78f9/65398708ac24b.image.jpg?crop=845%2C444%2C0%2C12",
+      "matched_keywords": [
+        "lead in water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailygazette.com"
+      ]
+    },
+    {
       "id": "https://www.qgazette.com/articles/i-on-politics-497/",
       "domain": "qgazette.com",
       "title": "I On Politics - Queens Gazette",
@@ -1482,6 +1808,23 @@
       ]
     },
     {
+      "id": "https://tucson.com/life-entertainment/local/home-gardening/collection_3182cc08-f272-5a35-ba77-fa4f990a3594.html",
+      "domain": "tucson.com",
+      "title": "Newly Listed Homes near Sahuarita , AZ Updated Jun . 17 , 2026",
+      "url": "https://tucson.com/life-entertainment/local/home-gardening/collection_3182cc08-f272-5a35-ba77-fa4f990a3594.html",
+      "published_at": "2026-06-17T16:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/3/18/3182cc08-f272-5a35-ba77-fa4f990a3594/6a322a65eb0ad.preview.jpg?crop=1890%2C1063%2C29%2C0",
+      "matched_keywords": [
+        "water softener"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "tucson.com"
+      ]
+    },
+    {
       "id": "https://www.kcbd.com/2026/06/17/open-door-community-center-open-cooling-station-those-seeking-refuge-extreme-heat/",
       "domain": "kcbd.com",
       "title": "Open Door Community Center open as cooling station for those seeking refuge from extreme heat",
@@ -1497,23 +1840,6 @@
       "syndicated_domains": [
         "fox34.com",
         "kcbd.com"
-      ]
-    },
-    {
-      "id": "https://www.themarketsdaily.com/2026/06/17/analyzing-374water-nasdaqscwo-and-smart-powerr-nasdaqcreg.html",
-      "domain": "themarketsdaily.com",
-      "title": "Analyzing 374Water ( NASDAQ : SCWO ) and Smart Powerr ( NASDAQ : CREG ) ",
-      "url": "https://www.themarketsdaily.com/2026/06/17/analyzing-374water-nasdaqscwo-and-smart-powerr-nasdaqcreg.html",
-      "published_at": "2026-06-17T14:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "themarketsdaily.com"
       ]
     },
     {
@@ -1535,20 +1861,20 @@
       ]
     },
     {
-      "id": "https://speedwaymedia.com/2026/06/17/the-complete-car-owners-guide-to-keeping-your-vehicle-looking-its-best/",
-      "domain": "speedwaymedia.com",
-      "title": "The Complete Car Owner Guide to Keeping Your Vehicle Looking Its Best",
-      "url": "https://speedwaymedia.com/2026/06/17/the-complete-car-owners-guide-to-keeping-your-vehicle-looking-its-best/",
-      "published_at": "2026-06-17T14:30:00+00:00",
+      "id": "https://www.themarketsdaily.com/2026/06/17/analyzing-374water-nasdaqscwo-and-smart-powerr-nasdaqcreg.html",
+      "domain": "themarketsdaily.com",
+      "title": "Analyzing 374Water ( NASDAQ : SCWO ) and Smart Powerr ( NASDAQ : CREG ) ",
+      "url": "https://www.themarketsdaily.com/2026/06/17/analyzing-374water-nasdaqscwo-and-smart-powerr-nasdaqcreg.html",
+      "published_at": "2026-06-17T14:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://speedwaymedia.com/wp-content/uploads/2026/06/The-Complete-Car-Owners-Guide-to-Keeping-Your-Vehicle-Looking-Its-Best.jpg",
+      "thumbnail": "",
       "matched_keywords": [
-        "hard water"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "speedwaymedia.com"
+        "themarketsdaily.com"
       ]
     },
     {
@@ -1569,23 +1895,6 @@
       ]
     },
     {
-      "id": "https://www.mcall.com/2026/06/17/pfas-has-been-found-in-delaware-river-water-wildlife-why-this-matters/",
-      "domain": "mcall.com",
-      "title": "PFAS found in Delaware River water , wildlife , study says",
-      "url": "https://www.mcall.com/2026/06/17/pfas-has-been-found-in-delaware-river-water-wildlife-why-this-matters/",
-      "published_at": "2026-06-17T13:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.mcall.com/wp-content/uploads/2026/06/TMC-L-lowermountbethel1-XXXX29-1.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "mcall.com"
-      ]
-    },
-    {
       "id": "https://www.tickerreport.com/banking-finance/13478733/siemens-fonds-invest-gmbh-has-7-16-million-stock-position-in-pepsico-inc-pep.html",
       "domain": "tickerreport.com",
       "title": "Siemens Fonds Invest GmbH Has $7 . 16 Million Stock Position in PepsiCo , Inc . $PEP",
@@ -1600,6 +1909,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "tickerreport.com"
+      ]
+    },
+    {
+      "id": "https://www.mcall.com/2026/06/17/pfas-has-been-found-in-delaware-river-water-wildlife-why-this-matters/",
+      "domain": "mcall.com",
+      "title": "PFAS found in Delaware River water , wildlife , study says",
+      "url": "https://www.mcall.com/2026/06/17/pfas-has-been-found-in-delaware-river-water-wildlife-why-this-matters/",
+      "published_at": "2026-06-17T13:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.mcall.com/wp-content/uploads/2026/06/TMC-L-lowermountbethel1-XXXX29-1.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mcall.com"
       ]
     },
     {
@@ -1638,23 +1964,6 @@
       ]
     },
     {
-      "id": "https://www.businessinsider.com/guides/kitchen/ninja-crispi-pro-review",
-      "domain": "businessinsider.com",
-      "title": "Ninja Crispi Pro Review : a Glass Air Fryer That Makes Food Perfectly Crisp",
-      "url": "https://www.businessinsider.com/guides/kitchen/ninja-crispi-pro-review",
-      "published_at": "2026-06-17T10:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://i.insider.com/6a3181dde826bfa433d6e8d8?&format=jpeg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "businessinsider.com"
-      ]
-    },
-    {
       "id": "https://www.tickerreport.com/banking-finance/13478173/one-rock-capital-partners-llc-buys-new-position-in-primo-brands-corporation-prmb.html",
       "domain": "tickerreport.com",
       "title": "One Rock Capital Partners LLC Buys New Position in Primo Brands Corporation $PRMB",
@@ -1669,6 +1978,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "tickerreport.com"
+      ]
+    },
+    {
+      "id": "https://www.businessinsider.com/guides/kitchen/ninja-crispi-pro-review",
+      "domain": "businessinsider.com",
+      "title": "Ninja Crispi Pro Review : a Glass Air Fryer That Makes Food Perfectly Crisp",
+      "url": "https://www.businessinsider.com/guides/kitchen/ninja-crispi-pro-review",
+      "published_at": "2026-06-17T10:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i.insider.com/6a3181dde826bfa433d6e8d8?&format=jpeg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "businessinsider.com"
       ]
     },
     {
@@ -1689,23 +2015,6 @@
       ]
     },
     {
-      "id": "https://www.themarketsdaily.com/2026/06/17/cocacola-company-the-ko-shares-sold-by-blair-william-co-il.html",
-      "domain": "themarketsdaily.com",
-      "title": "CocaCola Company ( The ) $KO Shares Sold by Blair William & Co . IL",
-      "url": "https://www.themarketsdaily.com/2026/06/17/cocacola-company-the-ko-shares-sold-by-blair-william-co-il.html",
-      "published_at": "2026-06-17T08:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "themarketsdaily.com"
-      ]
-    },
-    {
       "id": "http://www.averyjournal.com/online_features/health_and_wellness/5-must-haves-for-pumping-moms-this-gear-actually-helps/article_64ea2653-4a97-51a0-9991-e7c9345fa8da.html",
       "domain": "averyjournal.com",
       "title": "5 Must - Haves for Pumping Moms : This Gear Actually Helps",
@@ -1715,7 +2024,7 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.chicago2.vip.townnews.com/averyjournal.com/content/tncms/assets/v3/editorial/9/fe/9fe63638-b03d-5bfa-bf76-d49a9e6dfb54/6a3240314c03a.image.jpg?crop=1280%2C672%2C0%2C23",
       "matched_keywords": [
-        "hard water"
+        "water softener"
       ],
       "syndicated_count": 14,
       "syndicated_domains": [
@@ -1838,40 +2147,6 @@
       ]
     },
     {
-      "id": "https://www.wivk.com/2026/06/16/water-system-flushing-underway-as-hallsdale-powell-addresses-discoloration-issues/",
-      "domain": "wivk.com",
-      "title": "Water System Flushing Underway as Hallsdale - Powell Addresses Discoloration Issues",
-      "url": "https://www.wivk.com/2026/06/16/water-system-flushing-underway-as-hallsdale-powell-addresses-discoloration-issues/",
-      "published_at": "2026-06-17T01:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3617/files/2026/06/screenshot-1643.png",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wivk.com"
-      ]
-    },
-    {
-      "id": "https://www.consumerreports.org/home-garden/cleaning/best-shower-cleaners-a9345571460/",
-      "domain": "consumerreports.org",
-      "title": "6 Best Shower Cleaners , Tested and Reviewed - Consumer Reports",
-      "url": "https://www.consumerreports.org/home-garden/cleaning/best-shower-cleaners-a9345571460/",
-      "published_at": "2026-06-17T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://article.images.consumerreports.org/image/upload/t_article_tout/v1780416515/prod/content/dam/CRO-images-2026/Rapid%20Response/CR-RR-InlineHero-Shower-Cleaners-6-26",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "consumerreports.org"
-      ]
-    },
-    {
       "id": "https://1027kord.com/ixp/136/p/vista-field-development-to-resume/",
       "domain": "1027kord.com",
       "title": "Vista Field to Resume Development Immediately",
@@ -1957,23 +2232,6 @@
       "syndicated_count": 2,
       "syndicated_domains": [
         "gdnonline.com"
-      ]
-    },
-    {
-      "id": "https://news4sanantonio.com/sa-living/mike-holmes-shares-how-hard-water-impacts-your-homeand-what-you-can-do-about-it",
-      "domain": "news4sanantonio.com",
-      "title": "Mike Holmes shares how hard water impacts your home and what you can do about it",
-      "url": "https://news4sanantonio.com/sa-living/mike-holmes-shares-how-hard-water-impacts-your-homeand-what-you-can-do-about-it",
-      "published_at": "2026-06-16T21:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://news4sanantonio.com/resources/media2/16x9/1280/1320/center/90/abd8566e-960b-4416-90e1-81ddde25ce24-vlcsnap2026061614h44m53s039.png",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "news4sanantonio.com"
       ]
     },
     {
@@ -2080,23 +2338,6 @@
       ]
     },
     {
-      "id": "https://www.tahoedailytribune.com/news/south-lake-tahoe-planning-commission-discusses-tahoe-keys-marina-redevelopment-project-moves-forward/",
-      "domain": "tahoedailytribune.com",
-      "title": "South Lake Tahoe Planning Commission discusses Tahoe Keys Marina redevelopment project , moves forward",
-      "url": "https://www.tahoedailytribune.com/news/south-lake-tahoe-planning-commission-discusses-tahoe-keys-marina-redevelopment-project-moves-forward/",
-      "published_at": "2026-06-16T17:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://swiftmedia.s3.amazonaws.com/pacific.swiftcom.com/images/sites/5/2026/06/15172337/Screenshot_2026-06-15_at_4.15.21%E2%80%AFPM-1024x576.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tahoedailytribune.com"
-      ]
-    },
-    {
       "id": "https://theintercept.com/2026/06/15/child-abuse-army-daycare-military-pete-hegseth/",
       "domain": "theintercept.com",
       "title": "She Trusted Pete Hegseth Until the Military Covered Up Child Abuse",
@@ -2114,41 +2355,20 @@
       ]
     },
     {
-      "id": "https://www.delcotimes.com/2026/06/16/coleman-inflatable-hot-tub-vs-intex-inflatable-hot-tub/",
-      "domain": "delcotimes.com",
-      "title": "Coleman inflatable hot tub vs . Intex inflatable hot tub",
-      "url": "https://www.delcotimes.com/2026/06/16/coleman-inflatable-hot-tub-vs-intex-inflatable-hot-tub/",
-      "published_at": "2026-06-16T14:45:00+00:00",
+      "id": "https://www.tahoedailytribune.com/news/south-lake-tahoe-planning-commission-discusses-tahoe-keys-marina-redevelopment-project-moves-forward/",
+      "domain": "tahoedailytribune.com",
+      "title": "South Lake Tahoe Planning Commission discusses Tahoe Keys Marina redevelopment project , moves forward",
+      "url": "https://www.tahoedailytribune.com/news/south-lake-tahoe-planning-commission-discusses-tahoe-keys-marina-redevelopment-project-moves-forward/",
+      "published_at": "2026-06-16T17:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.delcotimes.com/wp-content/uploads/2026/06/coleman-inflatable-hot-tub-vs-intex-inflatable-hot-tub-ad133b-ce57a3.jpg",
+      "thumbnail": "https://swiftmedia.s3.amazonaws.com/pacific.swiftcom.com/images/sites/5/2026/06/15172337/Screenshot_2026-06-15_at_4.15.21%E2%80%AFPM-1024x576.png",
       "matched_keywords": [
-        "hard water"
+        "microplastics"
       ],
-      "syndicated_count": 22,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "broomfieldenterprise.com",
-        "canoncitydailyrecord.com",
-        "dailybulletin.com",
-        "dailylocal.com",
-        "dailynews.com",
-        "delcotimes.com",
-        "eastbaytimes.com",
-        "eptrail.com",
-        "fortmorgantimes.com",
-        "journal-advocate.com",
-        "ocregister.com",
-        "oneidadispatch.com",
-        "pressdemocrat.com",
-        "redbluffdailynews.com",
-        "santacruzsentinel.com",
-        "saratogian.com",
-        "sonomanews.com",
-        "thereporteronline.com",
-        "thetimes-tribune.com",
-        "troyrecord.com",
-        "twincities.com",
-        "ukiahdailyjournal.com"
+        "tahoedailytribune.com"
       ]
     },
     {
@@ -2183,23 +2403,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "ideastream.org"
-      ]
-    },
-    {
-      "id": "https://www.tomsguide.com/home/the-laundry-secret-for-spa-like-fluffy-towels-and-all-it-takes-is-one-cheap-household-staple",
-      "domain": "tomsguide.com",
-      "title": "The laundry secret for spa - like , fluffy towels and all it takes is one cheap household staple",
-      "url": "https://www.tomsguide.com/home/the-laundry-secret-for-spa-like-fluffy-towels-and-all-it-takes-is-one-cheap-household-staple",
-      "published_at": "2026-06-16T13:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/ZwoAM2M8QNZvSdLLt4gAnd-2560-80.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tomsguide.com"
       ]
     },
     {
@@ -2316,8 +2519,7 @@
       "source_country": "United States",
       "thumbnail": "https://www.cuindependent.com/wp-content/uploads/2025/09/Does-Hard-Water-Harm-Your-Hair-and-Scalp-What-to-Do.png",
       "matched_keywords": [
-        "bottled water",
-        "hard water"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
@@ -2410,23 +2612,6 @@
       ]
     },
     {
-      "id": "https://www.wtvy.com/2026/06/16/epa-proposes-rollback-pfas-drinking-water-protections/",
-      "domain": "wtvy.com",
-      "title": "EPA proposes rollback of PFAS drinking water protections",
-      "url": "https://www.wtvy.com/2026/06/16/epa-proposes-rollback-pfas-drinking-water-protections/",
-      "published_at": "2026-06-16T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://gray-wtvy-prod.gtv-cdn.com/resizer/v2/YNJKVQDJQRAVHBOTAUZ2XVY63U.jpg?auth=ad9f75c845cd1c356d579b511260dbf6efed6e480b01820390f6944c4b1dd769&smart=true",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wtvy.com"
-      ]
-    },
-    {
       "id": "https://www.kwch.com/2026/06/15/boil-water-advisory-issued-city-burden/",
       "domain": "kwch.com",
       "title": "Boil water advisory issued for City of Burden",
@@ -2441,6 +2626,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "kwch.com"
+      ]
+    },
+    {
+      "id": "https://www.wtvy.com/2026/06/16/epa-proposes-rollback-pfas-drinking-water-protections/",
+      "domain": "wtvy.com",
+      "title": "EPA proposes rollback of PFAS drinking water protections",
+      "url": "https://www.wtvy.com/2026/06/16/epa-proposes-rollback-pfas-drinking-water-protections/",
+      "published_at": "2026-06-16T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wtvy-prod.gtv-cdn.com/resizer/v2/YNJKVQDJQRAVHBOTAUZ2XVY63U.jpg?auth=ad9f75c845cd1c356d579b511260dbf6efed6e480b01820390f6944c4b1dd769&smart=true",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wtvy.com"
       ]
     },
     {
@@ -2639,23 +2841,6 @@
       ]
     },
     {
-      "id": "https://www.wxxinews.org/show/connections/2026-06-15/whats-the-big-deal-about-microplastics",
-      "domain": "wxxinews.org",
-      "title": "What the big deal about microplastics ? ",
-      "url": "https://www.wxxinews.org/show/connections/2026-06-15/whats-the-big-deal-about-microplastics",
-      "published_at": "2026-06-15T19:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/46/7d/98abfec445e39fb30f2228297695/image-2026-06-15t130741-529.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wxxinews.org"
-      ]
-    },
-    {
       "id": "https://www.cocoecomag.com/post/sustainable-summer-essentials",
       "domain": "cocoecomag.com",
       "title": "Sustainable Summer Essentials",
@@ -2673,37 +2858,20 @@
       ]
     },
     {
-      "id": "https://abc30.com/post/janitorial-monster-wants-add-more-sparkle-home/14541232/",
-      "domain": "abc30.com",
-      "title": "Janitorial Monster wants to add more sparkle to your home",
-      "url": "https://abc30.com/post/janitorial-monster-wants-add-more-sparkle-home/14541232/",
-      "published_at": "2026-06-15T18:45:00+00:00",
+      "id": "https://www.wxxinews.org/show/connections/2026-06-15/whats-the-big-deal-about-microplastics",
+      "domain": "wxxinews.org",
+      "title": "What the big deal about microplastics ? ",
+      "url": "https://www.wxxinews.org/show/connections/2026-06-15/whats-the-big-deal-about-microplastics",
+      "published_at": "2026-06-15T19:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://cdn.abcotvs.com/dip/images/18494979_012826-kfsn-streaming-generic-img.png",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "abc30.com"
-      ]
-    },
-    {
-      "id": "https://alaska-native-news.com/addressing-marine-debris-and-harmful-algal-blooms/84562/",
-      "domain": "alaska-native-news.com",
-      "title": "Addressing marine debris and harmful algal blooms",
-      "url": "https://alaska-native-news.com/addressing-marine-debris-and-harmful-algal-blooms/84562/",
-      "published_at": "2026-06-15T16:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://alaska-native-news.com/wp-content/uploads/debris.jpg",
+      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/46/7d/98abfec445e39fb30f2228297695/image-2026-06-15t130741-529.jpg",
       "matched_keywords": [
         "microplastics"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "alaska-native-news.com"
+        "wxxinews.org"
       ]
     },
     {
@@ -2721,6 +2889,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wftv.com"
+      ]
+    },
+    {
+      "id": "https://alaska-native-news.com/addressing-marine-debris-and-harmful-algal-blooms/84562/",
+      "domain": "alaska-native-news.com",
+      "title": "Addressing marine debris and harmful algal blooms",
+      "url": "https://alaska-native-news.com/addressing-marine-debris-and-harmful-algal-blooms/84562/",
+      "published_at": "2026-06-15T16:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://alaska-native-news.com/wp-content/uploads/debris.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "alaska-native-news.com"
       ]
     },
     {
@@ -2763,24 +2948,6 @@
       ]
     },
     {
-      "id": "https://www.foodnavigator-usa.com/Article/2026/06/12/microplastics-6-ways-to-keep-them-out-of-food-and-drink/",
-      "domain": "foodnavigator-usa.com",
-      "title": "Microplastics : 6 ways to keep them out of food and drink",
-      "url": "https://www.foodnavigator-usa.com/Article/2026/06/12/microplastics-6-ways-to-keep-them-out-of-food-and-drink/",
-      "published_at": "2026-06-15T15:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.foodnavigator-usa.com/resizer/v2/R5W2XZA7VBFYNNTAFJZO2OB5PA.jpg?auth=58602ad3ba018ad105266b763950c96b63ddd6accfa3016a63542aa131028ff0&smart=true",
-      "matched_keywords": [
-        "microplastics",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "foodnavigator-usa.com"
-      ]
-    },
-    {
       "id": "https://www.hospitalitynet.org/news/4132988/niq-and-ahla-reveal-scale-of-beverage-growth-opportunities-in-us-hotels",
       "domain": "hospitalitynet.org",
       "title": "NIQ and AHLA reveal scale of beverage growth opportunities in U . S . hotels",
@@ -2798,20 +2965,21 @@
       ]
     },
     {
-      "id": "https://www.minnpost.com/mnopedia/2026/06/the-deformed-frogs-of-le-sueur-county/",
-      "domain": "minnpost.com",
-      "title": "The Deformed Frogs of Le Sueur County",
-      "url": "https://www.minnpost.com/mnopedia/2026/06/the-deformed-frogs-of-le-sueur-county/",
+      "id": "https://www.foodnavigator-usa.com/Article/2026/06/12/microplastics-6-ways-to-keep-them-out-of-food-and-drink/",
+      "domain": "foodnavigator-usa.com",
+      "title": "Microplastics : 6 ways to keep them out of food and drink",
+      "url": "https://www.foodnavigator-usa.com/Article/2026/06/12/microplastics-6-ways-to-keep-them-out-of-food-and-drink/",
       "published_at": "2026-06-15T15:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.minnpost.com/wp-content/uploads/2026/06/Northern_leopard_frog_with_missing_limb._10820607003.jpg",
+      "thumbnail": "https://www.foodnavigator-usa.com/resizer/v2/R5W2XZA7VBFYNNTAFJZO2OB5PA.jpg?auth=58602ad3ba018ad105266b763950c96b63ddd6accfa3016a63542aa131028ff0&smart=true",
       "matched_keywords": [
-        "hard water"
+        "microplastics",
+        "reverse osmosis"
       ],
-      "syndicated_count": 2,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "minnpost.com"
+        "foodnavigator-usa.com"
       ]
     },
     {
@@ -2832,23 +3000,6 @@
       ]
     },
     {
-      "id": "https://www.naturalnews.com/2026-06-15-common-fungicides-berries-fruit-trees-oxidative-stress.html",
-      "domain": "naturalnews.com",
-      "title": "The silent trigger : How common fungicides on berries and fruit trees are fueling oxidative stress and disease \u2013 NaturalNews . com",
-      "url": "https://www.naturalnews.com/2026-06-15-common-fungicides-berries-fruit-trees-oxidative-stress.html",
-      "published_at": "2026-06-15T13:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Weed-insecticide-fumigation-1.jpeg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "naturalnews.com"
-      ]
-    },
-    {
       "id": "https://www.naturalnews.com/2026-06-15-dementia-risk-linked-nitrate-sources-diet-water.html",
       "domain": "naturalnews.com",
       "title": "Study : Dementia Risk Linked to Nitrate Sources in Diet and Drinking Water \u2013 NaturalNews . com",
@@ -2863,57 +3014,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "naturalnews.com"
-      ]
-    },
-    {
-      "id": "https://spacedaily.com/d-above-26000-feet-on-mount-everest-in-the-death-zone-where-the-air-contains-roughly-one-third-the-oxygen-of-sea-level-climate-change-is-melting-the-ice-that-has-buried-more-than-20/",
-      "domain": "spacedaily.com",
-      "title": "Above 26 , 000 feet on Mount Everest in the death zone where the air contains roughly one - third the oxygen of sea level climate change is melting the ice that has buried more than 200 frozen climbers , and Nepali army teams recovering them in 2024 ...",
-      "url": "https://spacedaily.com/d-above-26000-feet-on-mount-everest-in-the-death-zone-where-the-air-contains-roughly-one-third-the-oxygen-of-sea-level-climate-change-is-melting-the-ice-that-has-buried-more-than-20/",
-      "published_at": "2026-06-15T13:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-15T134313.048.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "spacedaily.com"
-      ]
-    },
-    {
-      "id": "https://www.naturalnews.com/2026-06-15-study-bile-acts-reservoir-microplastics-in-humans.html",
-      "domain": "naturalnews.com",
-      "title": "Study : Bile Acts as Reservoir for Microplastics in Humans \u2013 NaturalNews . com",
-      "url": "https://www.naturalnews.com/2026-06-15-study-bile-acts-reservoir-microplastics-in-humans.html",
-      "published_at": "2026-06-15T13:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/microplastics-bile-gallbladder-2058-original.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "naturalnews.com"
-      ]
-    },
-    {
-      "id": "https://spacedaily.com/d-the-average-human-brain-now-contains-roughly-a-plastic-spoons-worth-of-microplastic-particles-about-50-percent-more-than-brains-collected-in-2016-according-to-a-february-2025-stud/",
-      "domain": "spacedaily.com",
-      "title": "The average human brain now contains roughly a plastic spoon worth of microplastic particles about 50 percent more than brains collected in 2016 according to a February 2025 study in Nature Medicine , meaning the blood - brain barrier , which evoluti...",
-      "url": "https://spacedaily.com/d-the-average-human-brain-now-contains-roughly-a-plastic-spoons-worth-of-microplastic-particles-about-50-percent-more-than-brains-collected-in-2016-according-to-a-february-2025-stud/",
-      "published_at": "2026-06-15T13:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-15T104151.419.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "spacedaily.com"
       ]
     },
     {
@@ -2949,6 +3049,57 @@
       ]
     },
     {
+      "id": "https://www.naturalnews.com/2026-06-15-common-fungicides-berries-fruit-trees-oxidative-stress.html",
+      "domain": "naturalnews.com",
+      "title": "The silent trigger : How common fungicides on berries and fruit trees are fueling oxidative stress and disease \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-06-15-common-fungicides-berries-fruit-trees-oxidative-stress.html",
+      "published_at": "2026-06-15T13:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/Weed-insecticide-fumigation-1.jpeg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "naturalnews.com"
+      ]
+    },
+    {
+      "id": "https://spacedaily.com/d-above-26000-feet-on-mount-everest-in-the-death-zone-where-the-air-contains-roughly-one-third-the-oxygen-of-sea-level-climate-change-is-melting-the-ice-that-has-buried-more-than-20/",
+      "domain": "spacedaily.com",
+      "title": "Above 26 , 000 feet on Mount Everest in the death zone where the air contains roughly one - third the oxygen of sea level climate change is melting the ice that has buried more than 200 frozen climbers , and Nepali army teams recovering them in 2024 ...",
+      "url": "https://spacedaily.com/d-above-26000-feet-on-mount-everest-in-the-death-zone-where-the-air-contains-roughly-one-third-the-oxygen-of-sea-level-climate-change-is-melting-the-ice-that-has-buried-more-than-20/",
+      "published_at": "2026-06-15T13:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-15T134313.048.png",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "spacedaily.com"
+      ]
+    },
+    {
+      "id": "https://spacedaily.com/d-the-average-human-brain-now-contains-roughly-a-plastic-spoons-worth-of-microplastic-particles-about-50-percent-more-than-brains-collected-in-2016-according-to-a-february-2025-stud/",
+      "domain": "spacedaily.com",
+      "title": "The average human brain now contains roughly a plastic spoon worth of microplastic particles about 50 percent more than brains collected in 2016 according to a February 2025 study in Nature Medicine , meaning the blood - brain barrier , which evoluti...",
+      "url": "https://spacedaily.com/d-the-average-human-brain-now-contains-roughly-a-plastic-spoons-worth-of-microplastic-particles-about-50-percent-more-than-brains-collected-in-2016-according-to-a-february-2025-stud/",
+      "published_at": "2026-06-15T13:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://spacedaily.com/wp-content/uploads/2026/06/Posts-1600840-2026-06-15T104151.419.png",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "spacedaily.com"
+      ]
+    },
+    {
       "id": "https://www.hobartpulp.com/web_features/bimbo-royalty",
       "domain": "hobartpulp.com",
       "title": "Hobart :: Bimbo Royalty by Ava Hennen",
@@ -2963,23 +3114,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "hobartpulp.com"
-      ]
-    },
-    {
-      "id": "https://www.wsbtv.com/news/local/fifa-world-cup-2026-atlanta-stadium-guide/L2MBG4FWYRGG7I7Q7XLZBEI5RM/",
-      "domain": "wsbtv.com",
-      "title": "Atlanta Stadium : World Cup tickets , parking and MARTA , concession prices - WSB - TV Channel 2",
-      "url": "https://www.wsbtv.com/news/local/fifa-world-cup-2026-atlanta-stadium-guide/L2MBG4FWYRGG7I7Q7XLZBEI5RM/",
-      "published_at": "2026-06-15T12:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FSUGWOHK4QBAXHM6RZJU7DROVPM.jpeg?auth=c07a0bf3be1ef70fb214c170deecfc1c72cd3ac34a80eb67218b07e7ac9bdb3f&smart=true",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wsbtv.com"
       ]
     },
     {
@@ -3068,23 +3202,6 @@
       ]
     },
     {
-      "id": "https://wimz.com/2026/06/15/common-causes-of-low-water-pressure-and-how-to-fix-them/",
-      "domain": "wimz.com",
-      "title": "Common Causes of Low Water Pressure and How to Fix Them",
-      "url": "https://wimz.com/2026/06/15/common-causes-of-low-water-pressure-and-how-to-fix-them/",
-      "published_at": "2026-06-15T05:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2534/files/2025/11/hep-thumb.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wimz.com"
-      ]
-    },
-    {
       "id": "https://www.texarkanagazette.com/news/2026/jun/14/the-hidden-costs-of-moving-into-a-new-home-and/",
       "domain": "texarkanagazette.com",
       "title": "The hidden costs of moving into a new home , and how to avoid them",
@@ -3094,7 +3211,7 @@
       "source_country": "United States",
       "thumbnail": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/06/14/213032120_44165701_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
       "matched_keywords": [
-        "hard water"
+        "water softener"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
@@ -3201,312 +3318,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "tickerreport.com"
-      ]
-    },
-    {
-      "id": "https://www.livescience.com/health/food-drink/do-you-really-have-to-wash-rice-before-you-cook-it",
-      "domain": "livescience.com",
-      "title": "Do you really have to wash rice before you cook it ? ",
-      "url": "https://www.livescience.com/health/food-drink/do-you-really-have-to-wash-rice-before-you-cook-it",
-      "published_at": "2026-06-14T09:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Crf7pKR8TMNikaVAMikwyG-1920-80.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "livescience.com"
-      ]
-    },
-    {
-      "id": "https://cdapress.com/news/2026/jun/14/our-gem-youth-water-summit-recognizes-2026-student-leaders/",
-      "domain": "cdapress.com",
-      "title": "OUR GEM : Youth Water Summit recognizes 2026 student leaders",
-      "url": "https://cdapress.com/news/2026/jun/14/our-gem-youth-water-summit-recognizes-2026-student-leaders/",
-      "published_at": "2026-06-14T09:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://hagadone.media.clients.ellingtoncms.com/img/photos/2026/06/12/BioCharApplication_t1200x1200.jpg?89991875fe57e095a7a6851653f0e1c1091b3037",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "cdapress.com"
-      ]
-    },
-    {
-      "id": "https://www.komando.com/tips/money/that-tip-screen-showing-you-25-35-50-it-was-engineered-to-make-you-flinch/",
-      "domain": "komando.com",
-      "title": "That tip screen showing you 25 %, 35 %, 50 %? It was engineered to make you flinch . ",
-      "url": "https://www.komando.com/tips/money/that-tip-screen-showing-you-25-35-50-it-was-engineered-to-make-you-flinch/",
-      "published_at": "2026-06-14T09:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.komando.com/wp-content/uploads/2026/06/tip_screen.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "komando.com"
-      ]
-    },
-    {
-      "id": "https://www.akronnewsreporter.com/2026/05/06/uc-irvine-study-reveals-potential-link-between-forever-chemicals-and-childhood-leukemia/",
-      "domain": "akronnewsreporter.com",
-      "title": "Study reveals potential link between  forever chemical and childhood leukemia \u2013 Akron News - Reporter",
-      "url": "https://www.akronnewsreporter.com/2026/05/06/uc-irvine-study-reveals-potential-link-between-forever-chemicals-and-childhood-leukemia/",
-      "published_at": "2026-06-14T07:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.akronnewsreporter.com/wp-content/uploads/2026/05/Be_Well-Older_Moms_19553.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "akronnewsreporter.com"
-      ]
-    },
-    {
-      "id": "https://wsbt.com/news/local/more-than-a-thousand-sturgis-residents-left-without-power-after-storm",
-      "domain": "wsbt.com",
-      "title": "More than a thousand Sturgis residents left without power after storm",
-      "url": "https://wsbt.com/news/local/more-than-a-thousand-sturgis-residents-left-without-power-after-storm",
-      "published_at": "2026-06-14T05:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wsbt.com/resources/media2/16x9/1920/1320/center/90/88520e5f-afb1-4909-a578-856f60be2452-SturgisdamageandnopowerAB.0035_frame_0.jpeg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wsbt.com"
-      ]
-    },
-    {
-      "id": "https://www.fool.com/investing/2026/06/13/want-a-lifetime-of-passive-income-buy-stock-in-jun/?source=iedfolrf0000001",
-      "domain": "fool.com",
-      "title": "Want a Lifetime of Passive Income ? Buy Coca - Cola in June and Never Sell . ",
-      "url": "https://www.fool.com/investing/2026/06/13/want-a-lifetime-of-passive-income-buy-stock-in-jun/?source=iedfolrf0000001",
-      "published_at": "2026-06-14T05:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://g.foolcdn.com/editorial/images/874498/coca-cola-store-orlando-plate.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "fool.com"
-      ]
-    },
-    {
-      "id": "https://www.kcra.com/article/stockton-volunteers-clean-up-american-legion-park/71580045",
-      "domain": "kcra.com",
-      "title": "Stockton volunteers work to clean up American Legion Park",
-      "url": "https://www.kcra.com/article/stockton-volunteers-clean-up-american-legion-park/71580045",
-      "published_at": "2026-06-14T04:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://kubrick.htvapps.com/vidthumb/9acaa304-c492-4cc8-b0c1-3b3d246bfa23/61afd596-121b-4e35-aea1-1bb75933c50e.jpg?crop=0.795xw:0.795xh;0.0651xw,0",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "kcra.com"
-      ]
-    },
-    {
-      "id": "https://www.forbes.com/sites/kissacastaneda/2026/06/13/niche-no-more-wellness-design-is-the-upgrade-every-home-needs-in-2026/",
-      "domain": "forbes.com",
-      "title": "Niche No More : Wellness Design Is The Upgrade Every Home Needs In 2026",
-      "url": "https://www.forbes.com/sites/kissacastaneda/2026/06/13/niche-no-more-wellness-design-is-the-upgrade-every-home-needs-in-2026/",
-      "published_at": "2026-06-14T01:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6a2ddcfba86fff98c2755824/0x0.jpg?format=jpg&fit=bounds",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "forbes.com"
-      ]
-    },
-    {
-      "id": "https://www.fox34.com/2026/06/13/boil-water-notice-issued-shallowater-saturday-afternoon/",
-      "domain": "fox34.com",
-      "title": "Boil Water Notice issued for Shallowater as of Saturday afternoon",
-      "url": "https://www.fox34.com/2026/06/13/boil-water-notice-issued-shallowater-saturday-afternoon/",
-      "published_at": "2026-06-13T21:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://gray-kjtv-prod.gtv-cdn.com/resizer/v2/I53JPK37S5E2FDGYMZDXSZAIRY.png?auth=f5072370d5819173327d7f8a9e657d3014277f7ac9e2b2b8e6d80b542c2c31bc&smart=true",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "fox34.com"
-      ]
-    },
-    {
-      "id": "https://www.chicagotribune.com/2026/06/13/weather-service-confirms-three-tornadoes-northwest-indiana/",
-      "domain": "chicagotribune.com",
-      "title": "Weather service confirms three tornadoes in Northwest Indiana",
-      "url": "https://www.chicagotribune.com/2026/06/13/weather-service-confirms-three-tornadoes-northwest-indiana/",
-      "published_at": "2026-06-13T21:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.chicagotribune.com/wp-content/uploads/2026/06/PTB-L-Storm-aftermath-11.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "chicagotribune.com"
-      ]
-    },
-    {
-      "id": "http://www.medicaldaily.com/largest-us-study-pfas-exposed-communities-confirms-serious-health-risks-children-adults-475622",
-      "domain": "medicaldaily.com",
-      "title": "Largest US Study of PFAS - Exposed Communities Confirms Serious Health Risks in Children and Adults",
-      "url": "http://www.medicaldaily.com/largest-us-study-pfas-exposed-communities-confirms-serious-health-risks-children-adults-475622",
-      "published_at": "2026-06-13T20:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://d.medicaldaily.com/en/full/482690/pfas-exposed-communities.jpg",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "medicaldaily.com"
-      ]
-    },
-    {
-      "id": "https://www.slashgear.com/2190230/ge-washing-machine-common-problems/",
-      "domain": "slashgear.com",
-      "title": "5 Common Problems With GE Washing Machines",
-      "url": "https://www.slashgear.com/2190230/ge-washing-machine-common-problems/",
-      "published_at": "2026-06-13T18:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.slashgear.com/img/gallery/5-common-problems-with-ge-washing-machines/l-intro-1780989340.jpg",
-      "matched_keywords": [
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "slashgear.com"
-      ]
-    },
-    {
-      "id": "https://www.tahoedailytribune.com/news/raising-the-bar-for-tahoes-future-opinion/",
-      "domain": "tahoedailytribune.com",
-      "title": "Raising the Bar for Tahoe Future ( Opinion ) | TahoeDailyTribune . com",
-      "url": "https://www.tahoedailytribune.com/news/raising-the-bar-for-tahoes-future-opinion/",
-      "published_at": "2026-06-13T17:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://swiftmedia.s3.amazonaws.com/pacific.swiftcom.com/images/sites/5/2026/06/09112135/jesse_headshot_500x500.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tahoedailytribune.com"
-      ]
-    },
-    {
-      "id": "https://www.dailypolitical.com/2026/06/13/cocacola-company-the-ko-shares-acquired-by-howland-capital-management-llc.html",
-      "domain": "dailypolitical.com",
-      "title": "CocaCola Company ( The ) $KO Shares Acquired by Howland Capital Management LLC",
-      "url": "https://www.dailypolitical.com/2026/06/13/cocacola-company-the-ko-shares-acquired-by-howland-capital-management-llc.html",
-      "published_at": "2026-06-13T17:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dailypolitical.com"
-      ]
-    },
-    {
-      "id": "https://targetednews.com/disp_story.php?s_id=1865281",
-      "domain": "targetednews.com",
-      "title": "Targeted News Service",
-      "url": "https://targetednews.com/disp_story.php?s_id=1865281",
-      "published_at": "2026-06-13T15:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "targetednews.com"
-      ]
-    },
-    {
-      "id": "https://www.willmarradio.com/news/boil-order-continues-in-benson-free-bottled-water-available-for-residents/article_43090a76-781e-49b2-bde6-95a6af609edd.html",
-      "domain": "willmarradio.com",
-      "title": "Boil order continues in Benson ... free bottled water available for residents",
-      "url": "https://www.willmarradio.com/news/boil-order-continues-in-benson-free-bottled-water-available-for-residents/article_43090a76-781e-49b2-bde6-95a6af609edd.html",
-      "published_at": "2026-06-13T14:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/willmarradio.com/content/tncms/assets/v3/editorial/d/bf/dbf0a466-9866-11eb-98cc-7b9242088b21/606ef893bb3ca.image.jpg?crop=254%2C254%2C248%2C0",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "willmarradio.com"
-      ]
-    },
-    {
-      "id": "https://www.tickerreport.com/banking-finance/13473859/martingale-asset-management-l-p-has-17-39-million-stock-holdings-in-cocacola-company-the-ko.html",
-      "domain": "tickerreport.com",
-      "title": "Martingale Asset Management L P Has $17 . 39 Million Stock Holdings in CocaCola Company ( The ) $KO",
-      "url": "https://www.tickerreport.com/banking-finance/13473859/martingale-asset-management-l-p-has-17-39-million-stock-holdings-in-cocacola-company-the-ko.html",
-      "published_at": "2026-06-13T13:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tickerreport.com"
-      ]
-    },
-    {
-      "id": "https://www.forbes.com/sites/christopherelliott/2026/06/13/in-singapore-smaller-rooms-offer-a-radical-sustainability-solution/",
-      "domain": "forbes.com",
-      "title": "In Singapore , Smaller Rooms Offer A Radical Sustainability Solution",
-      "url": "https://www.forbes.com/sites/christopherelliott/2026/06/13/in-singapore-smaller-rooms-offer-a-radical-sustainability-solution/",
-      "published_at": "2026-06-13T12:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://imageio.forbes.com/specials-images/imageserve/6a2d1dd9f9bae46138b29c05/0x0.jpg?format=jpg&fit=bounds",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "forbes.com"
       ]
     }
   ]
