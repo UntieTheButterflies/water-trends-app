@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-08-29T14:13:38+00:00",
+  "refreshed_at": "2026-08-30T14:57:40+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,25 +18,231 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 152,
+  "total_unique_mentions": 149,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 38,
-    "lead in water": 3,
+    "forever chemicals": 39,
+    "lead in water": 2,
     "arsenic in water": 0,
     "nitrate in water": 1,
-    "microplastics": 34,
+    "microplastics": 32,
     "fluoride in water": 3,
     "chromium 6": 1,
     "well water testing": 0,
-    "hard water": 7,
-    "bottled water": 60,
-    "water filter": 4,
+    "hard water": 9,
+    "bottled water": 59,
+    "water filter": 0,
     "reverse osmosis": 12,
-    "water softener": 2,
+    "water softener": 3,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "http://www.thegazette.com/news/environment/epa-s-long-planned-review-of-nitrates-and-cancer-stalls/article_705ce875-08c4-43bf-a069-91c62b95037d.html",
+      "domain": "thegazette.com",
+      "title": "EPA long - planned review of nitrates and cancer stalls | Environmental News , Nature News",
+      "url": "http://www.thegazette.com/news/environment/epa-s-long-planned-review-of-nitrates-and-cancer-stalls/article_705ce875-08c4-43bf-a069-91c62b95037d.html",
+      "published_at": "2026-08-30T14:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/thegazette.com/content/tncms/assets/v3/editorial/7/05/705ce875-08c4-43bf-a069-91c62b95037d/6a92eebede833.preview.jpg?crop=600%2C315%2C0%2C42",
+      "matched_keywords": [
+        "nitrate in water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "thegazette.com"
+      ]
+    },
+    {
+      "id": "https://hanfordsentinel.com/news/national/drive-for-nuclear-power-boosts-uranium-industry-and-tribal-health-concerns-in-southwest/article_2a45a624-c178-5653-9e84-e2c524cc0b53.html",
+      "domain": "hanfordsentinel.com",
+      "title": "Drive for nuclear power boosts uranium industry and tribal health concerns in Southwest",
+      "url": "https://hanfordsentinel.com/news/national/drive-for-nuclear-power-boosts-uranium-industry-and-tribal-health-concerns-in-southwest/article_2a45a624-c178-5653-9e84-e2c524cc0b53.html",
+      "published_at": "2026-08-30T11:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/hanfordsentinel.com/content/tncms/assets/v3/editorial/b/d8/bd81d6e1-d53e-5d6d-a37b-929f277c86cd/6a93ef0874449.image.jpg?crop=1762%2C925%2C0%2C125",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "hanfordsentinel.com"
+      ]
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/08/30/private-management-group-inc-sells-454897-shares-of-ambev-s-a-abev.html",
+      "domain": "themarketsdaily.com",
+      "title": "Private Management Group Inc . Sells 454 , 897 Shares of Ambev S . A . $ABEV",
+      "url": "https://www.themarketsdaily.com/2026/08/30/private-management-group-inc-sells-454897-shares-of-ambev-s-a-abev.html",
+      "published_at": "2026-08-30T11:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "themarketsdaily.com"
+      ]
+    },
+    {
+      "id": "https://cdapress.com/news/2026/aug/27/contributed-content-tankless-vs-traditional-water-heaters-which-one-is-right-for-your-home/",
+      "domain": "cdapress.com",
+      "title": "CONTRIBUTED CONTENT : Tankless vs . Traditional Water Heaters Which One Is Right for Your Home ? ",
+      "url": "https://cdapress.com/news/2026/aug/27/contributed-content-tankless-vs-traditional-water-heaters-which-one-is-right-for-your-home/",
+      "published_at": "2026-08-30T08:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://hagadone.media.clients.ellingtoncms.com/static-4/cdapress/images/default-social.jpg?v=4",
+      "matched_keywords": [
+        "hard water",
+        "water softener"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "cdapress.com"
+      ]
+    },
+    {
+      "id": "https://www.yahoo.com/news/articles/waterbury-water-main-break-frost-195403506.html",
+      "domain": "yahoo.com",
+      "title": "Waterbury water main break on Frost Road leaves 80 properties without service , officials say",
+      "url": "https://www.yahoo.com/news/articles/waterbury-water-main-break-frost-195403506.html",
+      "published_at": "2026-08-30T03:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/ca4fc9f1af1507b4bbd657fd7e73e54ed33392711a19b7f1e1c8a53f0abb517c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fct_insider_187%2F31d0c45358ce067fadd7736b4973f702.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "yahoo.com"
+      ]
+    },
+    {
+      "id": "https://www.ecoportal.net/en/smallmouth-bass-pfas-plasma-farmland-land-use/34854/",
+      "domain": "ecoportal.net",
+      "title": "State and federal biologists drew blood from 380 smallmouth bass , and the farm river fish came in at 220 to 240 parts per billion of one forever chemical against 350 and up in the developed rivers",
+      "url": "https://www.ecoportal.net/en/smallmouth-bass-pfas-plasma-farmland-land-use/34854/",
+      "published_at": "2026-08-30T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.ecoportal.net/en/wp-content/uploads/2026/08/biologists-drew-blood-380-smallmouth-bass-photo.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ecoportal.net"
+      ]
+    },
+    {
+      "id": "https://www.yahoo.com/news/us/articles/empty-jugs-dry-reservoirs-inside-120030989.html",
+      "domain": "yahoo.com",
+      "title": "In Puerto Rico , even when it doesnt rain , it pours",
+      "url": "https://www.yahoo.com/news/us/articles/empty-jugs-dry-reservoirs-inside-120030989.html",
+      "published_at": "2026-08-29T22:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/41a54c64a4998ab1bf25a9255bac3b18b6dc143c2d6459c2a9f14c99167752f4/lightyear_networkapi/resizefill_w960_h540%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F4617a7a7291af3f7cfc9f0da8ae2de5e.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "kten.com",
+        "yahoo.com"
+      ]
+    },
+    {
+      "id": "https://www.dailymail.com/health/article-16087057/Warning-mysterious-explosion-type-1-diabetes-obesity.html",
+      "domain": "dailymail.com",
+      "title": "Warning over mysterious explosion in type 1 diabetes",
+      "url": "https://www.dailymail.com/health/article-16087057/Warning-mysterious-explosion-type-1-diabetes-obesity.html",
+      "published_at": "2026-08-29T22:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i.dailymail.com/1s/2026/08/28/16/101949595-0-Doctor_checking_blood_sugar_level_with_glucometer-a-19_1787931814121.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailymail.com"
+      ]
+    },
+    {
+      "id": "https://www.myleaderpaper.com/news/health/health-department-food-inspections-for-week-of-aug-16/article_2b17d29a-c021-451b-9686-18affe52bf6a.html",
+      "domain": "myleaderpaper.com",
+      "title": "Health Department food inspections for week of Aug . 16 | Health",
+      "url": "https://www.myleaderpaper.com/news/health/health-department-food-inspections-for-week-of-aug-16/article_2b17d29a-c021-451b-9686-18affe52bf6a.html",
+      "published_at": "2026-08-29T22:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/myleaderpaper.com/content/tncms/assets/v3/editorial/6/1b/61bf3348-ce08-11ef-82c4-5b8574ec56b2/677eef8a26562.image.jpg?crop=402%2C402%2C0%2C98",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "myleaderpaper.com"
+      ]
+    },
+    {
+      "id": "https://www.hometownsource.com/sun_sailor/community/stlouispark/upcoming-programs-at-the-lenox-community-center/article_c66218fc-6301-4a2f-aad0-9d1db9d6d36a.html",
+      "domain": "hometownsource.com",
+      "title": "Upcoming programs at the Lenox Community Center",
+      "url": "https://www.hometownsource.com/sun_sailor/community/stlouispark/upcoming-programs-at-the-lenox-community-center/article_c66218fc-6301-4a2f-aad0-9d1db9d6d36a.html",
+      "published_at": "2026-08-29T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/hometownsource.com/content/tncms/custom/image/f5c24434-67ce-11e7-a8fe-fbbcfd595ff5.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "hometownsource.com"
+      ]
+    },
+    {
+      "id": "https://www.bkreader.com/national-news/new-york-sends-emergency-water-to-puerto-rico-12718097",
+      "domain": "bkreader.com",
+      "title": "New York Sends Emergency Water to Puerto Rico",
+      "url": "https://www.bkreader.com/national-news/new-york-sends-emergency-water-to-puerto-rico-12718097",
+      "published_at": "2026-08-29T18:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.vmcdn.ca/f/files/bkreader/images/policy-government/55491599546_b971eff514_b.jpg;w=1024;h=683;mode=crop",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "bkreader.com"
+      ]
+    },
+    {
+      "id": "https://mauinow.com/2026/08/29/4b-makena-development-with-652-homes-advances-project-size-reduced-27-due-to-public-pushback/",
+      "domain": "mauinow.com",
+      "title": "$4B M\u0101kena development with 652 homes advances ; project size reduced 27 % due to public pushback : Maui Now",
+      "url": "https://mauinow.com/2026/08/29/4b-makena-development-with-652-homes-advances-project-size-reduced-27-due-to-public-pushback/",
+      "published_at": "2026-08-29T18:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://media.mauinow.com/file/mauinow/2026/08/makena-mauka-crop.png",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mauinow.com"
+      ]
+    },
     {
       "id": "https://www.industrytap.com/is-that-water-bottle-in-your-hot-car-still-safe-to-drink/81275",
       "domain": "industrytap.com",
@@ -194,24 +400,6 @@
       ]
     },
     {
-      "id": "https://nypost.com/shopping/waterdrop-x16-reverse-osmosis-system-review/",
-      "domain": "nypost.com",
-      "title": "I reviewed the Waterdrop X16 Review is it worth it ? ",
-      "url": "https://nypost.com/shopping/waterdrop-x16-reverse-osmosis-system-review/",
-      "published_at": "2026-08-28T19:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/08/Waterdrop-X16-Feature-1.jpg?quality=75&strip=all",
-      "matched_keywords": [
-        "forever chemicals",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "nypost.com"
-      ]
-    },
-    {
       "id": "https://www.wcax.com/2026/08/28/vermont-sues-manufacturers-over-pfas-contamination-bennington-county/",
       "domain": "wcax.com",
       "title": "Vermont sues manufacturers over PFAS contamination in Bennington County",
@@ -229,20 +417,21 @@
       ]
     },
     {
-      "id": "https://www.npr.org/transcripts/1124816014",
-      "domain": "npr.org",
-      "title": "Grasslands : The Unsung Carbon Hero : Short Wave",
-      "url": "https://www.npr.org/transcripts/1124816014",
-      "published_at": "2026-08-28T18:30:00+00:00",
+      "id": "https://nypost.com/shopping/waterdrop-x16-reverse-osmosis-system-review/",
+      "domain": "nypost.com",
+      "title": "I reviewed the Waterdrop X16 Review is it worth it ? ",
+      "url": "https://nypost.com/shopping/waterdrop-x16-reverse-osmosis-system-review/",
+      "published_at": "2026-08-28T19:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://media.npr.org/assets/img/2022/09/27/splt-preserve-photo-credit-tracy-kessner_wide-6badae515c709b2f8b791171d5a271e11c3d66fa.jpg?s=1400&c=85&f=jpeg",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/08/Waterdrop-X16-Feature-1.jpg?quality=75&strip=all",
       "matched_keywords": [
-        "water filter"
+        "forever chemicals",
+        "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "npr.org"
+        "nypost.com"
       ]
     },
     {
@@ -877,23 +1066,6 @@
         "wisn.com",
         "wpbf.com",
         "wxii12.com"
-      ]
-    },
-    {
-      "id": "http://www.prnewswire.com/news-releases/bradford-white-launches-new-tankless-water-heater-models-302861361.html",
-      "domain": "prnewswire.com",
-      "title": "Bradford White launches new tankless water heater models",
-      "url": "http://www.prnewswire.com/news-releases/bradford-white-launches-new-tankless-water-heater-models-302861361.html",
-      "published_at": "2026-08-27T11:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://mmx.prnewswire.com/media/MS1976418/Bradford-White-Corporation-Product-Image.jpg?id=OA2914315&p=facebook",
-      "matched_keywords": [
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "prnewswire.com"
       ]
     },
     {
@@ -2115,23 +2287,6 @@
       ]
     },
     {
-      "id": "https://www.themarketsdaily.com/2026/08/25/l2-asset-management-llc-invests-3-15-million-in-coca-cola-femsa-s-a-b-de-c-v-kof.html",
-      "domain": "themarketsdaily.com",
-      "title": "L2 Asset Management LLC Invests $3 . 15 Million in Coca Cola Femsa S . A . B . de C . V . $KOF",
-      "url": "https://www.themarketsdaily.com/2026/08/25/l2-asset-management-llc-invests-3-15-million-in-coca-cola-femsa-s-a-b-de-c-v-kof.html",
-      "published_at": "2026-08-25T10:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "themarketsdaily.com"
-      ]
-    },
-    {
       "id": "https://www.pr-inside.com/biolargo-to-participate-in-gabelli-funds-4th-annual-pfas-symposium-r5215853.htm",
       "domain": "pr-inside.com",
       "title": "BioLargo to Participate in Gabelli Fund 4th Annual PFAS Symposium ... ",
@@ -2421,8 +2576,7 @@
       "thumbnail": "https://img.medscapestatic.com/vim/live/professional_assets/medscape/images/thumbnail_library/gty_240516_micro_plastics_pollution_800x450.jpg",
       "matched_keywords": [
         "microplastics",
-        "reverse osmosis",
-        "water filter"
+        "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
@@ -2480,211 +2634,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wrjn.com"
-      ]
-    },
-    {
-      "id": "http://www.thegazette.com/opinion/guest-columnists/don-t-drink-the-water/article_e6e18e20-2796-419e-b7e2-7a0240984955.html",
-      "domain": "thegazette.com",
-      "title": "Dont drink the water | Guest Columnists",
-      "url": "http://www.thegazette.com/opinion/guest-columnists/don-t-drink-the-water/article_e6e18e20-2796-419e-b7e2-7a0240984955.html",
-      "published_at": "2026-08-23T13:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/thegazette.com/content/tncms/assets/v3/editorial/8/1c/81c4d6c1-3c3e-4cec-b445-2da3c70b10ac/6a4f9fac7d50c.image.jpg?crop=1535%2C807%2C0%2C153",
-      "matched_keywords": [
-        "nitrate in water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "thegazette.com"
-      ]
-    },
-    {
-      "id": "https://www.staradvertiser.com/2026/08/23/hawaii-news/kokua-line/kokua-line-will-someone-help-me-clean-up-after-storm/",
-      "domain": "staradvertiser.com",
-      "title": "Kokua Line : Will someone help me clean up after storm ? | Honolulu Star - Advertiser",
-      "url": "https://www.staradvertiser.com/2026/08/23/hawaii-news/kokua-line/kokua-line-will-someone-help-me-clean-up-after-storm/",
-      "published_at": "2026-08-23T11:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.staradvertiser.com/wp-content/uploads/2026/08/web1_CTY-naalehu-relief-effort-03.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "staradvertiser.com"
-      ]
-    },
-    {
-      "id": "https://www.thetimes-tribune.com/2026/08/23/veterans-news-aug-23-2026/",
-      "domain": "thetimes-tribune.com",
-      "title": "Veterans News , Aug . 23 , 2026",
-      "url": "https://www.thetimes-tribune.com/2026/08/23/veterans-news-aug-23-2026/",
-      "published_at": "2026-08-23T08:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.thetimes-tribune.com/wp-content/uploads/2025/06/CVC-L-USFLAG-0612.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "thetimes-tribune.com"
-      ]
-    },
-    {
-      "id": "https://www.texarkanagazette.com/news/2026/aug/22/traditional-plastic-forks-shed-harmful/",
-      "domain": "texarkanagazette.com",
-      "title": "Traditional plastic forks shed harmful microplastics . Plastic created from sugar is an alternative",
-      "url": "https://www.texarkanagazette.com/news/2026/aug/22/traditional-plastic-forks-shed-harmful/",
-      "published_at": "2026-08-23T07:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wehco.media.clients.ellingtoncms.com/imports/adg/img/2026/08/23/213419786_AP26218587216239_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "texarkanagazette.com"
-      ]
-    },
-    {
-      "id": "https://www.dailykos.com/stories/2026/8/22/800088088/community/emergency-preparations-for-sane-people/",
-      "domain": "dailykos.com",
-      "title": "EMERGENCY PREPARATIONS FOR SANE PEOPLE",
-      "url": "https://www.dailykos.com/stories/2026/8/22/800088088/community/emergency-preparations-for-sane-people/",
-      "published_at": "2026-08-23T04:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dailykos.com"
-      ]
-    },
-    {
-      "id": "https://creators.yahoo.com/lifestyle/story/a-first-timers-guide-to-legoland-california-what-ive-learned-from-our-many-family-trips-032704075.html",
-      "domain": "creators.yahoo.com",
-      "title": "A first - timer guide to Legoland California : What Ive learned from our many family trips",
-      "url": "https://creators.yahoo.com/lifestyle/story/a-first-timers-guide-to-legoland-california-what-ive-learned-from-our-many-family-trips-032704075.html",
-      "published_at": "2026-08-23T04:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/e09e57fbb9bdc8625a324e1afbd7c5a79293195bcc5cfa56fd29f80f2592ec35/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Flegoland-entrance_2895.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "creators.yahoo.com"
-      ]
-    },
-    {
-      "id": "https://www.islands.com/2241121/only-4-states-ranked-worse-than-michigan-national-ranking/",
-      "domain": "islands.com",
-      "title": "Only 4 States Ranked Worse Than Michigan In A Surprising New National Ranking",
-      "url": "https://www.islands.com/2241121/only-4-states-ranked-worse-than-michigan-national-ranking/",
-      "published_at": "2026-08-23T01:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.islands.com/img/gallery/only-4-states-ranked-worse-than-michigan-in-a-surprising-new-national-ranking/l-intro-1787249632.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "islands.com"
-      ]
-    },
-    {
-      "id": "https://www.yahoo.com/news/world/articles/did-goat-herders-lucky-200-232207865.html",
-      "domain": "yahoo.com",
-      "title": "Did a goat herder lucky $200 nugget spark a gold rush in western Kenya ? ",
-      "url": "https://www.yahoo.com/news/world/articles/did-goat-herders-lucky-200-232207865.html",
-      "published_at": "2026-08-23T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/195e1e64e585c5ab443268becded30a58e941b33f82b8b7a1e3536fb9412e66b/lightyear_networkapi/resizefill_w976_h549%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2Ff2e0bff0ec6eac00b8ff51f5bb283cdd.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "yahoo.com"
-      ]
-    },
-    {
-      "id": "http://northcountrynow.com/stories/village-may-need-to-dig-up-some-yards-to-complete-lead-survey-after-electroscan-failed,387125",
-      "domain": "northcountrynow.com",
-      "title": "Village may need to dig up some yards to complete lead survey after ElectroScan failed",
-      "url": "http://northcountrynow.com/stories/village-may-need-to-dig-up-some-yards-to-complete-lead-survey-after-electroscan-failed,387125",
-      "published_at": "2026-08-22T22:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://zeta.creativecirclecdn.com/ncn/original/20260526-092445-30b-Potsdamx%20Village%20Offices.jpeg",
-      "matched_keywords": [
-        "lead in water",
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "northcountrynow.com"
-      ]
-    },
-    {
-      "id": "https://www.yahoo.com/lifestyle/articles/people-exposing-healthy-habits-actually-173102780.html",
-      "domain": "yahoo.com",
-      "title": "People Are Exposing The Healthy Habits That Are Actually Harming You",
-      "url": "https://www.yahoo.com/lifestyle/articles/people-exposing-healthy-habits-actually-173102780.html",
-      "published_at": "2026-08-22T18:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://s.yimg.com/lo/mysterio/api/3a0e5a50d53f2e3ea2a91ca5cbf05fe8895b976bd32e40531f5f29b1ef3fa181/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbuzzfeed_articles_778%2F65de941b9e92a1401711b689bbb841e8.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "yahoo.com"
-      ]
-    },
-    {
-      "id": "https://www.tickerreport.com/banking-finance/13554583/head-to-head-survey-embotelladora-andina-nyseako-b-versus-boston-beer-nysesam.html",
-      "domain": "tickerreport.com",
-      "title": "Head to Head Survey : Embotelladora Andina ( NYSE : AKO . B ) versus Boston Beer ( NYSE : SAM ) ",
-      "url": "https://www.tickerreport.com/banking-finance/13554583/head-to-head-survey-embotelladora-andina-nyseako-b-versus-boston-beer-nysesam.html",
-      "published_at": "2026-08-22T16:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tickerreport.com"
-      ]
-    },
-    {
-      "id": "https://www.howtogeek.com/essential-coffee-upgrades-to-get-out-of-bed-for/",
-      "domain": "howtogeek.com",
-      "title": "4 essential coffee upgrades to get out of bed for",
-      "url": "https://www.howtogeek.com/essential-coffee-upgrades-to-get-out-of-bed-for/",
-      "published_at": "2026-08-22T14:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/a-perfect-cup-of-coffee-from-above.jpg?&fit=crop",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "howtogeek.com"
       ]
     }
   ]
