@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-15T14:22:00+00:00",
+  "refreshed_at": "2026-09-16T14:24:06+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,22 +18,22 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 22,
+  "total_unique_mentions": 85,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
-    "lead in water": 0,
+    "forever chemicals": 25,
+    "lead in water": 4,
     "arsenic in water": 0,
-    "nitrate in water": 1,
+    "nitrate in water": 0,
     "microplastics": 0,
-    "fluoride in water": 1,
+    "fluoride in water": 0,
     "chromium 6": 0,
     "well water testing": 0,
-    "hard water": 7,
-    "bottled water": 0,
-    "water filter": 8,
-    "reverse osmosis": 0,
-    "water softener": 5,
+    "hard water": 0,
+    "bottled water": 41,
+    "water filter": 7,
+    "reverse osmosis": 11,
+    "water softener": 4,
     "whole house water filter": 1
   },
   "mentions": [
@@ -47,6 +47,7 @@
       "source_country": "United States",
       "thumbnail": "http://d27p2a3djqwgnt.cloudfront.net/wp-content/uploads/2026/09/9-10-abrams-river-cleanup-WEB.jpg",
       "matched_keywords": [
+        "forever chemicals",
         "water filter"
       ],
       "syndicated_count": 1,
@@ -55,20 +56,54 @@
       ]
     },
     {
-      "id": "https://www.noozhawk.com/joan-hartmann-after-50-years-the-clock-has-run-out-on-los-olivos-wastewater-predicament/",
-      "domain": "noozhawk.com",
-      "title": "Joan Hartmann : After 50 Years , the Clock Has Run Out on Los Olivo Wastewater Predicament | Opinions",
-      "url": "https://www.noozhawk.com/joan-hartmann-after-50-years-the-clock-has-run-out-on-los-olivos-wastewater-predicament/",
-      "published_at": "2026-09-13T01:00:00+00:00",
+      "id": "https://www.heraldextra.com/lifestyles/home-and-garden/2026/sep/12/american-red-cross-of-utah-shares-low-cost-no-cost-ways-to-prepare-for-disasters/",
+      "domain": "heraldextra.com",
+      "title": "American Red Cross of Utah shares low - cost , no - cost ways to prepare for disasters | News , Sports , Jobs",
+      "url": "https://www.heraldextra.com/lifestyles/home-and-garden/2026/sep/12/american-red-cross-of-utah-shares-low-cost-no-cost-ways-to-prepare-for-disasters/",
+      "published_at": "2026-09-13T03:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://i0.wp.com/www.noozhawk.com/wp-content/uploads/2022/12/social-fallback.png?fit=1200%2C630&ssl=1",
+      "thumbnail": "https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2024/09/06111237/Emergency-planning-1200x800.jpg",
       "matched_keywords": [
-        "nitrate in water"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "noozhawk.com"
+        "heraldextra.com"
+      ]
+    },
+    {
+      "id": "https://mauinow.com/2026/09/12/kokua-hawai%CA%BBi-island-drive-collects-5000-pounds-of-nonperishable-food-273-cases-of-water/",
+      "domain": "mauinow.com",
+      "title": "K\u014dkua Hawai\u02bbi Island drive collects 5 , 000 pounds of nonperishable food , 273 cases of water : Maui Now",
+      "url": "https://mauinow.com/2026/09/12/kokua-hawai%CA%BBi-island-drive-collects-5000-pounds-of-nonperishable-food-273-cases-of-water/",
+      "published_at": "2026-09-12T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://media.mauinow.com/file/mauinow/2026/09/kokua-for-kauai-1-1024x576.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mauinow.com"
+      ]
+    },
+    {
+      "id": "https://truthout.org/articles/louisiana-residents-are-resisting-plans-to-build-ice-jail-on-contaminated-site/",
+      "domain": "truthout.org",
+      "title": "Louisiana Residents Are Resisting Plans to Build ICE Jail on Contaminated Site",
+      "url": "https://truthout.org/articles/louisiana-residents-are-resisting-plans-to-build-ice-jail-on-contaminated-site/",
+      "published_at": "2026-09-12T17:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://truthout.org/app/uploads/2026/09/GettyImages-2249289799-scaled.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "truthout.org"
       ]
     },
     {
@@ -86,6 +121,92 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "mauinow.com"
+      ]
+    },
+    {
+      "id": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lululemon-thoroughly-broken-160751991.html",
+      "domain": "finance.yahoo.com",
+      "title": "Jim Cramer : Lululemon Is a  Thoroughly Broken Stock . I Cant Give You a Good Reason to Buy It  ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lululemon-thoroughly-broken-160751991.html",
+      "published_at": "2026-09-12T16:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/5f873ea48738843efb34dbb71038a1bbb7866d7487ed92089ec65162f9b58e90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F94d3f86b491a3cf3a09d382a7531e40f.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "aol.com",
+        "finance.yahoo.com"
+      ]
+    },
+    {
+      "id": "https://www.troyrecord.com/2026/09/12/things-going-on-around-rensselaer-county-11/",
+      "domain": "troyrecord.com",
+      "title": "Things going on around Rensselaer County",
+      "url": "https://www.troyrecord.com/2026/09/12/things-going-on-around-rensselaer-county-11/",
+      "published_at": "2026-09-12T16:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.troyrecord.com/wp-content/uploads/2026/07/calendar-2.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "troyrecord.com"
+      ]
+    },
+    {
+      "id": "https://www.saratogian.com/2026/09/12/things-going-on-around-saratoga-county-11/",
+      "domain": "saratogian.com",
+      "title": "Things going on around Saratoga County",
+      "url": "https://www.saratogian.com/2026/09/12/things-going-on-around-saratoga-county-11/",
+      "published_at": "2026-09-12T15:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.saratogian.com/wp-content/uploads/2026/07/calendar-2-2.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "saratogian.com"
+      ]
+    },
+    {
+      "id": "https://www.dailykos.com/stories/2026/9/12/800097123/community/history-corner-good-news-september-12ths/",
+      "domain": "dailykos.com",
+      "title": "History Corner , Good News , September 12ths",
+      "url": "https://www.dailykos.com/stories/2026/9/12/800097123/community/history-corner-good-news-september-12ths/",
+      "published_at": "2026-09-12T15:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.dailykos.com/wp-content/uploads/sites/2/images/1473919/original/GregorianCalendar11dayGlenMcBeth-RSZ.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailykos.com"
+      ]
+    },
+    {
+      "id": "https://hightimes.com/grow/fresh-frozen-cannabis-live-rosin-how-its-made/",
+      "domain": "hightimes.com",
+      "title": "Fresh Frozen Cannabis : How Live Rosin Is Made and Why It Costs So Much",
+      "url": "https://hightimes.com/grow/fresh-frozen-cannabis-live-rosin-how-its-made/",
+      "published_at": "2026-09-12T14:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://hightimes.com/wp-content/uploads/2026/09/High-Times-Covers72.png",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "hightimes.com"
       ]
     },
     {
@@ -115,6 +236,7 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.chicago2.vip.townnews.com/poststar.com/content/tncms/assets/v3/editorial/3/9d/39df3df5-a474-56ad-a9c4-f1fa6553874c/6aa4dd5e6ac5c.preview.jpg?crop=800%2C420%2C0%2C56",
       "matched_keywords": [
+        "reverse osmosis",
         "water softener"
       ],
       "syndicated_count": 1,
@@ -123,54 +245,211 @@
       ]
     },
     {
-      "id": "https://www.jalopnik.com/2256150/how-to-clean-car-windshield-motorcycle-mirrors-with-vinegar/",
-      "domain": "jalopnik.com",
-      "title": "Yes , Vinegar Will Clean Your Car Windshield And Mirrors , But Avoid These Mistakes",
-      "url": "https://www.jalopnik.com/2256150/how-to-clean-car-windshield-motorcycle-mirrors-with-vinegar/",
-      "published_at": "2026-09-12T11:30:00+00:00",
+      "id": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
+      "domain": "wired.com",
+      "title": "You Dont Have a Right to Safe Drinking Water , Trump - Appointed Judge Rules",
+      "url": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
+      "published_at": "2026-09-12T11:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.jalopnik.com/img/gallery/yes-vinegar-will-clean-your-cars-windshield-and-mirrors-but-avoid-these-mistakes/l-intro-1789146158.jpg",
+      "thumbnail": "https://media.wired.com/photos/6aa4488052c971537654b906/191:100/w_1280,c_limit/GettyImages-1431034639.jpg",
       "matched_keywords": [
-        "hard water"
+        "lead in water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "jalopnik.com"
+        "wired.com"
       ]
     },
     {
-      "id": "https://www.tomsguide.com/home/i-removed-stubborn-water-stains-from-my-glass-shower-door-without-using-vinegar",
-      "domain": "tomsguide.com",
-      "title": "I removed stubborn water stains from my glass shower door without using vinegar",
-      "url": "https://www.tomsguide.com/home/i-removed-stubborn-water-stains-from-my-glass-shower-door-without-using-vinegar",
-      "published_at": "2026-09-12T10:00:00+00:00",
+      "id": "https://www.decaturdaily.com/news/morgan_county/decatur/aquadome-recreation-center-to-close-sunday/article_47a476e2-4d3e-4d30-a647-e08c96b394d0.html",
+      "domain": "decaturdaily.com",
+      "title": "Aquadome Recreation Center to close Sunday",
+      "url": "https://www.decaturdaily.com/news/morgan_county/decatur/aquadome-recreation-center-to-close-sunday/article_47a476e2-4d3e-4d30-a647-e08c96b394d0.html",
+      "published_at": "2026-09-12T09:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/agQp2X9D68wJr7jEdYR5KF-2000-80.jpg",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/decaturdaily.com/content/tncms/assets/v3/editorial/1/a5/1a5849ae-cc62-4186-93e5-384bd7b065de/6aa351286be3d.image.jpg?crop=1857%2C975%2C0%2C70",
       "matched_keywords": [
-        "hard water"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "tomsguide.com"
+        "decaturdaily.com"
       ]
     },
     {
-      "id": "http://www.bignewsnetwork.com/news/279302235/vijay-deverakonda-co-launches-unhype-a-skincare-brand-built-on-no-bs-only-what-works",
-      "domain": "bignewsnetwork.com",
-      "title": "Vijay Deverakonda co - launches Unhype , a skincare brand built on",
-      "url": "http://www.bignewsnetwork.com/news/279302235/vijay-deverakonda-co-launches-unhype-a-skincare-brand-built-on-no-bs-only-what-works",
-      "published_at": "2026-09-12T05:00:00+00:00",
+      "id": "https://www.newsandsentinel.com/news/business/2026/09/lawsuit-filed-over-alleged-contamination-from-chemours-landfill/",
+      "domain": "newsandsentinel.com",
+      "title": "Lawsuit filed over alleged contamination from Chemours landfill",
+      "url": "https://www.newsandsentinel.com/news/business/2026/09/lawsuit-filed-over-alleged-contamination-from-chemours-landfill/",
+      "published_at": "2026-09-12T06:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://image.chitra.live/api/v1/wps/4f898a5/52b2a876-99e8-4385-8ab4-873ead55567f/0/ANI-20260912024640-600x315.jpg",
+      "thumbnail": "",
       "matched_keywords": [
-        "hard water"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "bignewsnetwork.com"
+        "newsandsentinel.com"
+      ]
+    },
+    {
+      "id": "https://www.naturalnews.com/2026-09-11-microplastics-found-in-lungs-linked-to-lung-cancer.html",
+      "domain": "naturalnews.com",
+      "title": "Microplastics found in lungs linked to lung cancer , new research shows \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-09-11-microplastics-found-in-lungs-linked-to-lung-cancer.html",
+      "published_at": "2026-09-12T06:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Lung-Cancer.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "naturalnews.com"
+      ]
+    },
+    {
+      "id": "https://www.citizensvoice.com/2026/09/12/community-digest-sept-12-2026-2/",
+      "domain": "citizensvoice.com",
+      "title": "COMMUNITY DIGEST : Sept . 12 , 2026",
+      "url": "https://www.citizensvoice.com/2026/09/12/community-digest-sept-12-2026-2/",
+      "published_at": "2026-09-12T05:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.citizensvoice.com/wp-content/uploads/2024/10/Citizens-Voice2-1.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "citizensvoice.com"
+      ]
+    },
+    {
+      "id": "https://www.potomaclocal.com/2026/09/11/quantico-town-lifts-boil-water-advisory/",
+      "domain": "potomaclocal.com",
+      "title": "Town of Quantico lifts boil - water advisory after second sample comes back clean",
+      "url": "https://www.potomaclocal.com/2026/09/11/quantico-town-lifts-boil-water-advisory/",
+      "published_at": "2026-09-12T03:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.potomaclocal.com/wp-content/uploads/2018/11/quantico-town.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "potomaclocal.com"
+      ]
+    },
+    {
+      "id": "https://www.kjas.com/news/local_news/article_5b6c251f-715f-46f8-abea-f87cc85f5a1e.html",
+      "domain": "kjas.com",
+      "title": "Boil Water Notice Issued for Some Holmwood Utilities Customers",
+      "url": "https://www.kjas.com/news/local_news/article_5b6c251f-715f-46f8-abea-f87cc85f5a1e.html",
+      "published_at": "2026-09-12T02:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/kjas.com/content/tncms/assets/v3/editorial/1/bc/1bc890b0-9403-4069-9deb-c40596c0c449/6aa487f30c757.image.png?crop=1672%2C878%2C0%2C31",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kjas.com"
+      ]
+    },
+    {
+      "id": "https://www.naturalnews.com/2026-09-11-ingredients-in-everyday-products-that-cause-harm.html",
+      "domain": "naturalnews.com",
+      "title": "10 Ingredients in Everyday Products That May Cause Harm \u2013 NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-09-11-ingredients-in-everyday-products-that-cause-harm.html",
+      "published_at": "2026-09-12T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Woman-Lipstick-Beauty-Towel.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "naturalnews.com"
+      ]
+    },
+    {
+      "id": "https://www.wtoc.com/2026/09/12/medical-prep-essentials-how-build-hurricane-emergency-kit/",
+      "domain": "wtoc.com",
+      "title": "Medical prep essentials : How to build a hurricane emergency kit",
+      "url": "https://www.wtoc.com/2026/09/12/medical-prep-essentials-how-build-hurricane-emergency-kit/",
+      "published_at": "2026-09-12T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/RL2DXRH7DZBZPAWQEJGNJOSPKA.png?auth=1414fb96959a8c314a46a498916e2c3b6221face6ee4b300c8293eb5c62e961a&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "live5news.com",
+        "wtoc.com"
+      ]
+    },
+    {
+      "id": "https://www.wftv.com/news/local/blue-green-algae-alert-issued-lake-howell-by-department-health/LMMR446FEJHSDA5B4WBV5M6NPA/",
+      "domain": "wftv.com",
+      "title": "Blue - green algae alert issued for Lake Howell in Seminole County",
+      "url": "https://www.wftv.com/news/local/blue-green-algae-alert-issued-lake-howell-by-department-health/LMMR446FEJHSDA5B4WBV5M6NPA/",
+      "published_at": "2026-09-12T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FS6NB4JISYND6DIYLATZVVOIM3M.jpg?auth=5d7ebbcc2cf4f85cd4860bdbbc6765fbe87171f32084862fceccc9b0007abc52&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wftv.com"
+      ]
+    },
+    {
+      "id": "https://www.newson6.com/tulsa-oklahoma-news/copan-water-users-under-mandatory-boil-order",
+      "domain": "newson6.com",
+      "title": "Copan water users under mandatory boil order",
+      "url": "https://www.newson6.com/tulsa-oklahoma-news/copan-water-users-under-mandatory-boil-order",
+      "published_at": "2026-09-12T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://griffin-media-production-griffin.s3.us-east-2.amazonaws.com/brightspot/kotv/production/2016/March/25/pittsburg-county-boil-order-suspended.1458952912000-0.jpeg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "newson6.com"
+      ]
+    },
+    {
+      "id": "https://newsone.com/6871533/jackson-mississippi-poisonous-water-supply/",
+      "domain": "newsone.com",
+      "title": "Jackson Residents Not Legally Protected From Poisonous Water",
+      "url": "https://newsone.com/6871533/jackson-mississippi-poisonous-water-supply/",
+      "published_at": "2026-09-11T22:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://newsone.com/wp-content/uploads/sites/22/2026/09/17891643568076.jpg?quality=80&strip=all&crop=0,0,100,512px",
+      "matched_keywords": [
+        "lead in water"
+      ],
+      "syndicated_count": 4,
+      "syndicated_domains": [
+        "92q.com",
+        "ipowerrichmond.com",
+        "kysdc.com",
+        "newsone.com"
       ]
     },
     {
@@ -200,11 +479,196 @@
       "source_country": "United States",
       "thumbnail": "https://www.slashgear.com/img/gallery/11-emergency-gadgets-you-can-buy-online-before-you-need-them/l-intro-1788269997.jpg",
       "matched_keywords": [
+        "bottled water",
         "water filter"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "slashgear.com"
+      ]
+    },
+    {
+      "id": "https://www.moneytalksnews.com/how-seniors-can-save-on-dental-care/",
+      "domain": "moneytalksnews.com",
+      "title": "Nearly Half of Seniors Lack Dental Coverage Here Are 10 Ways to Keep Your Savings and Smile Intact",
+      "url": "https://www.moneytalksnews.com/how-seniors-can-save-on-dental-care/",
+      "published_at": "2026-09-11T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.moneytalksnews.com/workers/images/width=1920,height=1280,fit=crop,gravity=auto/wp-content/uploads/2021/07/08231104/shutterstock_579482257-scaled.jpg?s=a454d271ef78381fbb797ddf0e737ed177e49885bf7b2f294f8cb893b977b7e4",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "moneytalksnews.com"
+      ]
+    },
+    {
+      "id": "https://abc6onyourside.com/news/nation-world/appeals-court-rules-clean-drinking-water-is-not-a-constitutional-right-fifth-circuit-14th-amendment-flint-michigan-jackson-mississippi",
+      "domain": "abc6onyourside.com",
+      "title": "Appeals court rules clean drinking water is not a constitutional right",
+      "url": "https://abc6onyourside.com/news/nation-world/appeals-court-rules-clean-drinking-water-is-not-a-constitutional-right-fifth-circuit-14th-amendment-flint-michigan-jackson-mississippi",
+      "published_at": "2026-09-11T19:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://abc6onyourside.com/resources/media2/16x9/1312/1320/4x0/90/92f2f4ee-3284-45b1-9fda-f0a09ab4ee6d-faucet.png",
+      "matched_keywords": [
+        "lead in water"
+      ],
+      "syndicated_count": 28,
+      "syndicated_domains": [
+        "abc6onyourside.com",
+        "abc7amarillo.com",
+        "bakersfieldnow.com",
+        "cbs12.com",
+        "cbs2iowa.com",
+        "cnycentral.com",
+        "fox23.com",
+        "fox23maine.com",
+        "fox4beaumont.com",
+        "foxrochester.com",
+        "foxsanantonio.com",
+        "katu.com",
+        "kfdm.com",
+        "komonews.com",
+        "kpic.com",
+        "ktul.com",
+        "nebraska.tv",
+        "news3lv.com",
+        "news4sanantonio.com",
+        "upnorthlive.com",
+        "wcyb.com",
+        "weartv.com",
+        "wgme.com",
+        "wgxa.tv",
+        "wjla.com",
+        "wlos.com",
+        "wset.com",
+        "wwmt.com"
+      ]
+    },
+    {
+      "id": "https://www.delawarepublic.org/show/the-green/2026-09-11/new-castle-county-utility-sues-pfas-makers-for-cost-of-filtration",
+      "domain": "delawarepublic.org",
+      "title": "New Castle County utility sues PFAS makers for cost of filtration",
+      "url": "https://www.delawarepublic.org/show/the-green/2026-09-11/new-castle-county-utility-sues-pfas-makers-for-cost-of-filtration",
+      "published_at": "2026-09-11T15:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/a2/ea/695c3241450f862aaf1a1163a467/veolia-pfas-filters1.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "delawarepublic.org"
+      ]
+    },
+    {
+      "id": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+      "domain": "theverge.com",
+      "title": "Arizona lifeline for chip manufacturing is drying up",
+      "url": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+      "published_at": "2026-09-11T15:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293067544.jpg?quality=90&strip=all&crop=0%2C10.953924023513%2C100%2C78.092151952973",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "theverge.com"
+      ]
+    },
+    {
+      "id": "https://i95rocks.com/ixp/495/p/crumbl-cookies-belfast-maine/",
+      "domain": "i95rocks.com",
+      "title": "Crumbl Cookies Pop - Up Event In Belfast , Maine This Saturday",
+      "url": "https://i95rocks.com/ixp/495/p/crumbl-cookies-belfast-maine/",
+      "published_at": "2026-09-11T14:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://townsquare.media/site/495/files/2026/09/attachment-gettyimages-1734462997-3.jpg?&q=75&format=natural",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "i95rocks.com"
+      ]
+    },
+    {
+      "id": "https://kfox95.com/ixp/156/p/edgewood-texas-brown-water/",
+      "domain": "kfox95.com",
+      "title": "Brown Water Has Edgewood Residents Concerned",
+      "url": "https://kfox95.com/ixp/156/p/edgewood-texas-brown-water/",
+      "published_at": "2026-09-11T12:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.unsplash.com/photo-1505281147415-f688150c9b9b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4MTAzODB8MHwxfGFsbHx8fHx8fHx8fDE3ODkwMzU0NzR8&ixlib=rb-4.1.0&q=75&bid=156&fit=crop&format=natural",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 5,
+      "syndicated_domains": [
+        "1025kiss.com",
+        "kfox95.com",
+        "koolfmabilene.com",
+        "mix931fm.com",
+        "power959.com"
+      ]
+    },
+    {
+      "id": "https://lancasteronline.com/news/local/lancaster-stair-climb-to-honor-9-11-victims-as-part-of-25th-year-observances/article_d2221723-9455-41da-b7c0-bafbfb5ba273.html",
+      "domain": "lancasteronline.com",
+      "title": "Lancaster stair climb to honor 9 / 11 victims as part of 25th year observances",
+      "url": "https://lancasteronline.com/news/local/lancaster-stair-climb-to-honor-9-11-victims-as-part-of-25th-year-observances/article_d2221723-9455-41da-b7c0-bafbfb5ba273.html",
+      "published_at": "2026-09-11T10:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/3/da/3daef772-b451-11e8-9648-f7b2e8b72f60/5b9550a57c017.image.jpg?crop=1694%2C889%2C0%2C166",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "lancasteronline.com"
+      ]
+    },
+    {
+      "id": "https://www.theintermountain.com/news/communities/2026/09/community-calendar-440/",
+      "domain": "theintermountain.com",
+      "title": "Community Calendar",
+      "url": "https://www.theintermountain.com/news/communities/2026/09/community-calendar-440/",
+      "published_at": "2026-09-11T08:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "theintermountain.com"
+      ]
+    },
+    {
+      "id": "https://www.mariettatimes.com/news/local-news/2026/09/local-events-485/",
+      "domain": "mariettatimes.com",
+      "title": "Local events",
+      "url": "https://www.mariettatimes.com/news/local-news/2026/09/local-events-485/",
+      "published_at": "2026-09-11T08:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mariettatimes.com"
       ]
     },
     {
@@ -225,16 +689,101 @@
       ]
     },
     {
-      "id": "https://www.wndu.com/2026/09/10/benton-harbor-city-leaders-say-no-fluoride-drinking-water-now/",
-      "domain": "wndu.com",
-      "title": "Benton Harbor city leaders say no to fluoride in drinking water for now",
-      "url": "https://www.wndu.com/2026/09/10/benton-harbor-city-leaders-say-no-fluoride-drinking-water-now/",
+      "id": "https://www.yahoo.com/news/us/articles/federal-appeals-court-says-clean-133821754.html",
+      "domain": "yahoo.com",
+      "title": "Federal appeals court says clean drinking water is not a constitutional right",
+      "url": "https://www.yahoo.com/news/us/articles/federal-appeals-court-says-clean-133821754.html",
+      "published_at": "2026-09-11T03:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/25cd29b24c02e02163187d0c8811f4e3bd66569cb009f07dbbde62c3039b3542/lightyear_networkapi/resizefill_w900_h505%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_hill_articles_341%2F95d69ce1f2a0ff4bab593ed078d8bf64.jpg",
+      "matched_keywords": [
+        "lead in water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "yahoo.com"
+      ]
+    },
+    {
+      "id": "https://www.wmtw.com/article/brunswick-topsham-open-new-treatment-facility-address-pfas-concerns/73673764",
+      "domain": "wmtw.com",
+      "title": "Brunswick and Topsham open new PFAS water treatment facility",
+      "url": "https://www.wmtw.com/article/brunswick-topsham-open-new-treatment-facility-address-pfas-concerns/73673764",
+      "published_at": "2026-09-11T02:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kubrick.htvapps.com/vidthumb/7d33f48d-abb9-4274-853e-372c50c8ae20/b736bdd5-0986-4aa2-b975-e853f8de706c.jpg?crop=0.800xw%3A0.799xh%3B0.200xw%2C0",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wmtw.com"
+      ]
+    },
+    {
+      "id": "https://www.klcc.org/podcast/oregon-on-the-record/2026-09-10/postpartum-depression-local-nonprofit-helps-families-cope-with-illness",
+      "domain": "klcc.org",
+      "title": "Postpartum depression : Local nonprofit helps families cope with illness",
+      "url": "https://www.klcc.org/podcast/oregon-on-the-record/2026-09-10/postpartum-depression-local-nonprofit-helps-families-cope-with-illness",
+      "published_at": "2026-09-11T02:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/17/98/ba8260794df48a7cf9a3344adc92/well-mama.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "klcc.org"
+      ]
+    },
+    {
+      "id": "https://www.watertechonline.com/water-reuse/article/55395695/water-stewardship-in-the-age-of-ai-maximizing-water-reuse-in-data-centers",
+      "domain": "watertechonline.com",
+      "title": "Water stewardship in the age of AI : Maximizing water reuse in data centers",
+      "url": "https://www.watertechonline.com/water-reuse/article/55395695/water-stewardship-in-the-age-of-ai-maximizing-water-reuse-in-data-centers",
+      "published_at": "2026-09-10T23:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://img.watertechonline.com/files/base/ebm/wto/image/2026/08/6a723f342e1f485174a52160-data_center_servers_gettyimages885294104_1.png?auto=format,compress&fit=fill&fill=blur",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "watertechonline.com"
+      ]
+    },
+    {
+      "id": "https://newschannel9.com/news/local/north-carolina-reaches-455-million-dollars-settlement-with-dupont-chemours-corteva-pfas-contamination-forever-chemicals-fayettevile-works-cape-fear-river-air",
+      "domain": "newschannel9.com",
+      "title": "North Carolina reaches $455M settlement with chemical companies over PFAS contamination",
+      "url": "https://newschannel9.com/news/local/north-carolina-reaches-455-million-dollars-settlement-with-dupont-chemours-corteva-pfas-contamination-forever-chemicals-fayettevile-works-cape-fear-river-air",
       "published_at": "2026-09-10T22:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/232ADWK5JRFLHI3FY3PQLNLDZ4.jpg?auth=98199a2b50cb11d1452ea1e96bc88d4b01172ae6e07246a3cb280aaa101d7a39&smart=true",
+      "thumbnail": "https://newschannel9.com/resources/media2/16x9/4548/1320/0x384/90/1513358b-63f7-44a5-a234-8b74093af828-AP26175454996509.jpg",
       "matched_keywords": [
-        "fluoride in water"
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "newschannel9.com"
+      ]
+    },
+    {
+      "id": "https://www.wndu.com/2026/09/10/boil-order-issued-niles-township-after-coliform-bacteria-detected-water/",
+      "domain": "wndu.com",
+      "title": "Boil order issued in Niles Township after coliform bacteria detected in water",
+      "url": "https://www.wndu.com/2026/09/10/boil-order-issued-niles-township-after-coliform-bacteria-detected-water/",
+      "published_at": "2026-09-10T22:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wndu-prod.gtv-cdn.com/resizer/v2/ELKSSGWOWZHBXHAT4DX5GGXV2I.jpg?auth=58249591eeadf87b60b3f9cc53467d7058093cb647099031b2c4c7ee8d9bc2f6&smart=true",
+      "matched_keywords": [
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
@@ -242,20 +791,88 @@
       ]
     },
     {
-      "id": "https://www.georgetown.edu/news/flash-floods-climate-change-resilience-ask-a-professor/",
-      "domain": "georgetown.edu",
-      "title": "Why Flash Floods Are Getting Worse - Georgetown University",
-      "url": "https://www.georgetown.edu/news/flash-floods-climate-change-resilience-ask-a-professor/",
-      "published_at": "2026-09-10T18:30:00+00:00",
+      "id": "https://www.sandiegouniontribune.com/2026/09/10/county-cdc-to-launch-second-health-survey-on-tijuana-river-sewage-crisis/",
+      "domain": "sandiegouniontribune.com",
+      "title": "County , CDC to launch second health survey on Tijuana River sewage crisis",
+      "url": "https://www.sandiegouniontribune.com/2026/09/10/county-cdc-to-launch-second-health-survey-on-tijuana-river-sewage-crisis/",
+      "published_at": "2026-09-10T22:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.georgetown.edu/wp-content/uploads/2026/09/GettyImages-1057751720-scaled.jpg",
+      "thumbnail": "https://www.sandiegouniontribune.com/wp-content/uploads/2024/12/Sut-l-cdc-casper-5.jpg",
       "matched_keywords": [
-        "hard water"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "georgetown.edu"
+        "sandiegouniontribune.com"
+      ]
+    },
+    {
+      "id": "https://www.abc57.com/news/bacteria-detected-in-niles-charter-township-water-boil-order-in-place",
+      "domain": "abc57.com",
+      "title": "Bacteria detected in Niles Charter Township water ; boil order in place",
+      "url": "https://www.abc57.com/news/bacteria-detected-in-niles-charter-township-water-boil-order-in-place",
+      "published_at": "2026-09-10T22:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://newscdn2.weigelbroadcasting.com/1oDi0-1789073474-324404-blog-MGN_1280x720_30825C00-PMRHV.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "abc57.com"
+      ]
+    },
+    {
+      "id": "https://hightimes.com/opinion/reflections-on-9-11-how-tragedy-led-me-to-cannabis/",
+      "domain": "hightimes.com",
+      "title": "Reflections on 9 / 11 , 25 Years Later : How Tragedy Led Me to Cannabis",
+      "url": "https://hightimes.com/opinion/reflections-on-9-11-how-tragedy-led-me-to-cannabis/",
+      "published_at": "2026-09-10T20:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://hightimes.com/wp-content/uploads/2025/09/High-Times-Covers8.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "hightimes.com"
+      ]
+    },
+    {
+      "id": "https://portcitydaily.com/local-news/2026/09/10/multi-million-pfas-settlement-announced-with-chemours-dupont-and-corteva-and-nc-localities/",
+      "domain": "portcitydaily.com",
+      "title": "Chemours , DuPont , Corteva settle multi - million PFAS lawsuit with NC localities",
+      "url": "https://portcitydaily.com/local-news/2026/09/10/multi-million-pfas-settlement-announced-with-chemours-dupont-and-corteva-and-nc-localities/",
+      "published_at": "2026-09-10T19:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://d2m9t6p6qpk0cr.cloudfront.net/wp-content/uploads/2024/04/CapeFearRivernew.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "portcitydaily.com"
+      ]
+    },
+    {
+      "id": "https://www.wfdd.org/2026-09-10/north-carolina-secures-historic-590-million-settlement-with-dupont-and-chemours-over-pfas-contamination",
+      "domain": "wfdd.org",
+      "title": "North Carolina secures historic $590 million settlement with DuPont and Chemours over PFAS contamination",
+      "url": "https://www.wfdd.org/2026-09-10/north-carolina-secures-historic-590-million-settlement-with-dupont-and-chemours-over-pfas-contamination",
+      "published_at": "2026-09-10T18:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/fe/e1/e2c1df854a3b8f74d12c04cb130e/jeff-jackson-chemours.png",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wfdd.org"
       ]
     },
     {
@@ -268,11 +885,148 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/3/14/314e8acb-2902-555b-ba8d-ed1bcdbedec1/6aa23cd9f2fb8.preview.jpg?crop=1890%2C1063%2C29%2C0",
       "matched_keywords": [
+        "reverse osmosis",
         "water softener"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "tucson.com"
+      ]
+    },
+    {
+      "id": "https://www.pressherald.com/2026/09/10/pfas-from-2024-spill-are-showing-up-in-harpswells-birds/",
+      "domain": "pressherald.com",
+      "title": "PFAS from 2024 spill are showing up in Harpswell birds",
+      "url": "https://www.pressherald.com/2026/09/10/pfas-from-2024-spill-are-showing-up-in-harpswells-birds/",
+      "published_at": "2026-09-10T18:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "pressherald.com"
+      ]
+    },
+    {
+      "id": "https://www.berkshireeagle.com/news/northern_berkshires/north-adams-tree-commission-sustainability/article_aae0b92c-31b2-42f9-8cbe-6bda88796153.html",
+      "domain": "berkshireeagle.com",
+      "title": "After months of debate , North Adams expands Tree Commission to focus on sustainability",
+      "url": "https://www.berkshireeagle.com/news/northern_berkshires/north-adams-tree-commission-sustainability/article_aae0b92c-31b2-42f9-8cbe-6bda88796153.html",
+      "published_at": "2026-09-10T18:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/a/ae/aae0b92c-31b2-42f9-8cbe-6bda88796153/6aa2cddb04199.preview.jpg?crop=1763%2C926%2C0%2C124",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "berkshireeagle.com"
+      ]
+    },
+    {
+      "id": "https://www.aol.com/articles/flight-attendants-d-never-order-154000000.html",
+      "domain": "aol.com",
+      "title": "Flight Attendants Say Theyd Never Order These 2 Drinks On A Plane",
+      "url": "https://www.aol.com/articles/flight-attendants-d-never-order-154000000.html",
+      "published_at": "2026-09-10T18:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://hermes.media.static.aol.com/media/2026/09/10/0eef9ef1-5cb0-3e6a-ae72-0b0ec8c8742f/749a1873-0892-4216-8b91-5c8022514d0b.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "aol.com"
+      ]
+    },
+    {
+      "id": "https://power98fm.com/2026/09/10/dababys-no-knife-chicken-waffles-opens-in-charlotte-draws-viral-debate/",
+      "domain": "power98fm.com",
+      "title": "DaBaby No Knife Chicken & Waffles Opens in Charlotte , Draws Viral Price Debate",
+      "url": "https://power98fm.com/2026/09/10/dababys-no-knife-chicken-waffles-opens-in-charlotte-draws-viral-debate/",
+      "published_at": "2026-09-10T18:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://power98fm.com/uploads/2026/09/noknife-chicken-and-waffles.jpg?auto=webp",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "power98fm.com"
+      ]
+    },
+    {
+      "id": "https://www.wfmz.com/news/area/southeastern-pa/central-bucks-county/whats-in-the-water-town-hall-will-focus-on-pfas-in-bucks-montgomery-counties/article_4cfb52d2-919e-4c65-9a08-af412c41f287.html",
+      "domain": "wfmz.com",
+      "title": "What in the water ? Town hall will focus on PFAS in Bucks , Montgomery counties",
+      "url": "https://www.wfmz.com/news/area/southeastern-pa/central-bucks-county/whats-in-the-water-town-hall-will-focus-on-pfas-in-bucks-montgomery-counties/article_4cfb52d2-919e-4c65-9a08-af412c41f287.html",
+      "published_at": "2026-09-10T17:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/92/392e568b-5831-5111-b99e-b037cec6ac53/64b6f65871321.image.jpg?crop=1762%2C925%2C0%2C124",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wfmz.com"
+      ]
+    },
+    {
+      "id": "https://www.wptf.com/2026/09/10/17610/",
+      "domain": "wptf.com",
+      "title": "State , local governments reach nearly $600 million over PFAS contamination",
+      "url": "https://www.wptf.com/2026/09/10/17610/",
+      "published_at": "2026-09-10T17:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/3836/files/2026/09/jeff-jackson-1200x675.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wptf.com"
+      ]
+    },
+    {
+      "id": "https://www.wtoc.com/2026/09/10/kroger-stores-hosting-stock-station-donation-drive-local-first-responders/",
+      "domain": "wtoc.com",
+      "title": "Kroger stores hosting  Stock the Station  donation drive for local first responders",
+      "url": "https://www.wtoc.com/2026/09/10/kroger-stores-hosting-stock-station-donation-drive-local-first-responders/",
+      "published_at": "2026-09-10T16:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/RDX4NDQZ6FCKJNYW66UQCWCII4.png?auth=edf3e91eaabe13a564915e890b9cc5ee04d42c67069927601818c8fcc04b22f2&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wtoc.com"
+      ]
+    },
+    {
+      "id": "https://www.alternet.org/alternet-exclusives/trump-mystery-meat/",
+      "domain": "alternet.org",
+      "title": "What Trump just approved is already hiding in your grocery cart",
+      "url": "https://www.alternet.org/alternet-exclusives/trump-mystery-meat/",
+      "published_at": "2026-09-10T14:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.alternet.org/media-library/woman-shopping-in-grocery-store-aisle.jpg?id=67749593&coordinates=0%2C416%2C0%2C417",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "alternet.org"
       ]
     },
     {
@@ -294,6 +1048,212 @@
       ]
     },
     {
+      "id": "https://www.dailymail.com/news/article-16120031/run-straight-Randwick-Sydney-cancelled.html",
+      "domain": "dailymail.com",
+      "title": "Controversial  run - it - straight  event is shut down a year after 19 - year - old died during backyard game",
+      "url": "https://www.dailymail.com/news/article-16120031/run-straight-Randwick-Sydney-cancelled.html",
+      "published_at": "2026-09-10T11:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i.dailymail.com/1s/2026/09/10/11/111163063-0-image-m-21_1789036762565.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailymail.com"
+      ]
+    },
+    {
+      "id": "https://www.yumasun.com/news/gowan-science-academy-teaches-students-the-importance-of-giving-back/article_06fb4ae5-db50-4843-81c5-cbf0b5dfc7b9.html",
+      "domain": "yumasun.com",
+      "title": "Gowan Science Academy teaches students the importance of giving back",
+      "url": "https://www.yumasun.com/news/gowan-science-academy-teaches-students-the-importance-of-giving-back/article_06fb4ae5-db50-4843-81c5-cbf0b5dfc7b9.html",
+      "published_at": "2026-09-10T06:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/yumasun.com/content/tncms/assets/v3/editorial/b/c2/bc26afa2-23ef-444c-896b-dc4a4df5c374/6aa1d7f41f65e.image.jpg?crop=1763%2C926%2C0%2C124",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "yumasun.com"
+      ]
+    },
+    {
+      "id": "https://www.nvdaily.com/associated_press_national/wells-drying-up-at-south-dakota-homes-and-ranches-due-to-heat-and-drought/article_531e8604-9f0c-5bc1-b494-4c9fad976b76.html",
+      "domain": "nvdaily.com",
+      "title": "Wells drying up at South Dakota homes and ranches due to heat and drought",
+      "url": "https://www.nvdaily.com/associated_press_national/wells-drying-up-at-south-dakota-homes-and-ranches-due-to-heat-and-drought/article_531e8604-9f0c-5bc1-b494-4c9fad976b76.html",
+      "published_at": "2026-09-10T06:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/nvdaily.com/content/tncms/assets/v3/editorial/1/f2/1f2b3683-3d14-5b59-812c-c69f69d21e09/6a99de2e67162.image.jpg?crop=1763%2C926%2C0%2C124",
+      "matched_keywords": [
+        "bottled water",
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "nvdaily.com"
+      ]
+    },
+    {
+      "id": "https://www.kwch.com/2026/09/10/kdhe-issues-boil-water-advisory-sedgwick-county-rural-water-district-4/",
+      "domain": "kwch.com",
+      "title": "KDHE issues boil water advisory for Sedgwick County Rural Water District # 4",
+      "url": "https://www.kwch.com/2026/09/10/kdhe-issues-boil-water-advisory-sedgwick-county-rural-water-district-4/",
+      "published_at": "2026-09-10T05:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-kwch-prod.gtv-cdn.com/resizer/v2/6LMBPMCWDZOBLBRJ7P5FODKWBQ.jpg?auth=fb278487e61683a8bcb78fc0b1d37d5d08595a063a848b9dae058416017dc7b6&smart=false&focal=843%2C303",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kwch.com"
+      ]
+    },
+    {
+      "id": "https://www.wateronline.com/doc/desalination-and-reuse-event-explores-water-resilient-future-0001",
+      "domain": "wateronline.com",
+      "title": "Desalination And Reuse Event Explores Water Resilient Future",
+      "url": "https://www.wateronline.com/doc/desalination-and-reuse-event-explores-water-resilient-future-0001",
+      "published_at": "2026-09-10T04:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wateronline.com"
+      ]
+    },
+    {
+      "id": "https://www.kake.com/home/boil-water-advisory-issued-for-portion-of-sedgwick-county/article_42eaded8-2535-4aa8-9328-a95255db4393.html",
+      "domain": "kake.com",
+      "title": "Boil water advisory issued for portion of Sedgwick County",
+      "url": "https://www.kake.com/home/boil-water-advisory-issued-for-portion-of-sedgwick-county/article_42eaded8-2535-4aa8-9328-a95255db4393.html",
+      "published_at": "2026-09-10T03:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/kake.com/content/tncms/assets/v3/editorial/3/24/324722a0-40f8-59ca-a91d-fbc582d7c971/65d58b278d3ce.image.jpg?crop=640%2C336%2C0%2C11",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kake.com"
+      ]
+    },
+    {
+      "id": "https://www.twincities.com/2026/09/09/hastings-sues-3m-over-forever-chemicals-in-citys-water-wells/",
+      "domain": "twincities.com",
+      "title": "Hastings sues 3M over  forever chemical in city water wells \u2013 Twin Cities",
+      "url": "https://www.twincities.com/2026/09/09/hastings-sues-3m-over-forever-chemicals-in-citys-water-wells/",
+      "published_at": "2026-09-10T02:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.twincities.com/wp-content/uploads/2015/10/wpid-20140331__140331_3M_skybox.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "twincities.com"
+      ]
+    },
+    {
+      "id": "https://www.kxii.com/2026/09/10/crews-work-fix-water-main-breaks-including-large-break-near-eisenhower-birthplace/",
+      "domain": "kxii.com",
+      "title": "Denison crews work to fix water main breaks , including large break near Eisenhower Birthplace",
+      "url": "https://www.kxii.com/2026/09/10/crews-work-fix-water-main-breaks-including-large-break-near-eisenhower-birthplace/",
+      "published_at": "2026-09-10T02:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-kxii-prod.gtv-cdn.com/resizer/v2/RSKLMIQHXFBT7LGEE4AC2CSWKU.jpg?auth=8e6e30cea12c2b98f63e8590c49256c048e943151fc2aeed8106f2505555de88&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kxii.com"
+      ]
+    },
+    {
+      "id": "https://streetwisejournal.com/what-anabei-furniture-reviews-say-about-certified-sustainable-materials/",
+      "domain": "streetwisejournal.com",
+      "title": "What Anabei Furniture Reviews Say About Certified , Sustainable Materials",
+      "url": "https://streetwisejournal.com/what-anabei-furniture-reviews-say-about-certified-sustainable-materials/",
+      "published_at": "2026-09-10T02:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://streetwisejournal.com/wp-content/uploads/2026/09/what-anabei-furniture-reviews-say-about-certified-sustainable-materials.webp",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "streetwisejournal.com"
+      ]
+    },
+    {
+      "id": "https://www.wxow.com/news/pfas/pfas-educational-forum-to-take-place-in-sparta/article_eab052ed-8eb1-488a-ab3d-72296401cfe4.html",
+      "domain": "wxow.com",
+      "title": "PFAS educational forum to take place in Sparta",
+      "url": "https://www.wxow.com/news/pfas/pfas-educational-forum-to-take-place-in-sparta/article_eab052ed-8eb1-488a-ab3d-72296401cfe4.html",
+      "published_at": "2026-09-10T02:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/assets/v3/editorial/a/19/a1977c0b-e2ff-4f57-aca0-26ed651a5b36/69bb098112199.image.png?crop=1920%2C1008%2C0%2C35",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wxow.com"
+      ]
+    },
+    {
+      "id": "https://finance.yahoo.com/economy/policy/articles/oeko-tex-outlines-growth-opportunities-134728467.html",
+      "domain": "finance.yahoo.com",
+      "title": "Oeko - Tex Outlines Growth , Opportunities In Annual Report",
+      "url": "https://finance.yahoo.com/economy/policy/articles/oeko-tex-outlines-growth-opportunities-134728467.html",
+      "published_at": "2026-09-10T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/d49a49a549545edcbc05ef66eca27f01f5b6aa66ca066fd9b1ba64979caa1e04/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsourcing_journal_735%2F9f1743f1f0f4f1f1aa64e2b45ac9e786.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "finance.yahoo.com"
+      ]
+    },
+    {
+      "id": "https://www.news4jax.com/news/local/2026/09/09/blue-green-algae-detected-at-doctors-lake-in-clay-county/",
+      "domain": "news4jax.com",
+      "title": "Blue - green algae detected at Doctors Lake in Clay County",
+      "url": "https://www.news4jax.com/news/local/2026/09/09/blue-green-algae-detected-at-doctors-lake-in-clay-county/",
+      "published_at": "2026-09-10T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/OUKTDVNEG5CNJO4ATNNQUMK5S4.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "news4jax.com"
+      ]
+    },
+    {
       "id": "https://www.theepochtimes.com/epochbuy/best-hiking-gear-for-day-hikes-what-you-actually-need-and-what-you-can-skip-6083091",
       "domain": "theepochtimes.com",
       "title": "Best Hiking Gear for Day Hikes : What You Actually Need and What You Can Skip",
@@ -311,6 +1271,186 @@
       ]
     },
     {
+      "id": "https://www.potomaclocal.com/2026/09/09/quantico-base-first-comment-suspected-main-break/",
+      "domain": "potomaclocal.com",
+      "title": "Quantico base comments for first time on water outage , cites suspected main break",
+      "url": "https://www.potomaclocal.com/2026/09/09/quantico-base-first-comment-suspected-main-break/",
+      "published_at": "2026-09-10T00:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.potomaclocal.com/wp-content/uploads/2026/09/Quantico-water-pallets-1.jpeg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "potomaclocal.com"
+      ]
+    },
+    {
+      "id": "https://greatbendpost.com/posts/3b7b5896-c117-4b7b-9e5c-e86c8f552eaa",
+      "domain": "greatbendpost.com",
+      "title": "Boil Water Advisory Issued for a Portion of the City of Great Bend",
+      "url": "https://greatbendpost.com/posts/3b7b5896-c117-4b7b-9e5c-e86c8f552eaa",
+      "published_at": "2026-09-09T23:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://media.eaglewebservices.com/public/2026/7/1785029760553.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "greatbendpost.com"
+      ]
+    },
+    {
+      "id": "https://www.phillyvoice.com/fathers-brewing-philly-lager-clean-beer-lane-johnson/",
+      "domain": "phillyvoice.com",
+      "title": "Fathers Brewing , an organic beer maker backed by Eagles player Lane Johnson , enters Philly market",
+      "url": "https://www.phillyvoice.com/fathers-brewing-philly-lager-clean-beer-lane-johnson/",
+      "published_at": "2026-09-09T22:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://media.phillyvoice.com/media/images/9926_Fathers_brewing.2e16d0ba.fill-1200x630-c0.png",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "phillyvoice.com"
+      ]
+    },
+    {
+      "id": "http://www.bostonstar.com/news/279296962/freedom-water-systems-launches-platinum-series-whole-home-water-filtration-with-20-year-warranty",
+      "domain": "bostonstar.com",
+      "title": "Freedom Water Systems Launches Platinum Series Whole - Home Water Filtration with 20 - Year Warranty",
+      "url": "http://www.bostonstar.com/news/279296962/freedom-water-systems-launches-platinum-series-whole-home-water-filtration-with-20-year-warranty",
+      "published_at": "2026-09-09T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 7,
+      "syndicated_domains": [
+        "albuquerqueexpress.com",
+        "baltimorestar.com",
+        "bostonstar.com",
+        "dallassun.com",
+        "phoenixherald.com",
+        "saltlakecitysun.com",
+        "theusnews.com"
+      ]
+    },
+    {
+      "id": "https://www.yahoo.com/news/articles/authority-issues-boil-water-notice-212802593.html",
+      "domain": "yahoo.com",
+      "title": "Authority issues boil water notice for portions of Amelia Island system",
+      "url": "https://www.yahoo.com/news/articles/authority-issues-boil-water-notice-212802593.html",
+      "published_at": "2026-09-09T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/2f0e257b76c835b5a6e405e937e2ec49905f1ce44000679cd7e0bddf4a45c2b9/lightyear_networkapi/resizefill_w300_h300%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwjax_cox_articles_158%2F0fee42c52303a55fceb6f0d7393024fa.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "yahoo.com"
+      ]
+    },
+    {
+      "id": "https://www.mendocinobeacon.com/2026/09/08/californias-best-low-alcohol-wines-are-made-in-the-vineyard/",
+      "domain": "mendocinobeacon.com",
+      "title": "California best low - alcohol wines are made in the vineyard",
+      "url": "https://www.mendocinobeacon.com/2026/09/08/californias-best-low-alcohol-wines-are-made-in-the-vineyard/",
+      "published_at": "2026-09-09T19:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mendocinobeacon.com"
+      ]
+    },
+    {
+      "id": "http://www.wdtimes.com/news/local/germanfest-to-be-held-at-immanuel-lutheran-of-lebanon/article_faef608a-0f40-48c9-8500-59289bceb0be.html",
+      "domain": "wdtimes.com",
+      "title": "Germanfest to be held at Immanuel Lutheran of Lebanon",
+      "url": "http://www.wdtimes.com/news/local/germanfest-to-be-held-at-immanuel-lutheran-of-lebanon/article_faef608a-0f40-48c9-8500-59289bceb0be.html",
+      "published_at": "2026-09-09T18:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/wdtimes.com/content/tncms/assets/v3/editorial/b/94/b9446dbd-ef6f-4a44-bc17-954d4f25ae4c/6aa1a0d2df375.image.jpg?crop=640%2C336%2C0%2C72",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wdtimes.com"
+      ]
+    },
+    {
+      "id": "https://www.dallasobserver.com/news/a-town-14-miles-from-dallas-has-no-clean-drinking-water-shes-trying-to-fill-the-gap-40712379/",
+      "domain": "dallasobserver.com",
+      "title": "Sand Branch near Dallas has no clean drinking water",
+      "url": "https://www.dallasobserver.com/news/a-town-14-miles-from-dallas-has-no-clean-drinking-water-shes-trying-to-fill-the-gap-40712379/",
+      "published_at": "2026-09-09T18:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.dallasobserver.com/wp-content/uploads/sites/3/ww-media/mediaserver/dal/2021-43/sandbranch_water-8-e1788895485765.webp",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dallasobserver.com"
+      ]
+    },
+    {
+      "id": "https://www.delcotimes.com/2026/09/09/here-are-the-terms-you-need-to-follow-the-data-center-sustainability-debate/",
+      "domain": "delcotimes.com",
+      "title": "From hyperscale to closed loop cooling , here a data center glossary",
+      "url": "https://www.delcotimes.com/2026/09/09/here-are-the-terms-you-need-to-follow-the-data-center-sustainability-debate/",
+      "published_at": "2026-09-09T17:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.delcotimes.com/wp-content/uploads/2026/09/TMC-L-DATACENTER.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 5,
+      "syndicated_domains": [
+        "delcotimes.com",
+        "pottsmerc.com",
+        "standardspeaker.com",
+        "thereporteronline.com",
+        "trentonian.com"
+      ]
+    },
+    {
+      "id": "http://www.thegazette.com/opinion/hinson-backs-fewer-restrictions-on-water-polluters/article_b638b99c-0837-415c-8219-a4e88dbd6f87.html",
+      "domain": "thegazette.com",
+      "title": "Hinson backs fewer restrictions on water polluters",
+      "url": "http://www.thegazette.com/opinion/hinson-backs-fewer-restrictions-on-water-polluters/article_b638b99c-0837-415c-8219-a4e88dbd6f87.html",
+      "published_at": "2026-09-09T17:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/thegazette.com/content/tncms/assets/v3/editorial/b/63/b638b99c-0837-415c-8219-a4e88dbd6f87/6aa01e56d410a.preview.jpg?crop=1707%2C896%2C0%2C158",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "thegazette.com"
+      ]
+    },
+    {
       "id": "https://tucson.com/life-entertainment/local/home-gardening/collection_08cf0185-bc5d-5ab5-b96e-e59462a93a63.html",
       "domain": "tucson.com",
       "title": "Newly Listed Homes near Sahuarita , AZ Updated Sep . 9 , 2026",
@@ -320,6 +1460,7 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/8c/08cf0185-bc5d-5ab5-b96e-e59462a93a63/6aa0e8025c1f5.preview.jpg?crop=1890%2C1063%2C29%2C0",
       "matched_keywords": [
+        "reverse osmosis",
         "water softener"
       ],
       "syndicated_count": 1,
@@ -328,88 +1469,72 @@
       ]
     },
     {
-      "id": "https://www.aceshowbiz.com/news/view/00261635.html",
-      "domain": "aceshowbiz.com",
-      "title": "Should You Ditch Your Water Heater Tank ? ",
-      "url": "https://www.aceshowbiz.com/news/view/00261635.html",
+      "id": "https://silvercityradio.com/local-news-wednesday-september-9-2026/",
+      "domain": "silvercityradio.com",
+      "title": "Local News : Wednesday , September 9 , 2026 \u2013 Silver City Radio",
+      "url": "https://silvercityradio.com/local-news-wednesday-september-9-2026/",
+      "published_at": "2026-09-09T17:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "silvercityradio.com"
+      ]
+    },
+    {
+      "id": "https://953thebear.com/liquid-death-water-alabama-controversy/",
+      "domain": "953thebear.com",
+      "title": "Why Alabama Residents Are Talking About Liquid Death Edgy Campaigns",
+      "url": "https://953thebear.com/liquid-death-water-alabama-controversy/",
       "published_at": "2026-09-09T16:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.aceshowbiz.com/display/images/photo/2026/09/09/6aa093e1b439e.webp",
+      "thumbnail": "https://townsquare.media/site/532/files/2026/09/attachment-liquid-death.jpg?&format=natural",
       "matched_keywords": [
-        "hard water"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "aceshowbiz.com"
+        "953thebear.com"
       ]
     },
     {
-      "id": "https://www.pfonline.com/articles/how-to-course-correct-declining-bath-heat-transfer",
-      "domain": "pfonline.com",
-      "title": "How to Course - Correct Declining Bath Heat Transfer",
-      "url": "https://www.pfonline.com/articles/how-to-course-correct-declining-bath-heat-transfer",
-      "published_at": "2026-09-09T08:00:00+00:00",
+      "id": "http://www.prnewswire.com/news-releases/watertectonics-expands-cooling-tower-solutions-with-dsr-technology-302869715.html",
+      "domain": "prnewswire.com",
+      "title": "WaterTectonics Expands Cooling Tower Solutions with DSR Technology",
+      "url": "http://www.prnewswire.com/news-releases/watertectonics-expands-cooling-tower-solutions-with-dsr-technology-302869715.html",
+      "published_at": "2026-09-09T14:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://d2n4wb9orp1vta.cloudfront.net/cms/brand/PF/2026-PF/1heat-exchangerscredit-titan-metal-finishing.jpg;maxWidth=1200",
+      "thumbnail": "",
       "matched_keywords": [
-        "hard water"
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "prnewswire.com"
+      ]
+    },
+    {
+      "id": "http://www.wataugademocrat.com/ap/state/greene-concepts-highlights-non-dilutive-capital-structure-and-progress-toward-working-capital-financing/article_afcf0bf1-8ae4-543a-9fb0-fdc554236c0a.html",
+      "domain": "wataugademocrat.com",
+      "title": "Greene Concepts Highlights Non - Dilutive Capital Structure and Progress Toward Working Capital Financing",
+      "url": "http://www.wataugademocrat.com/ap/state/greene-concepts-highlights-non-dilutive-capital-structure-and-progress-toward-working-capital-financing/article_afcf0bf1-8ae4-543a-9fb0-fdc554236c0a.html",
+      "published_at": "2026-09-09T14:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/wataugademocrat.com/content/tncms/assets/v3/editorial/b/e0/be009a65-0cb8-5fa6-8f0e-c5066e795468/6aa15d8875efa.image.jpg?crop=290%2C290%2C245%2C0",
+      "matched_keywords": [
+        "bottled water"
       ],
       "syndicated_count": 2,
       "syndicated_domains": [
-        "pfonline.com"
-      ]
-    },
-    {
-      "id": "https://mashable.com/life/sep-8-ninja-flip-deal",
-      "domain": "mashable.com",
-      "title": "Best Ninja deal : Get the Ninja Flip for 40 % off",
-      "url": "https://mashable.com/life/sep-8-ninja-flip-deal",
-      "published_at": "2026-09-08T20:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://helios-i.mashable.com/imagery/articles/024KqfttOL1BvFzdvcMFxCK/hero-image.fill.size_1200x675.v1788881537.png",
-      "matched_keywords": [
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "mashable.com"
-      ]
-    },
-    {
-      "id": "https://www.oneidadispatch.com/2026/09/08/continue-conserving-water-oneida-updates-water-conservation-notice/",
-      "domain": "oneidadispatch.com",
-      "title": "  Continue conserving water : Oneida updates water conservation notice \u2013 Oneida Dispatch",
-      "url": "https://www.oneidadispatch.com/2026/09/08/continue-conserving-water-oneida-updates-water-conservation-notice/",
-      "published_at": "2026-09-08T17:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.oneidadispatch.com/wp-content/uploads/2026/07/warning-sign-g1188c7773_1280.webp",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "oneidadispatch.com"
-      ]
-    },
-    {
-      "id": "https://tucson.com/life-entertainment/local/home-gardening/collection_05f0bf1e-2290-546a-bc29-125fa399a76b.html",
-      "domain": "tucson.com",
-      "title": "Newly Listed Homes near Marana , AZ Updated Sep . 8 , 2026",
-      "url": "https://tucson.com/life-entertainment/local/home-gardening/collection_05f0bf1e-2290-546a-bc29-125fa399a76b.html",
-      "published_at": "2026-09-08T14:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/5f/05f0bf1e-2290-546a-bc29-125fa399a76b/6a9f969427d3b.preview.jpg?crop=1904%2C1071%2C15%2C0",
-      "matched_keywords": [
-        "water softener"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tucson.com"
+        "newjerseytelegraph.com",
+        "wataugademocrat.com"
       ]
     }
   ]
