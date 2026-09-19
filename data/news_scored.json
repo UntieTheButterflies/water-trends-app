@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-18T13:34:06+00:00",
+  "refreshed_at": "2026-09-19T13:17:28+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,136 +18,25 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 37,
+  "total_unique_mentions": 16,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
-    "lead in water": 3,
+    "forever chemicals": 3,
+    "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 1,
-    "microplastics": 8,
+    "microplastics": 2,
     "fluoride in water": 0,
     "chromium 6": 0,
     "well water testing": 0,
-    "hard water": 3,
-    "bottled water": 16,
-    "water filter": 4,
-    "reverse osmosis": 3,
+    "hard water": 0,
+    "bottled water": 6,
+    "water filter": 2,
+    "reverse osmosis": 2,
     "water softener": 2,
     "whole house water filter": 0
   },
   "mentions": [
-    {
-      "id": "https://www.potomaclocal.com/2026/09/11/quantico-town-lifts-boil-water-advisory/",
-      "domain": "potomaclocal.com",
-      "title": "Town of Quantico lifts boil - water advisory after second sample comes back clean",
-      "url": "https://www.potomaclocal.com/2026/09/11/quantico-town-lifts-boil-water-advisory/",
-      "published_at": "2026-09-12T03:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.potomaclocal.com/wp-content/uploads/2018/11/quantico-town.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "potomaclocal.com"
-      ],
-      "relevance_score": 9,
-      "primary_angle": "crisis",
-      "notable": true,
-      "classification_reason": "direct water-quality / regulatory / crisis coverage"
-    },
-    {
-      "id": "https://www.newson6.com/tulsa-oklahoma-news/copan-water-users-under-mandatory-boil-order",
-      "domain": "newson6.com",
-      "title": "Copan water users under mandatory boil order",
-      "url": "https://www.newson6.com/tulsa-oklahoma-news/copan-water-users-under-mandatory-boil-order",
-      "published_at": "2026-09-12T01:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://griffin-media-production-griffin.s3.us-east-2.amazonaws.com/brightspot/kotv/production/2016/March/25/pittsburg-county-boil-order-suspended.1458952912000-0.jpeg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "newson6.com"
-      ],
-      "relevance_score": 9,
-      "primary_angle": "crisis",
-      "notable": true,
-      "classification_reason": "direct water-quality / regulatory / crisis coverage"
-    },
-    {
-      "id": "https://www.warwickadvertiser.com/news/local-news/town-board-addresses-wickham-village-water-quality-concerns-at-latest-meeting-KY6188590",
-      "domain": "warwickadvertiser.com",
-      "title": "Town board addresses Wickham Village water quality concerns at latest meeting",
-      "url": "https://www.warwickadvertiser.com/news/local-news/town-board-addresses-wickham-village-water-quality-concerns-at-latest-meeting-KY6188590",
-      "published_at": "2026-09-11T21:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.warwickadvertiser.com/binrepository/480x391/0c14/480d250/none/1076118/XWDY/img-7825-1_4-11094472_20260911143333.jpg",
-      "matched_keywords": [
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "warwickadvertiser.com"
-      ],
-      "relevance_score": 9,
-      "primary_angle": "water-quality",
-      "notable": true,
-      "classification_reason": "direct water-quality / regulatory / crisis coverage"
-    },
-    {
-      "id": "https://abc6onyourside.com/news/nation-world/appeals-court-rules-clean-drinking-water-is-not-a-constitutional-right-fifth-circuit-14th-amendment-flint-michigan-jackson-mississippi",
-      "domain": "abc6onyourside.com",
-      "title": "Appeals court rules clean drinking water is not a constitutional right",
-      "url": "https://abc6onyourside.com/news/nation-world/appeals-court-rules-clean-drinking-water-is-not-a-constitutional-right-fifth-circuit-14th-amendment-flint-michigan-jackson-mississippi",
-      "published_at": "2026-09-11T19:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://abc6onyourside.com/resources/media2/16x9/1312/1320/4x0/90/92f2f4ee-3284-45b1-9fda-f0a09ab4ee6d-faucet.png",
-      "matched_keywords": [
-        "lead in water"
-      ],
-      "syndicated_count": 28,
-      "syndicated_domains": [
-        "abc6onyourside.com",
-        "abc7amarillo.com",
-        "bakersfieldnow.com",
-        "cbs12.com",
-        "cbs2iowa.com",
-        "cnycentral.com",
-        "fox23.com",
-        "fox23maine.com",
-        "fox4beaumont.com",
-        "foxrochester.com",
-        "foxsanantonio.com",
-        "katu.com",
-        "kfdm.com",
-        "komonews.com",
-        "kpic.com",
-        "ktul.com",
-        "nebraska.tv",
-        "news3lv.com",
-        "news4sanantonio.com",
-        "upnorthlive.com",
-        "wcyb.com",
-        "weartv.com",
-        "wgme.com",
-        "wgxa.tv",
-        "wjla.com",
-        "wlos.com",
-        "wset.com",
-        "wwmt.com"
-      ],
-      "relevance_score": 9,
-      "primary_angle": "regulatory",
-      "notable": true,
-      "classification_reason": "direct water-quality / regulatory / crisis coverage"
-    },
     {
       "id": "https://www.farmanddairy.com/news/h2ohio-wetlands-river-restoration-ohio/928375.html",
       "domain": "farmanddairy.com",
@@ -158,6 +47,7 @@
       "source_country": "United States",
       "thumbnail": "http://d27p2a3djqwgnt.cloudfront.net/wp-content/uploads/2026/09/9-10-abrams-river-cleanup-WEB.jpg",
       "matched_keywords": [
+        "forever chemicals",
         "water filter"
       ],
       "syndicated_count": 1,
@@ -212,148 +102,21 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.saratogian.com/2026/09/12/things-going-on-around-saratoga-county-11/",
-      "domain": "saratogian.com",
-      "title": "Things going on around Saratoga County",
-      "url": "https://www.saratogian.com/2026/09/12/things-going-on-around-saratoga-county-11/",
-      "published_at": "2026-09-12T15:30:00+00:00",
+      "id": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lululemon-thoroughly-broken-160751991.html",
+      "domain": "finance.yahoo.com",
+      "title": "Jim Cramer : Lululemon Is a  Thoroughly Broken Stock . I Cant Give You a Good Reason to Buy It  ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-lululemon-thoroughly-broken-160751991.html",
+      "published_at": "2026-09-12T16:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.saratogian.com/wp-content/uploads/2026/07/calendar-2-2.jpg",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/5f873ea48738843efb34dbb71038a1bbb7866d7487ed92089ec65162f9b58e90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2F24_7_wall_st__718%2F94d3f86b491a3cf3a09d382a7531e40f.jpg",
       "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "saratogian.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.tomsguide.com/home/i-removed-stubborn-water-stains-from-my-glass-shower-door-without-using-vinegar",
-      "domain": "tomsguide.com",
-      "title": "I removed stubborn water stains from my glass shower door without using vinegar",
-      "url": "https://www.tomsguide.com/home/i-removed-stubborn-water-stains-from-my-glass-shower-door-without-using-vinegar",
-      "published_at": "2026-09-12T10:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cdn.mos.cms.futurecdn.net/agQp2X9D68wJr7jEdYR5KF-2000-80.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tomsguide.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.azocleantech.com/news.aspx?newsID=36606",
-      "domain": "azocleantech.com",
-      "title": "Swiss Study Highlights Atmospheric Sources of Microplastics Over Wastewater Treatment Plants",
-      "url": "https://www.azocleantech.com/news.aspx?newsID=36606",
-      "published_at": "2026-09-12T08:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.azocleantech.com/images/news/ThumbForNews_36606_17891935989867175.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "azocleantech.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.naturalnews.com/2026-09-11-microplastics-found-in-lungs-linked-to-lung-cancer.html",
-      "domain": "naturalnews.com",
-      "title": "Microplastics found in lungs linked to lung cancer , new research shows \u2013 NaturalNews . com",
-      "url": "https://www.naturalnews.com/2026-09-11-microplastics-found-in-lungs-linked-to-lung-cancer.html",
-      "published_at": "2026-09-12T06:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Lung-Cancer.jpg",
-      "matched_keywords": [
-        "bottled water",
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "naturalnews.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "lifestyle",
-      "notable": false,
-      "classification_reason": "americans picky about water - lightweight consumer piece"
-    },
-    {
-      "id": "https://www.citizensvoice.com/2026/09/12/community-digest-sept-12-2026-2/",
-      "domain": "citizensvoice.com",
-      "title": "COMMUNITY DIGEST : Sept . 12 , 2026",
-      "url": "https://www.citizensvoice.com/2026/09/12/community-digest-sept-12-2026-2/",
-      "published_at": "2026-09-12T05:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.citizensvoice.com/wp-content/uploads/2024/10/Citizens-Voice2-1.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "citizensvoice.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "http://www.bignewsnetwork.com/news/279302235/vijay-deverakonda-co-launches-unhype-a-skincare-brand-built-on-no-bs-only-what-works",
-      "domain": "bignewsnetwork.com",
-      "title": "Vijay Deverakonda co - launches Unhype , a skincare brand built on",
-      "url": "http://www.bignewsnetwork.com/news/279302235/vijay-deverakonda-co-launches-unhype-a-skincare-brand-built-on-no-bs-only-what-works",
-      "published_at": "2026-09-12T05:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://image.chitra.live/api/v1/wps/4f898a5/52b2a876-99e8-4385-8ab4-873ead55567f/0/ANI-20260912024640-600x315.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "bignewsnetwork.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.wtoc.com/2026/09/12/medical-prep-essentials-how-build-hurricane-emergency-kit/",
-      "domain": "wtoc.com",
-      "title": "Medical prep essentials : How to build a hurricane emergency kit",
-      "url": "https://www.wtoc.com/2026/09/12/medical-prep-essentials-how-build-hurricane-emergency-kit/",
-      "published_at": "2026-09-12T01:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://gray-wtoc-prod.gtv-cdn.com/resizer/v2/RL2DXRH7DZBZPAWQEJGNJOSPKA.png?auth=1414fb96959a8c314a46a498916e2c3b6221face6ee4b300c8293eb5c62e961a&smart=true",
-      "matched_keywords": [
-        "bottled water"
+        "forever chemicals"
       ],
       "syndicated_count": 2,
       "syndicated_domains": [
-        "live5news.com",
-        "wtoc.com"
+        "aol.com",
+        "finance.yahoo.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -361,108 +124,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://newsone.com/6871533/jackson-mississippi-poisonous-water-supply/",
-      "domain": "newsone.com",
-      "title": "Jackson Residents Not Legally Protected From Poisonous Water",
-      "url": "https://newsone.com/6871533/jackson-mississippi-poisonous-water-supply/",
-      "published_at": "2026-09-11T22:30:00+00:00",
+      "id": "https://www.dailykos.com/stories/2026/9/12/800097123/community/history-corner-good-news-september-12ths/",
+      "domain": "dailykos.com",
+      "title": "History Corner , Good News , September 12ths",
+      "url": "https://www.dailykos.com/stories/2026/9/12/800097123/community/history-corner-good-news-september-12ths/",
+      "published_at": "2026-09-12T15:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://newsone.com/wp-content/uploads/sites/22/2026/09/17891643568076.jpg?quality=80&strip=all&crop=0,0,100,512px",
-      "matched_keywords": [
-        "lead in water"
-      ],
-      "syndicated_count": 4,
-      "syndicated_domains": [
-        "92q.com",
-        "ipowerrichmond.com",
-        "kysdc.com",
-        "newsone.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.slashgear.com/2251686/emergency-gadgets-buy-online/",
-      "domain": "slashgear.com",
-      "title": "11 Emergency Gadgets You Can Buy Online Before You Need Them",
-      "url": "https://www.slashgear.com/2251686/emergency-gadgets-buy-online/",
-      "published_at": "2026-09-11T20:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.slashgear.com/img/gallery/11-emergency-gadgets-you-can-buy-online-before-you-need-them/l-intro-1788269997.jpg",
-      "matched_keywords": [
-        "bottled water",
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "slashgear.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.wastedive.com/news/new-jersey-delays-pcr-requirements-food-contact-packaging/830139/",
-      "domain": "wastedive.com",
-      "title": "New Jersey delays PCR requirements for food - contact packaging to 2030",
-      "url": "https://www.wastedive.com/news/new-jersey-delays-pcr-requirements-food-contact-packaging/830139/",
-      "published_at": "2026-09-11T20:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://imgproxy.divecdn.com/4-K4Kvfl0rArlsmqgjffGGodjqcRl0QGLeEV1x2yCac/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EQjFZNVguanBn.webp",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wastedive.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-      "domain": "theverge.com",
-      "title": "Arizona lifeline for chip manufacturing is drying up",
-      "url": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-      "published_at": "2026-09-11T15:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293067544.jpg?quality=90&strip=all&crop=0%2C10.953924023513%2C100%2C78.092151952973",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "theverge.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://i95rocks.com/ixp/495/p/crumbl-cookies-belfast-maine/",
-      "domain": "i95rocks.com",
-      "title": "Crumbl Cookies Pop - Up Event In Belfast , Maine This Saturday",
-      "url": "https://i95rocks.com/ixp/495/p/crumbl-cookies-belfast-maine/",
-      "published_at": "2026-09-11T14:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://townsquare.media/site/495/files/2026/09/attachment-gettyimages-1734462997-3.jpg?&q=75&format=natural",
+      "thumbnail": "https://www.dailykos.com/wp-content/uploads/sites/2/images/1473919/original/GregorianCalendar11dayGlenMcBeth-RSZ.jpg",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "i95rocks.com"
+        "dailykos.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -512,25 +187,46 @@
       "classification_reason": "wildfire community response, not water"
     },
     {
-      "id": "https://www.dailykos.com/stories/2026/9/12/800097123/community/history-corner-good-news-september-12ths/",
-      "domain": "dailykos.com",
-      "title": "History Corner , Good News , September 12ths",
-      "url": "https://www.dailykos.com/stories/2026/9/12/800097123/community/history-corner-good-news-september-12ths/",
-      "published_at": "2026-09-12T15:15:00+00:00",
+      "id": "https://www.troyrecord.com/2026/09/12/things-going-on-around-rensselaer-county-11/",
+      "domain": "troyrecord.com",
+      "title": "Things going on around Rensselaer County",
+      "url": "https://www.troyrecord.com/2026/09/12/things-going-on-around-rensselaer-county-11/",
+      "published_at": "2026-09-12T16:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.dailykos.com/wp-content/uploads/sites/2/images/1473919/original/GregorianCalendar11dayGlenMcBeth-RSZ.jpg",
+      "thumbnail": "https://www.troyrecord.com/wp-content/uploads/2026/07/calendar-2.jpg",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "dailykos.com"
+        "troyrecord.com"
       ],
       "relevance_score": 2,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "PR/brand launch, not news"
+    },
+    {
+      "id": "https://www.saratogian.com/2026/09/12/things-going-on-around-saratoga-county-11/",
+      "domain": "saratogian.com",
+      "title": "Things going on around Saratoga County",
+      "url": "https://www.saratogian.com/2026/09/12/things-going-on-around-saratoga-county-11/",
+      "published_at": "2026-09-12T15:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.saratogian.com/wp-content/uploads/2026/07/calendar-2-2.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "saratogian.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire relief effort"
     },
     {
       "id": "https://hightimes.com/grow/fresh-frozen-cannabis-live-rosin-how-its-made/",
@@ -551,91 +247,7 @@
       "relevance_score": 2,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "wildfire relief effort"
-    },
-    {
-      "id": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
-      "domain": "wired.com",
-      "title": "You Dont Have a Right to Safe Drinking Water , Trump - Appointed Judge Rules",
-      "url": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
-      "published_at": "2026-09-12T11:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://media.wired.com/photos/6aa4488052c971537654b906/191:100/w_1280,c_limit/GettyImages-1431034639.jpg",
-      "matched_keywords": [
-        "lead in water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wired.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
       "classification_reason": "wildfire donation drive"
-    },
-    {
-      "id": "https://southtahoenow.com/09/11/2026/letter-campaigning-with-a-lighter-footprint",
-      "domain": "southtahoenow.com",
-      "title": "Letter : Campaigning with a Lighter Footprint",
-      "url": "https://southtahoenow.com/09/11/2026/letter-campaigning-with-a-lighter-footprint",
-      "published_at": "2026-09-12T06:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://southtahoenow.com/wp-content/uploads/2026/09/horgan.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "southtahoenow.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "crisis",
-      "notable": false,
-      "classification_reason": "typhoon recovery, not drinking water focused"
-    },
-    {
-      "id": "http://www.t-g.com/premium/stacker/stories/extreme-weather-events-like-hurricanes-can-spread-antibiotic-resistance-genes,230026",
-      "domain": "t-g.com",
-      "title": "Extreme weather events like hurricanes can spread antibiotic resistance genes",
-      "url": "http://www.t-g.com/premium/stacker/stories/extreme-weather-events-like-hurricanes-can-spread-antibiotic-resistance-genes,230026",
-      "published_at": "2026-09-11T19:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "t-g.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "home renovation trends general"
-    },
-    {
-      "id": "https://www.moneytalksnews.com/how-seniors-can-save-on-dental-care/",
-      "domain": "moneytalksnews.com",
-      "title": "Nearly Half of Seniors Lack Dental Coverage Here Are 10 Ways to Keep Your Savings and Smile Intact",
-      "url": "https://www.moneytalksnews.com/how-seniors-can-save-on-dental-care/",
-      "published_at": "2026-09-11T19:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.moneytalksnews.com/workers/images/width=1920,height=1280,fit=crop,gravity=auto/wp-content/uploads/2021/07/08231104/shutterstock_579482257-scaled.jpg?s=a454d271ef78381fbb797ddf0e737ed177e49885bf7b2f294f8cb893b977b7e4",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "moneytalksnews.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "lifestyle",
-      "notable": false,
-      "classification_reason": "zoo conservation partnership"
     },
     {
       "id": "https://www.daily-tribune.com/online_features/press_releases/phytomem-one-reviews-can-a-10-ingredient-botanical-tablet-support-brain-health-and-cognitive-clarity/article_4f770704-915b-56b1-a289-d715e85fba77.html",
@@ -680,25 +292,46 @@
       "classification_reason": "Navy divers recovering Orion space capsule"
     },
     {
-      "id": "https://www.troyrecord.com/2026/09/12/things-going-on-around-rensselaer-county-11/",
-      "domain": "troyrecord.com",
-      "title": "Things going on around Rensselaer County",
-      "url": "https://www.troyrecord.com/2026/09/12/things-going-on-around-rensselaer-county-11/",
-      "published_at": "2026-09-12T16:15:00+00:00",
+      "id": "https://truthout.org/articles/louisiana-residents-are-resisting-plans-to-build-ice-jail-on-contaminated-site/",
+      "domain": "truthout.org",
+      "title": "Louisiana Residents Are Resisting Plans to Build ICE Jail on Contaminated Site",
+      "url": "https://truthout.org/articles/louisiana-residents-are-resisting-plans-to-build-ice-jail-on-contaminated-site/",
+      "published_at": "2026-09-12T17:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.troyrecord.com/wp-content/uploads/2026/07/calendar-2.jpg",
+      "thumbnail": "https://truthout.org/app/uploads/2026/09/GettyImages-2249289799-scaled.jpg",
       "matched_keywords": [
-        "bottled water"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "troyrecord.com"
+        "truthout.org"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "wildfire evacuation advice"
+    },
+    {
+      "id": "https://www.live5news.com/2026/09/12/medical-prep-essentials-how-build-hurricane-emergency-kit/",
+      "domain": "live5news.com",
+      "title": "Medical prep essentials : How to build a hurricane emergency kit",
+      "url": "https://www.live5news.com/2026/09/12/medical-prep-essentials-how-build-hurricane-emergency-kit/",
+      "published_at": "2026-09-12T14:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/RL2DXRH7DZBZPAWQEJGNJOSPKA.png?auth=1414fb96959a8c314a46a498916e2c3b6221face6ee4b300c8293eb5c62e961a&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "live5news.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "Reckitt earnings report"
     },
     {
       "id": "https://wiscnews.com/life-entertainment/local/home-gardening/collection_7178cd7a-d880-55ef-b5d6-68b510794198.html",
@@ -719,7 +352,7 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "keyword token appears but article off-topic"
+      "classification_reason": "football transfer commentary"
     },
     {
       "id": "https://poststar.com/life-entertainment/local/home-gardening/collection_39df3df5-a474-56ad-a9c4-f1fa6553874c.html",
@@ -741,114 +374,9 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "Reckitt earnings report"
-    },
-    {
-      "id": "https://www.jalopnik.com/2256150/how-to-clean-car-windshield-motorcycle-mirrors-with-vinegar/",
-      "domain": "jalopnik.com",
-      "title": "Yes , Vinegar Will Clean Your Car Windshield And Mirrors , But Avoid These Mistakes",
-      "url": "https://www.jalopnik.com/2256150/how-to-clean-car-windshield-motorcycle-mirrors-with-vinegar/",
-      "published_at": "2026-09-12T11:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.jalopnik.com/img/gallery/yes-vinegar-will-clean-your-cars-windshield-and-mirrors-but-avoid-these-mistakes/l-intro-1789146158.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "jalopnik.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "football transfer commentary"
-    },
-    {
-      "id": "https://www.theintermountain.com/news/communities/2026/09/community-calendar-441/",
-      "domain": "theintermountain.com",
-      "title": "Community Calendar",
-      "url": "https://www.theintermountain.com/news/communities/2026/09/community-calendar-441/",
-      "published_at": "2026-09-12T08:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "theintermountain.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "hollywood celebrity roundup"
-    },
-    {
-      "id": "https://www.kjas.com/news/local_news/article_5b6c251f-715f-46f8-abea-f87cc85f5a1e.html",
-      "domain": "kjas.com",
-      "title": "Boil Water Notice Issued for Some Holmwood Utilities Customers",
-      "url": "https://www.kjas.com/news/local_news/article_5b6c251f-715f-46f8-abea-f87cc85f5a1e.html",
-      "published_at": "2026-09-12T02:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/kjas.com/content/tncms/assets/v3/editorial/1/bc/1bc890b0-9403-4069-9deb-c40596c0c449/6aa487f30c757.image.png?crop=1672%2C878%2C0%2C31",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "kjas.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "maple syrup farm expansion"
-    },
-    {
-      "id": "https://www.wftv.com/news/local/blue-green-algae-alert-issued-lake-howell-by-department-health/LMMR446FEJHSDA5B4WBV5M6NPA/",
-      "domain": "wftv.com",
-      "title": "Blue - green algae alert issued for Lake Howell in Seminole County",
-      "url": "https://www.wftv.com/news/local/blue-green-algae-alert-issued-lake-howell-by-department-health/LMMR446FEJHSDA5B4WBV5M6NPA/",
-      "published_at": "2026-09-12T01:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cmg-cmg-tv-10070-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FS6NB4JISYND6DIYLATZVVOIM3M.jpg?auth=5d7ebbcc2cf4f85cd4860bdbbc6765fbe87171f32084862fceccc9b0007abc52&smart=true",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wftv.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
       "classification_reason": "keyword token appears but article off-topic"
-    },
-    {
-      "id": "https://98kupd.com/the-brady-report-9-11-26/",
-      "domain": "98kupd.com",
-      "title": "The Brady Report 9 / 11 / 26 \u2013 98KUPD \u2013 Arizona Rock Station",
-      "url": "https://98kupd.com/the-brady-report-9-11-26/",
-      "published_at": "2026-09-11T19:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://98kupd.com/wp-content/uploads/2026/09/BR-9.11.6.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "98kupd.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "fly fishing hotel booking"
     }
   ],
-  "classified_at": "2026-09-18T13:34:06+00:00",
+  "classified_at": "2026-09-19T13:17:29+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
