@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-20T13:50:02+00:00",
+  "refreshed_at": "2026-09-21T15:53:34+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,10 +18,10 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 3,
+  "total_unique_mentions": 22,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
+    "forever chemicals": 5,
     "lead in water": 1,
     "arsenic in water": 0,
     "nitrate in water": 0,
@@ -30,13 +30,181 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 0,
-    "water filter": 0,
-    "reverse osmosis": 1,
+    "bottled water": 10,
+    "water filter": 2,
+    "reverse osmosis": 3,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://wincountry.com/2026/09/20/971763/",
+      "domain": "wincountry.com",
+      "title": "KPS officials taking additional precautions , but say school will be open Monday despite boil water advisory",
+      "url": "https://wincountry.com/2026/09/20/971763/",
+      "published_at": "2026-09-21T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wincountry.com"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "crisis",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.romesentinel.com/news/rome-mvwa-little-falls-and-frankfort-receive-lead-service-line-grants/article_fbe2ce47-69b7-471a-8694-1678c41d001f.html",
+      "domain": "romesentinel.com",
+      "title": "Rome , MVWA , Little Falls and Frankfort receive lead service line grants",
+      "url": "https://www.romesentinel.com/news/rome-mvwa-little-falls-and-frankfort-receive-lead-service-line-grants/article_fbe2ce47-69b7-471a-8694-1678c41d001f.html",
+      "published_at": "2026-09-20T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/custom/image/419ec284-f5a3-11ed-a31e-ab8ff79ed4fa.jpg",
+      "matched_keywords": [
+        "lead in water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "romesentinel.com"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "water-quality",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.slashgear.com/2253706/interesting-camping-gadgets-buy-online/",
+      "domain": "slashgear.com",
+      "title": "16 Interesting Camping Gadgets You Can Buy Online",
+      "url": "https://www.slashgear.com/2253706/interesting-camping-gadgets-buy-online/",
+      "published_at": "2026-09-21T13:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.slashgear.com/img/gallery/16-interesting-camping-gadgets-you-can-buy-online/l-intro-1788961474.jpg",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "slashgear.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.thegardenisland.com/2026/09/21/business/longs-drugs-flu-shot-event-attracts-a-crowd/?TGI=a08270805b43ca9c1017cc80153df3610171b19a",
+      "domain": "thegardenisland.com",
+      "title": "Long Drug flu shot event attracts a crowd - The Garden Island",
+      "url": "https://www.thegardenisland.com/2026/09/21/business/longs-drugs-flu-shot-event-attracts-a-crowd/?TGI=a08270805b43ca9c1017cc80153df3610171b19a",
+      "published_at": "2026-09-21T13:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.thegardenisland.com/wp-content/uploads/sites/9/2026/09/web1_20260920centerWEB.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "thegardenisland.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.bangordailynews.com/2026/09/21/mainefocus/mainefocus-environment/landfill-expansion-leachate-trucking-joam40zk0w/",
+      "domain": "bangordailynews.com",
+      "title": "Juniper Ridge wants to treat its toxic runoff 20 miles away",
+      "url": "https://www.bangordailynews.com/2026/09/21/mainefocus/mainefocus-environment/landfill-expansion-leachate-trucking-joam40zk0w/",
+      "published_at": "2026-09-21T08:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i0.wp.com/bdn-data.s3.amazonaws.com/uploads/2026/09/JRLPaulMonroe.jpg?fit=1200%2C918&ssl=1",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "bangordailynews.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.mcall.com/2026/09/20/chobani-deal-lehigh-valley-wastewater/",
+      "domain": "mcall.com",
+      "title": "Why did Chobani pick the Lehigh Valley ? Wastewater",
+      "url": "https://www.mcall.com/2026/09/20/chobani-deal-lehigh-valley-wastewater/",
+      "published_at": "2026-09-20T16:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.mcall.com/wp-content/uploads/2026/09/TMC-L-LCA-CHOBANI-007_0edb95.jpg",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mcall.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.aol.com/articles/flight-attendant-reveals-two-drinks-115411000.html",
+      "domain": "aol.com",
+      "title": "Flight attendant reveals the two drinks you should never order on a plane",
+      "url": "https://www.aol.com/articles/flight-attendant-reveals-two-drinks-115411000.html",
+      "published_at": "2026-09-20T14:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://hermes.media.static.aol.com/media/2026/09/20/a181feff-674a-3440-b9f0-01ef99a91e00/ae84a48b-9b8c-4228-8b76-09ec5328e771.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "aol.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.thegardenisland.com/2026/09/20/hawaii-news/uh-gets-3-6m-grant-to-study-health-risks-from-states-plantation-era-contamination/?TGI=00343b2284e2a795042a493021aef80d34f1dcd0",
+      "domain": "thegardenisland.com",
+      "title": "UH gets $3 . 6M grant to study health risks from state plantation - era contamination",
+      "url": "https://www.thegardenisland.com/2026/09/20/hawaii-news/uh-gets-3-6m-grant-to-study-health-risks-from-states-plantation-era-contamination/?TGI=00343b2284e2a795042a493021aef80d34f1dcd0",
+      "published_at": "2026-09-20T13:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.thegardenisland.com/wp-content/uploads/sites/9/2026/09/web1_manoa-uhero-jabsom-maui-wes-february-2024-testing-table.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "thegardenisland.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "americans picky about water - lightweight consumer piece"
+    },
     {
       "id": "https://kpic.com/news/local/national-coastal-cleanup-day-in-florence-helps-curb-microplastics-and-protect-wildlife",
       "domain": "kpic.com",
@@ -61,25 +229,109 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.romesentinel.com/news/rome-mvwa-little-falls-and-frankfort-receive-lead-service-line-grants/article_fbe2ce47-69b7-471a-8694-1678c41d001f.html",
-      "domain": "romesentinel.com",
-      "title": "Rome , MVWA , Little Falls and Frankfort receive lead service line grants",
-      "url": "https://www.romesentinel.com/news/rome-mvwa-little-falls-and-frankfort-receive-lead-service-line-grants/article_fbe2ce47-69b7-471a-8694-1678c41d001f.html",
-      "published_at": "2026-09-20T00:30:00+00:00",
+      "id": "https://www.pr-inside.com/koz-water-expands-its-northeast-presence-with-technique-training-partnership-r5225509.htm",
+      "domain": "pr-inside.com",
+      "title": "KOZ Water Expands Its Northeast Presence with Technique Training Partnership ... ",
+      "url": "https://www.pr-inside.com/koz-water-expands-its-northeast-presence-with-technique-training-partnership-r5225509.htm",
+      "published_at": "2026-09-21T13:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/custom/image/419ec284-f5a3-11ed-a31e-ab8ff79ed4fa.jpg",
+      "thumbnail": "",
       "matched_keywords": [
-        "lead in water"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "romesentinel.com"
+        "pr-inside.com"
       ],
       "relevance_score": 3,
       "primary_angle": "lifestyle",
       "notable": false,
       "classification_reason": "Adopt-a-Beach awareness; tangential"
+    },
+    {
+      "id": "https://www.citizensvoice.com/2026/09/21/community-digest-sept-21-2026/",
+      "domain": "citizensvoice.com",
+      "title": "COMMUNITY DIGEST : Sept . 21 , 2026",
+      "url": "https://www.citizensvoice.com/2026/09/21/community-digest-sept-21-2026/",
+      "published_at": "2026-09-21T08:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.citizensvoice.com/wp-content/uploads/2024/10/Citizens-Voice2-1.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "citizensvoice.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire community response, not water"
+    },
+    {
+      "id": "https://www.gdnonline.com:443/Details/1407178/EWEC-forecasts-45pc-drop-in-power,-water-emissions-by-2035",
+      "domain": "gdnonline.com",
+      "title": "UAE Business : EWEC forecasts 45pc drop in power , water emissions by 2035",
+      "url": "https://www.gdnonline.com:443/Details/1407178/EWEC-forecasts-45pc-drop-in-power,-water-emissions-by-2035",
+      "published_at": "2026-09-21T07:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.gdnonline.com/gdnimages/20260921%5CTA_20260921092653.jpg",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "gdnonline.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "PR/brand launch, not news"
+    },
+    {
+      "id": "https://www.dailyprincetonian.com/article/2026/09/princeton-news-research-high-meadows-environmental-institute-hmei-summer-internship",
+      "domain": "dailyprincetonian.com",
+      "title": "High Meadows Environmental Institute hosts Summer of Learning Symposium",
+      "url": "https://www.dailyprincetonian.com/article/2026/09/princeton-news-research-high-meadows-environmental-institute-hmei-summer-internship",
+      "published_at": "2026-09-21T06:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://snworksceo.imgix.net/pri/d2839d1e-499d-4ac7-94c9-1284acfd42bf.sized-1000x1000.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailyprincetonian.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire relief effort"
+    },
+    {
+      "id": "https://kism.com/2026/09/15/5000-game-day-victory-vault/",
+      "domain": "kism.com",
+      "title": "$5000 Game Day Victory Vault",
+      "url": "https://kism.com/2026/09/15/5000-game-day-victory-vault/",
+      "published_at": "2026-09-20T17:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kism.com/wp-content/blogs.dir/71/files/2025/09/Victory_Vault_2.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kism.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire donation drive"
     },
     {
       "id": "https://www.tickerreport.com/banking-finance/13590779/cvw-cleantech-otcmktstituf-stock-passes-below-200-day-moving-average-should-you-sell.html",
@@ -97,12 +349,159 @@
       "syndicated_domains": [
         "tickerreport.com"
       ],
+      "relevance_score": 2,
+      "primary_angle": "crisis",
+      "notable": false,
+      "classification_reason": "typhoon recovery, not drinking water focused"
+    },
+    {
+      "id": "https://ecori.org/well-at-little-compton-fire-station-contaminated-with-pfas/",
+      "domain": "ecori.org",
+      "title": "Well at Little Compton Fire Station Contaminated with PFAS",
+      "url": "https://ecori.org/well-at-little-compton-fire-station-contaminated-with-pfas/",
+      "published_at": "2026-09-21T13:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://ecori.org/wp-content/uploads/2025/05/firefighting-gear.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ecori.org"
+      ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "Georgia wildfire state of emergency, not water quality"
+    },
+    {
+      "id": "https://www.thegardenisland.com/2026/09/21/lifestyles/happy-camper-for-monday-september-21-2026/",
+      "domain": "thegardenisland.com",
+      "title": "Happy Camper for Monday , September 21 , 2026",
+      "url": "https://www.thegardenisland.com/2026/09/21/lifestyles/happy-camper-for-monday-september-21-2026/",
+      "published_at": "2026-09-21T13:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.thegardenisland.com/wp-content/uploads/sites/9/2026/09/web1_20260920frankWEB.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "thegardenisland.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "Navy divers recovering Orion space capsule"
+    },
+    {
+      "id": "https://www.themarketsdaily.com/2026/09/21/pepsico-inc-nasdaqpep-receives-157-90-consensus-price-target-from-brokerages.html",
+      "domain": "themarketsdaily.com",
+      "title": "PepsiCo , Inc . ( NASDAQ : PEP ) Receives $157 . 90 Consensus Price Target from Brokerages",
+      "url": "https://www.themarketsdaily.com/2026/09/21/pepsico-inc-nasdaqpep-receives-157-90-consensus-price-target-from-brokerages.html",
+      "published_at": "2026-09-21T09:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "themarketsdaily.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "keyword token appears but article off-topic"
+    },
+    {
+      "id": "https://www.actionnewsjax.com/news/local/she-was-very-shaken-ridgeview-hs-mom-concerned-after-homecoming-incident-leaves-two-hospitalized/APOFFO3FGZC7FEYTRULDXUQ5C4/",
+      "domain": "actionnewsjax.com",
+      "title": "Ridgeview HS mom concerned after homecoming incident leaves two hospitalized",
+      "url": "https://www.actionnewsjax.com/news/local/she-was-very-shaken-ridgeview-hs-mom-concerned-after-homecoming-incident-leaves-two-hospitalized/APOFFO3FGZC7FEYTRULDXUQ5C4/",
+      "published_at": "2026-09-21T08:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cmg-cmg-tv-10050-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FVSRHMF35PJHDPLFF4ZAODQ2LWQ.png?auth=cad3a6c82092fe18da04b9d234e2a2930d223d58cff884dca0f2e6b345c9f9f6&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "actionnewsjax.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire evacuation advice"
+    },
+    {
+      "id": "https://wslr.org/this-week-in-local-government-137/",
+      "domain": "wslr.org",
+      "title": "This Week in Local Government - WSLR+Fogartyville",
+      "url": "https://wslr.org/this-week-in-local-government-137/",
+      "published_at": "2026-09-21T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wslr.org"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "Reckitt earnings report"
+    },
+    {
+      "id": "https://www.mlb.com/app/ballpark/yankees/tickets/single-game-tickets/2026/home-game-81",
+      "domain": "mlb.com",
+      "title": "Yankees Single Game Tickets for September 27 , 2026",
+      "url": "https://www.mlb.com/app/ballpark/yankees/tickets/single-game-tickets/2026/home-game-81",
+      "published_at": "2026-09-20T17:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mlb.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "football transfer commentary"
+    },
+    {
+      "id": "https://www.salon.com/2026/09/20/how-jarred-pasta-sauce-became-a-luxury-pantry-essential/",
+      "domain": "salon.com",
+      "title": "How jarred pasta sauce became a luxury pantry essential",
+      "url": "https://www.salon.com/2026/09/20/how-jarred-pasta-sauce-became-a-luxury-pantry-essential/",
+      "published_at": "2026-09-20T15:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.salon.com/app/uploads/2026/09/PastaSauce-2178068230.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "salon.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "hollywood celebrity roundup"
     }
   ],
-  "classified_at": "2026-09-20T13:50:02+00:00",
+  "classified_at": "2026-09-21T15:53:34+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
