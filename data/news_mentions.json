@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-09-26T13:34:58+00:00",
+  "refreshed_at": "2026-09-27T14:20:47+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,25 +18,59 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 157,
+  "total_unique_mentions": 160,
   "by_keyword_count": {
     "PFAS": 0,
     "forever chemicals": 40,
-    "lead in water": 4,
+    "lead in water": 3,
     "arsenic in water": 2,
-    "nitrate in water": 1,
+    "nitrate in water": 0,
     "microplastics": 26,
     "fluoride in water": 0,
     "chromium 6": 1,
     "well water testing": 1,
-    "hard water": 0,
-    "bottled water": 68,
+    "hard water": 7,
+    "bottled water": 69,
     "water filter": 5,
-    "reverse osmosis": 15,
+    "reverse osmosis": 14,
     "water softener": 5,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.chicagotribune.com/2026/09/27/great-lakes-plastic-pollution/",
+      "domain": "chicagotribune.com",
+      "title": "Great waste in the Great Lakes",
+      "url": "https://www.chicagotribune.com/2026/09/27/great-lakes-plastic-pollution/",
+      "published_at": "2026-09-27T11:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.chicagotribune.com/wp-content/uploads/2026/05/ctc-l-plastics-ela42_262501870.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "chicagotribune.com"
+      ]
+    },
+    {
+      "id": "https://www.kake.com/home/boil-water-advisory-continues-in-bear-hills-subdivision-in-park-city/article_fa8c274c-cb72-4c4f-8df7-9ac1100058db.html",
+      "domain": "kake.com",
+      "title": "Boil water advisory continues in Bear Hills Subdivision in Park City",
+      "url": "https://www.kake.com/home/boil-water-advisory-continues-in-bear-hills-subdivision-in-park-city/article_fa8c274c-cb72-4c4f-8df7-9ac1100058db.html",
+      "published_at": "2026-09-27T04:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/kake.com/content/tncms/assets/v3/editorial/8/b5/8b5ea5be-f7cf-5f22-bfa0-6be2b32a41a0/65d3c3f56c425.image.jpg?crop=640%2C336%2C0%2C11",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kake.com"
+      ]
+    },
     {
       "id": "https://www.sandiegouniontribune.com/2026/08/28/what-to-know-before-during-and-after-a-public-safety-power-shutoff-psps/",
       "domain": "sandiegouniontribune.com",
@@ -458,8 +492,9 @@
       "matched_keywords": [
         "forever chemicals"
       ],
-      "syndicated_count": 2,
+      "syndicated_count": 3,
       "syndicated_domains": [
+        "dailykos.com",
         "ketr.org",
         "sacurrent.com"
       ]
@@ -841,6 +876,23 @@
       ]
     },
     {
+      "id": "https://www.paloaltoonline.com/environment/2026/09/23/turf-concerns-resurface-at-palo-alto-playgrounds-as-city-ponders-new-rules/",
+      "domain": "paloaltoonline.com",
+      "title": "Turf concerns resurface at Palo Alto playgrounds as city ponders new rules",
+      "url": "https://www.paloaltoonline.com/environment/2026/09/23/turf-concerns-resurface-at-palo-alto-playgrounds-as-city-ponders-new-rules/",
+      "published_at": "2026-09-24T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.paloaltoonline.com/wp-content/uploads/2020/02/83799_original.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "paloaltoonline.com"
+      ]
+    },
+    {
       "id": "https://www.tickerreport.com/banking-finance/13593118/everpure-unveils-data-first-ai-strategy-targets-21b-intelligence-market.html",
       "domain": "tickerreport.com",
       "title": "Everpure Unveils Data - First AI Strategy , Targets $21B Intelligence Market",
@@ -856,23 +908,6 @@
       "syndicated_domains": [
         "dailypolitical.com",
         "tickerreport.com"
-      ]
-    },
-    {
-      "id": "https://www.paloaltoonline.com/environment/2026/09/23/turf-concerns-resurface-at-palo-alto-playgrounds-as-city-ponders-new-rules/",
-      "domain": "paloaltoonline.com",
-      "title": "Turf concerns resurface at Palo Alto playgrounds as city ponders new rules",
-      "url": "https://www.paloaltoonline.com/environment/2026/09/23/turf-concerns-resurface-at-palo-alto-playgrounds-as-city-ponders-new-rules/",
-      "published_at": "2026-09-24T01:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.paloaltoonline.com/wp-content/uploads/2020/02/83799_original.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "paloaltoonline.com"
       ]
     },
     {
@@ -902,12 +937,30 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/7/3d/73db85be-dfef-5901-8166-22e7d14cd8ae/6ab430595939c.image.jpg?crop=1080%2C608%2C0%2C56",
       "matched_keywords": [
+        "hard water",
         "microplastics",
         "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "tucson.com"
+      ]
+    },
+    {
+      "id": "https://www.aol.com/articles/much-spend-good-bottle-vodka-220300000.html",
+      "domain": "aol.com",
+      "title": "How Much Should You Spend On A Good Bottle Of Vodka In 2026 ? ",
+      "url": "https://www.aol.com/articles/much-spend-good-bottle-vodka-220300000.html",
+      "published_at": "2026-09-24T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://hermes.media.static.aol.com/media/2026/09/24/80933410-b185-3b0d-b0bf-1a90617b1485/bed6fc3a-dc0d-4d61-aa8c-ab7a426bb5b4.jpg",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "aol.com"
       ]
     },
     {
@@ -1188,23 +1241,6 @@
       ]
     },
     {
-      "id": "https://www.wyomingpublicmedia.org/natural-resources-energy/2026-09-23/a-very-american-invention-pushed-to-an-extreme",
-      "domain": "wyomingpublicmedia.org",
-      "title": "A Very American Invention , Pushed to an Extreme",
-      "url": "https://www.wyomingpublicmedia.org/natural-resources-energy/2026-09-23/a-very-american-invention-pushed-to-an-extreme",
-      "published_at": "2026-09-23T16:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/b4/ac/ce473d874e6b8b8cd4aceefb08b2/icn-01-blackshirt-feeders-1024x631.jpg",
-      "matched_keywords": [
-        "nitrate in water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wyomingpublicmedia.org"
-      ]
-    },
-    {
       "id": "https://www.klif.com/2026/09/23/humanitarian-crisis-dallas-county-settlement-founded-in-1878-still-has-no-running-water/",
       "domain": "klif.com",
       "title": "  Humanitarian Crisi : Dallas County Settlement Founded In 1878 Still Has No Running Water | KLIF 570 News & Info",
@@ -1375,23 +1411,6 @@
       ]
     },
     {
-      "id": "http://www.dailyadvance.com/chowan/news/local/county-eyes-nc-property-tax-relief-water-waste-hikes/article_f209b65c-52a0-413f-b5ed-dfb582950393.html",
-      "domain": "dailyadvance.com",
-      "title": "County eyes NC property tax relief , water / waste hikes",
-      "url": "http://www.dailyadvance.com/chowan/news/local/county-eyes-nc-property-tax-relief-water-waste-hikes/article_f209b65c-52a0-413f-b5ed-dfb582950393.html",
-      "published_at": "2026-09-23T06:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/dailyadvance.com/content/tncms/assets/v3/editorial/a/3b/a3badf9d-83d9-403d-bc95-af8d6906db01/6aa5941d25e01.image.jpg?crop=1571%2C825%2C0%2C247",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dailyadvance.com"
-      ]
-    },
-    {
       "id": "https://www.mynbc5.com/article/new-yorkers-frustrated-remove-tires-lake-champlain/73843064",
       "domain": "mynbc5.com",
       "title": "New Yorkers are frustrated by delay to remove tires from lake",
@@ -1406,6 +1425,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "mynbc5.com"
+      ]
+    },
+    {
+      "id": "http://www.dailyadvance.com/chowan/news/local/county-eyes-nc-property-tax-relief-water-waste-hikes/article_f209b65c-52a0-413f-b5ed-dfb582950393.html",
+      "domain": "dailyadvance.com",
+      "title": "County eyes NC property tax relief , water / waste hikes",
+      "url": "http://www.dailyadvance.com/chowan/news/local/county-eyes-nc-property-tax-relief-water-waste-hikes/article_f209b65c-52a0-413f-b5ed-dfb582950393.html",
+      "published_at": "2026-09-23T06:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/dailyadvance.com/content/tncms/assets/v3/editorial/a/3b/a3badf9d-83d9-403d-bc95-af8d6906db01/6aa5941d25e01.image.jpg?crop=1571%2C825%2C0%2C247",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailyadvance.com"
       ]
     },
     {
@@ -1525,6 +1561,29 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "news9.com"
+      ]
+    },
+    {
+      "id": "http://www.dallassun.com/news/279324795/palm-desert-crews-see-spike-in-empty-house-leaks-as-seasonal-owners-leave-for-summer",
+      "domain": "dallassun.com",
+      "title": "Palm Desert Crews See Spike in Empty - House Leaks as Seasonal Owners Leave for Summer",
+      "url": "http://www.dallassun.com/news/279324795/palm-desert-crews-see-spike-in-empty-house-leaks-as-seasonal-owners-leave-for-summer",
+      "published_at": "2026-09-23T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 7,
+      "syndicated_domains": [
+        "albuquerqueexpress.com",
+        "bostonstar.com",
+        "clevelandstar.com",
+        "dallassun.com",
+        "memphissun.com",
+        "phoenixherald.com",
+        "stlouisstar.com"
       ]
     },
     {
@@ -1813,6 +1872,23 @@
       ]
     },
     {
+      "id": "https://spacedaily.com/d-nobody-on-the-international-space-station-does-laundry-so-underwear-is-budgeted-for-two-days-and-pants-for-30-nasa-has-estimated-about-75-kilograms-of-clean-clothing-per-astronaut-per-year/",
+      "domain": "spacedaily.com",
+      "title": "Nobody on the International Space Station does laundry , so underwear is budgeted for two days and pants for 30 NASA has estimated about 75 kilograms of clean clothing per astronaut per year , while the dirty clothes are packed into departing cargo s...",
+      "url": "https://spacedaily.com/d-nobody-on-the-international-space-station-does-laundry-so-underwear-is-budgeted-for-two-days-and-pants-for-30-nasa-has-estimated-about-75-kilograms-of-clean-clothing-per-astronaut-per-year/",
+      "published_at": "2026-09-22T14:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://spacedaily.com/wp-content/uploads/2026/09/Posts-1600840-2026-09-22T144100.690.png",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "spacedaily.com"
+      ]
+    },
+    {
       "id": "http://northcountrynow.com/stories/overnight-hydrant-flushing-wednesday-thursday-friday-in-canton,391765",
       "domain": "northcountrynow.com",
       "title": "Overnight hydrant flushing Wednesday , Thursday , Friday in Canton",
@@ -2073,6 +2149,23 @@
       ]
     },
     {
+      "id": "http://www.northescambia.com/2026/09/cottage-hill-water-works-boil-water-notice-neal-road-area",
+      "domain": "northescambia.com",
+      "title": "Cottage Hill Water Works : Boil Water Notice Neal Road Area : NorthEscambia . com",
+      "url": "http://www.northescambia.com/2026/09/cottage-hill-water-works-boil-water-notice-neal-road-area",
+      "published_at": "2026-09-21T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://www.northescambia.com/wp-content/uploads/2022/05/sinkfb.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "northescambia.com"
+      ]
+    },
+    {
       "id": "https://wwmt.com/news/local/kalamazoo-review-emergency-water-alert-communications-weekend-boil-water-advisory-james-baker-alec-wells-sarkozy-bakery-apaws-rave-wwmt",
       "domain": "wwmt.com",
       "title": "Kalamazoo to review emergency water alert communications after weekend boil water advisory",
@@ -2088,23 +2181,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wwmt.com"
-      ]
-    },
-    {
-      "id": "http://www.northescambia.com/2026/09/cottage-hill-water-works-boil-water-notice-neal-road-area",
-      "domain": "northescambia.com",
-      "title": "Cottage Hill Water Works : Boil Water Notice Neal Road Area : NorthEscambia . com",
-      "url": "http://www.northescambia.com/2026/09/cottage-hill-water-works-boil-water-notice-neal-road-area",
-      "published_at": "2026-09-21T22:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "http://www.northescambia.com/wp-content/uploads/2022/05/sinkfb.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "northescambia.com"
       ]
     },
     {
@@ -2266,6 +2342,23 @@
       ]
     },
     {
+      "id": "https://wimz.com/2026/09/21/how-to-choose-the-right-water-heater-for-your-home/",
+      "domain": "wimz.com",
+      "title": "How to Choose the Right Water Heater for Your Home",
+      "url": "https://wimz.com/2026/09/21/how-to-choose-the-right-water-heater-for-your-home/",
+      "published_at": "2026-09-21T19:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/2534/files/2025/11/hep-thumb.jpg",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wimz.com"
+      ]
+    },
+    {
       "id": "https://www.thenewsguard.com/news_free/9-months-in-kotek-s-data-center-advisory-committee-shares-many-questions-few-answers/article_a0a011fe-e9ae-4a35-9659-1b6d3cf9128f.html",
       "domain": "thenewsguard.com",
       "title": "9 months in , Kotek Data Center Advisory Committee shares many questions , few answers | News",
@@ -2352,6 +2445,7 @@
       "source_country": "United States",
       "thumbnail": "",
       "matched_keywords": [
+        "hard water",
         "water filter",
         "water softener",
         "well water testing"
@@ -2392,6 +2486,38 @@
       ]
     },
     {
+      "id": "https://www.journal-advocate.com/2026/09/21/best-duralex-glasses/",
+      "domain": "journal-advocate.com",
+      "title": "Best Duralex glasses",
+      "url": "https://www.journal-advocate.com/2026/09/21/best-duralex-glasses/",
+      "published_at": "2026-09-21T15:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.journal-advocate.com/wp-content/uploads/2026/09/best-duralex-glasses-0cad30-dfcbc7.jpg",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 16,
+      "syndicated_domains": [
+        "coloradohometownweekly.com",
+        "dailybreeze.com",
+        "dailycamera.com",
+        "dailydemocrat.com",
+        "fortmorgantimes.com",
+        "journal-advocate.com",
+        "news-herald.com",
+        "pottsmerc.com",
+        "pressdemocrat.com",
+        "readingeagle.com",
+        "republicanherald.com",
+        "sbsun.com",
+        "standardspeaker.com",
+        "timesherald.com",
+        "twincities.com",
+        "whittierdailynews.com"
+      ]
+    },
+    {
       "id": "https://ecori.org/well-at-little-compton-fire-station-contaminated-with-pfas/",
       "domain": "ecori.org",
       "title": "Well at Little Compton Fire Station Contaminated with PFAS",
@@ -2409,20 +2535,20 @@
       ]
     },
     {
-      "id": "https://www.slashgear.com/2253706/interesting-camping-gadgets-buy-online/",
-      "domain": "slashgear.com",
-      "title": "16 Interesting Camping Gadgets You Can Buy Online",
-      "url": "https://www.slashgear.com/2253706/interesting-camping-gadgets-buy-online/",
+      "id": "https://www.thegardenisland.com/2026/09/20/hawaii-news/uh-gets-3-6m-grant-to-study-health-risks-from-states-plantation-era-contamination/",
+      "domain": "thegardenisland.com",
+      "title": "UH gets $3 . 6M grant to study health risks from state plantation - era contamination",
+      "url": "https://www.thegardenisland.com/2026/09/20/hawaii-news/uh-gets-3-6m-grant-to-study-health-risks-from-states-plantation-era-contamination/",
       "published_at": "2026-09-21T13:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.slashgear.com/img/gallery/16-interesting-camping-gadgets-you-can-buy-online/l-intro-1788961474.jpg",
+      "thumbnail": "https://www.thegardenisland.com/wp-content/uploads/sites/9/2026/09/web1_manoa-uhero-jabsom-maui-wes-february-2024-testing-table.jpg",
       "matched_keywords": [
-        "water filter"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "slashgear.com"
+        "thegardenisland.com"
       ]
     },
     {
@@ -2475,6 +2601,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "thegardenisland.com"
+      ]
+    },
+    {
+      "id": "https://www.slashgear.com/2253706/interesting-camping-gadgets-buy-online/",
+      "domain": "slashgear.com",
+      "title": "16 Interesting Camping Gadgets You Can Buy Online",
+      "url": "https://www.slashgear.com/2253706/interesting-camping-gadgets-buy-online/",
+      "published_at": "2026-09-21T13:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.slashgear.com/img/gallery/16-interesting-camping-gadgets-you-can-buy-online/l-intro-1788961474.jpg",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "slashgear.com"
       ]
     },
     {
@@ -2580,23 +2723,6 @@
       ]
     },
     {
-      "id": "https://wslr.org/this-week-in-local-government-137/",
-      "domain": "wslr.org",
-      "title": "This Week in Local Government - WSLR+Fogartyville",
-      "url": "https://wslr.org/this-week-in-local-government-137/",
-      "published_at": "2026-09-21T00:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wslr.org"
-      ]
-    },
-    {
       "id": "https://wincountry.com/2026/09/20/971763/",
       "domain": "wincountry.com",
       "title": "KPS officials taking additional precautions , but say school will be open Monday despite boil water advisory",
@@ -2611,6 +2737,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wincountry.com"
+      ]
+    },
+    {
+      "id": "https://wslr.org/this-week-in-local-government-137/",
+      "domain": "wslr.org",
+      "title": "This Week in Local Government - WSLR+Fogartyville",
+      "url": "https://wslr.org/this-week-in-local-government-137/",
+      "published_at": "2026-09-21T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wslr.org"
       ]
     },
     {
@@ -2696,76 +2839,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "aol.com"
-      ]
-    },
-    {
-      "id": "https://www.thegardenisland.com/2026/09/20/hawaii-news/uh-gets-3-6m-grant-to-study-health-risks-from-states-plantation-era-contamination/?TGI=00343b2284e2a795042a493021aef80d34f1dcd0",
-      "domain": "thegardenisland.com",
-      "title": "UH gets $3 . 6M grant to study health risks from state plantation - era contamination",
-      "url": "https://www.thegardenisland.com/2026/09/20/hawaii-news/uh-gets-3-6m-grant-to-study-health-risks-from-states-plantation-era-contamination/?TGI=00343b2284e2a795042a493021aef80d34f1dcd0",
-      "published_at": "2026-09-20T13:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.thegardenisland.com/wp-content/uploads/sites/9/2026/09/web1_manoa-uhero-jabsom-maui-wes-february-2024-testing-table.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "thegardenisland.com"
-      ]
-    },
-    {
-      "id": "https://www.tickerreport.com/banking-finance/13590779/cvw-cleantech-otcmktstituf-stock-passes-below-200-day-moving-average-should-you-sell.html",
-      "domain": "tickerreport.com",
-      "title": "CVW CleanTech ( OTCMKTS : TITUF ) Stock Passes Below 200 Day Moving Average \u2013 Should You Sell ? ",
-      "url": "https://www.tickerreport.com/banking-finance/13590779/cvw-cleantech-otcmktstituf-stock-passes-below-200-day-moving-average-should-you-sell.html",
-      "published_at": "2026-09-20T12:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tickerreport.com"
-      ]
-    },
-    {
-      "id": "https://kpic.com/news/local/national-coastal-cleanup-day-in-florence-helps-curb-microplastics-and-protect-wildlife",
-      "domain": "kpic.com",
-      "title": "National Coastal Cleanup Day in Florence helps curb microplastics and protect wildlife",
-      "url": "https://kpic.com/news/local/national-coastal-cleanup-day-in-florence-helps-curb-microplastics-and-protect-wildlife",
-      "published_at": "2026-09-20T04:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://kpic.com/resources/media2/16x9/840/1320/25x0/90/3d1606f0-55eb-4979-84db-ff169e86e91f-Screenshot20260919175128.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 3,
-      "syndicated_domains": [
-        "kpic.com",
-        "kval.com",
-        "nbc16.com"
-      ]
-    },
-    {
-      "id": "https://www.romesentinel.com/news/rome-mvwa-little-falls-and-frankfort-receive-lead-service-line-grants/article_fbe2ce47-69b7-471a-8694-1678c41d001f.html",
-      "domain": "romesentinel.com",
-      "title": "Rome , MVWA , Little Falls and Frankfort receive lead service line grants",
-      "url": "https://www.romesentinel.com/news/rome-mvwa-little-falls-and-frankfort-receive-lead-service-line-grants/article_fbe2ce47-69b7-471a-8694-1678c41d001f.html",
-      "published_at": "2026-09-20T00:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/romesentinel.com/content/tncms/custom/image/419ec284-f5a3-11ed-a31e-ab8ff79ed4fa.jpg",
-      "matched_keywords": [
-        "lead in water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "romesentinel.com"
       ]
     }
   ]
