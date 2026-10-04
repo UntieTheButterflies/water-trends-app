@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-03T14:10:54+00:00",
+  "refreshed_at": "2026-10-04T14:44:47+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,20 +18,20 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 124,
+  "total_unique_mentions": 105,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 25,
-    "lead in water": 0,
+    "forever chemicals": 24,
+    "lead in water": 1,
     "arsenic in water": 0,
-    "nitrate in water": 0,
-    "microplastics": 24,
-    "fluoride in water": 0,
+    "nitrate in water": 2,
+    "microplastics": 0,
+    "fluoride in water": 1,
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 12,
-    "bottled water": 58,
-    "water filter": 0,
+    "bottled water": 57,
+    "water filter": 3,
     "reverse osmosis": 5,
     "water softener": 4,
     "whole house water filter": 0
@@ -192,23 +192,6 @@
       ]
     },
     {
-      "id": "https://www.naturalnews.com/2026-10-01-low-plastic-trial-reduce-hormone-disrupting-chemicals.html",
-      "domain": "naturalnews.com",
-      "title": "7 - Day Low - Plastic Trial Linked to Reductions in Hormone - Disrupting Chemicals , Study Reports \u2013 NaturalNews . com",
-      "url": "https://www.naturalnews.com/2026-10-01-low-plastic-trial-reduce-hormone-disrupting-chemicals.html",
-      "published_at": "2026-10-02T02:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/low-plastic-trial-phthalates-bisphenols-4532-original.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "naturalnews.com"
-      ]
-    },
-    {
       "id": "https://www.wiscassetnewspaper.com:443/article/october/274993",
       "domain": "wiscassetnewspaper.com",
       "title": "October events",
@@ -223,23 +206,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wiscassetnewspaper.com"
-      ]
-    },
-    {
-      "id": "https://www.thestatehousefile.com/politics/august-power-outages-rivoli-theatre-marquee-indiana-small-business-program/article_a07475d7-782b-472a-8c50-63e104dbc668.html",
-      "domain": "thestatehousefile.com",
-      "title": "August power outages , Rivoli Theatre marquee , Indiana Small Business Program",
-      "url": "https://www.thestatehousefile.com/politics/august-power-outages-rivoli-theatre-marquee-indiana-small-business-program/article_a07475d7-782b-472a-8c50-63e104dbc668.html",
-      "published_at": "2026-10-02T01:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/thestatehousefile.com/content/tncms/assets/v3/editorial/4/73/473147c8-a7ef-11ed-9eaf-4f9630f00855/63e406d12ecb5.image.png?crop=1600%2C840%2C0%2C29",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "thestatehousefile.com"
       ]
     },
     {
@@ -296,23 +262,6 @@
       ]
     },
     {
-      "id": "https://www.governing.com/resilience/illinois-becomes-first-great-lakes-state-to-target-plastic-pellet-pollution",
-      "domain": "governing.com",
-      "title": "Illinois Becomes First Great Lakes State to Target Plastic Pellet Pollution",
-      "url": "https://www.governing.com/resilience/illinois-becomes-first-great-lakes-state-to-target-plastic-pellet-pollution",
-      "published_at": "2026-10-01T23:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "http://erepublic-brightspot.s3.us-west-2.amazonaws.com/47/76/ac9ffa8a46838451d59e94e26937/16x9-m.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "governing.com"
-      ]
-    },
-    {
       "id": "https://wwd.com/sourcing-journal/sustainability/california-pfas-pesticides-cotton-disclosure-law-1239302679/",
       "domain": "wwd.com",
       "title": "California Takes Stock of PFAS Pesticides Used on Farms",
@@ -327,6 +276,41 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wwd.com"
+      ]
+    },
+    {
+      "id": "https://www.fox13news.com/news/jd-vance-vice-president-rallies-republicans-lakeland",
+      "domain": "fox13news.com",
+      "title": "JD Vance in Lakeland : VP joins Florida republican candidates ahead of closer - than - expected races",
+      "url": "https://www.fox13news.com/news/jd-vance-vice-president-rallies-republicans-lakeland",
+      "published_at": "2026-10-01T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2026/10/1280/720/48727514240.jpg?ve=1&tl=1",
+      "matched_keywords": [
+        "fluoride in water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "fox13news.com",
+        "fox35orlando.com"
+      ]
+    },
+    {
+      "id": "https://www.bupipedream.com/news/report-finds-lead-contamination-in-40-percent-of-new-york-state-schools-water-supply/189768/",
+      "domain": "bupipedream.com",
+      "title": "Report finds lead contamination in 40 percent of New York state school water supply",
+      "url": "https://www.bupipedream.com/news/report-finds-lead-contamination-in-40-percent-of-new-york-state-schools-water-supply/189768/",
+      "published_at": "2026-10-01T21:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.bupipedream.com/wp-content/uploads/2026/10/bhs-1024x768.jpg",
+      "matched_keywords": [
+        "lead in water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "bupipedream.com"
       ]
     },
     {
@@ -347,23 +331,6 @@
       ]
     },
     {
-      "id": "https://www.wdiy.org/wdiy-headlines/2026-10-01/new-study-finds-widespread-microplastics-in-regions-waterways-wdiy-local-news",
-      "domain": "wdiy.org",
-      "title": "New Study Finds  Widespread Microplastics  in Region Waterways",
-      "url": "https://www.wdiy.org/wdiy-headlines/2026-10-01/new-study-finds-widespread-microplastics-in-regions-waterways-wdiy-local-news",
-      "published_at": "2026-10-01T20:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/ba/6b/30d44d3e45e788c265321cb16aff/lehigh-river-in-south-bethlehem-pa.jpeg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wdiy.org"
-      ]
-    },
-    {
       "id": "https://turnto10.com/news/local/attleboro-fire-department-receives-first-sets-of-pfas-free-turnout-gear-chemical-free-cancer-causing-forevery-chemicals-fire-resistent-oil-resistent-october-1-2026",
       "domain": "turnto10.com",
       "title": "Attleboro Fire Department receives first sets of PFAS - free turnout gear",
@@ -381,23 +348,6 @@
       ]
     },
     {
-      "id": "https://www.enn.com/articles/78416-microplastics-concentrations-in-the-truckee-river-surge-during-high-spring-flows-new-study-finds",
-      "domain": "enn.com",
-      "title": "Environmental News Network - Microplastics Concentrations in the Truckee River Surge During High Spring Flows , New Study Finds",
-      "url": "https://www.enn.com/articles/78416-microplastics-concentrations-in-the-truckee-river-surge-during-high-spring-flows-new-study-finds",
-      "published_at": "2026-10-01T20:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "enn.com"
-      ]
-    },
-    {
       "id": "https://www.aol.com/articles/happens-mix-lemon-salt-why-163500000.html",
       "domain": "aol.com",
       "title": "What Happens When You Mix Lemon And Salt And Why People Swear By It",
@@ -412,40 +362,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "aol.com"
-      ]
-    },
-    {
-      "id": "https://www.positivelynaperville.com/2026/10/01/things-to-do-in-naperville-this-weekend-october-2-4/161378",
-      "domain": "positivelynaperville.com",
-      "title": "Things To Do in Naperville This Weekend : October 2 - 4",
-      "url": "https://www.positivelynaperville.com/2026/10/01/things-to-do-in-naperville-this-weekend-october-2-4/161378",
-      "published_at": "2026-10-01T19:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.positivelynaperville.com/wp-content/uploads/2025/07/Things-to-do-1.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "positivelynaperville.com"
-      ]
-    },
-    {
-      "id": "https://www.news-medical.net/news/20261001/EU-project-calls-for-strict-regulations-to-stop-forever-chemicals.aspx",
-      "domain": "news-medical.net",
-      "title": "EU project calls for strict regulations to stop forever chemicals",
-      "url": "https://www.news-medical.net/news/20261001/EU-project-calls-for-strict-regulations-to-stop-forever-chemicals.aspx",
-      "published_at": "2026-10-01T18:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "news-medical.net"
       ]
     },
     {
@@ -503,6 +419,23 @@
       ]
     },
     {
+      "id": "https://www.news-medical.net/news/20261001/EU-project-calls-for-strict-regulations-to-stop-forever-chemicals.aspx",
+      "domain": "news-medical.net",
+      "title": "EU project calls for strict regulations to stop forever chemicals",
+      "url": "https://www.news-medical.net/news/20261001/EU-project-calls-for-strict-regulations-to-stop-forever-chemicals.aspx",
+      "published_at": "2026-10-01T18:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "news-medical.net"
+      ]
+    },
+    {
       "id": "https://www.dailymail.com/health/article-16169463/grocery-store-receipt-toxic-chemicals.html",
       "domain": "dailymail.com",
       "title": "Cancer - linked chemicals in receipts can be absorbed by the body , expert warns",
@@ -520,20 +453,20 @@
       ]
     },
     {
-      "id": "https://newsroomamerica.com/tag/battery_technology",
-      "domain": "newsroomamerica.com",
-      "title": "Tag : battery _ technology",
-      "url": "https://newsroomamerica.com/tag/battery_technology",
-      "published_at": "2026-10-01T17:30:00+00:00",
+      "id": "https://www.theadvocate.com/shreveport_bossier/6-places-to-enjoy-camping-louisiana-arkansas/article_e95c1172-fbbb-5d0e-89b7-cac3f6d67254.html",
+      "domain": "theadvocate.com",
+      "title": "Camping tips and site recommendations in Arkansas | News from The Shreveport - Bossier City Advocate",
+      "url": "https://www.theadvocate.com/shreveport_bossier/6-places-to-enjoy-camping-louisiana-arkansas/article_e95c1172-fbbb-5d0e-89b7-cac3f6d67254.html",
+      "published_at": "2026-10-01T18:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/9/4a/94abb01c-e180-5fe8-9da6-0f81de442452/6abd325f39eaa.image.jpg?crop=1661%2C872%2C0%2C249",
       "matched_keywords": [
-        "microplastics"
+        "water filter"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "newsroomamerica.com"
+        "theadvocate.com"
       ]
     },
     {
@@ -553,6 +486,43 @@
         "click2houston.com",
         "gilmermirror.com",
         "ksat.com"
+      ]
+    },
+    {
+      "id": "https://www.suncommercial.com/gcdailyworld/news/national/article_09f8b3b8-fc2c-5e5e-9f84-5be5b63f6ad8.html",
+      "domain": "suncommercial.com",
+      "title": "I Have One Rule for Shopping Amazon Prime Day and It Saves Me Big",
+      "url": "https://www.suncommercial.com/gcdailyworld/news/national/article_09f8b3b8-fc2c-5e5e-9f84-5be5b63f6ad8.html",
+      "published_at": "2026-10-01T17:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/suncommercial.com/content/tncms/assets/v3/editorial/2/07/207d9b4f-8a40-5d49-abac-a78a54298799/6abe6416a6a6e.image.jpg?crop=1763%2C926%2C0%2C124",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 4,
+      "syndicated_domains": [
+        "lebanondemocrat.com",
+        "nerdwallet.com",
+        "suncommercial.com",
+        "the-messenger.com"
+      ]
+    },
+    {
+      "id": "https://www.itechpost.com/articles/237474/20261001/brevilles-600-spiral-luxe-auto-pour-over-coffee-machine-makes-pour-over-coffee-scratch.htm",
+      "domain": "itechpost.com",
+      "title": "Breville $600 Spiral Luxe Auto Pour Over Coffee Machine Makes Pour - Over Coffee From Scratch",
+      "url": "https://www.itechpost.com/articles/237474/20261001/brevilles-600-spiral-luxe-auto-pour-over-coffee-machine-makes-pour-over-coffee-scratch.htm",
+      "published_at": "2026-10-01T16:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://d.itechpost.com/en/full/223189/spiral-luxe-auto-pour-over.jpg",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "itechpost.com"
       ]
     },
     {
@@ -587,23 +557,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "ipsnews.net"
-      ]
-    },
-    {
-      "id": "https://innovationintextiles.com/paul-schlack-prize-for-senbis-bioplastics-researcher/",
-      "domain": "innovationintextiles.com",
-      "title": "Paul Schlack Prize for Senbis bioplastics researcher",
-      "url": "https://innovationintextiles.com/paul-schlack-prize-for-senbis-bioplastics-researcher/",
-      "published_at": "2026-10-01T13:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://innovationintextiles.com/wp-content/uploads/2026/10/Senbis-1024x576.jpeg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "innovationintextiles.com"
       ]
     },
     {
@@ -726,23 +679,6 @@
       ]
     },
     {
-      "id": "https://www.chemeurope.com/en/news/1189963/microplastics-cause-fatty-liver-disease-in-mice.html",
-      "domain": "chemeurope.com",
-      "title": "Microplastics Cause Fatty Liver Disease in Mice",
-      "url": "https://www.chemeurope.com/en/news/1189963/microplastics-cause-fatty-liver-disease-in-mice.html",
-      "published_at": "2026-10-01T05:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://img.chemie.de/Portal/News/6abcbdf171cf8_7u5Dx5IXR.png?tr=w-1138,h-853,cm-extract,x-38,y-16:n-xzoom,l-image,i-Portal%2Fai-label_mPx4Q_Shs.webp,lx-N14,ly-N14,w-25,q-100,l-end",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "chemeurope.com"
-      ]
-    },
-    {
       "id": "https://www.the-messenger.com/news/local/article_74377493-5f74-5101-af41-122509f317ba.html",
       "domain": "the-messenger.com",
       "title": "Hanson citizens raise concerns about high water pressure",
@@ -845,41 +781,6 @@
       ]
     },
     {
-      "id": "https://www.wfmz.com/news/area/poconos-coal/carbon-county/study-finds-microplastics-throughout-delaware-river-watershed-including-lehigh-river/article_b6d31e48-5611-4a8c-8232-22939156212d.html",
-      "domain": "wfmz.com",
-      "title": "Study finds microplastics throughout Delaware River watershed , including Lehigh River",
-      "url": "https://www.wfmz.com/news/area/poconos-coal/carbon-county/study-finds-microplastics-throughout-delaware-river-watershed-including-lehigh-river/article_b6d31e48-5611-4a8c-8232-22939156212d.html",
-      "published_at": "2026-10-01T02:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/28/328d4478-f633-551e-9463-40d5f2bbcafb/6abd9f1559d78.image.jpg?crop=1280%2C672%2C0%2C23",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wfmz.com"
-      ]
-    },
-    {
-      "id": "https://www.hawaii.edu/news/2026/09/30/microplastics-infant-brain-study/",
-      "domain": "hawaii.edu",
-      "title": "$3 . 3M grant funds UH microplastics , infant brain study | University of Hawai\u02bbi System News",
-      "url": "https://www.hawaii.edu/news/2026/09/30/microplastics-infant-brain-study/",
-      "published_at": "2026-10-01T01:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.hawaii.edu/news/wp-content/uploads/2026/09/manoa-public-health-microplastic-infant-study-2.jpg",
-      "matched_keywords": [
-        "forever chemicals",
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "hawaii.edu"
-      ]
-    },
-    {
       "id": "https://www.wnem.com/2026/10/01/boil-water-notice-issued-village-kingston-residents/",
       "domain": "wnem.com",
       "title": "Boil water notice issued for Village of Kingston residents",
@@ -894,6 +795,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wnem.com"
+      ]
+    },
+    {
+      "id": "https://www.hawaii.edu/news/2026/09/30/microplastics-infant-brain-study/",
+      "domain": "hawaii.edu",
+      "title": "$3 . 3M grant funds UH microplastics , infant brain study | University of Hawai\u02bbi System News",
+      "url": "https://www.hawaii.edu/news/2026/09/30/microplastics-infant-brain-study/",
+      "published_at": "2026-10-01T01:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.hawaii.edu/news/wp-content/uploads/2026/09/manoa-public-health-microplastic-infant-study-2.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "hawaii.edu"
       ]
     },
     {
@@ -965,20 +883,20 @@
       ]
     },
     {
-      "id": "https://www.wboc.com/news/microplastics-found-in-every-delaware-river-watershed-site-tested-researchers-say/article_fea296e2-ea22-48f1-86be-f11b89408381.html",
-      "domain": "wboc.com",
-      "title": "Microplastics found in every Delaware River Watershed site tested , researchers say",
-      "url": "https://www.wboc.com/news/microplastics-found-in-every-delaware-river-watershed-site-tested-researchers-say/article_fea296e2-ea22-48f1-86be-f11b89408381.html",
-      "published_at": "2026-09-30T22:45:00+00:00",
+      "id": "https://freebeacon.com/democrats/iowa-democratic-senate-hopeful-josh-turek-skips-vote-aimed-at-treating-cancer-causing-water-for-schumer-aligned-groups-event/",
+      "domain": "freebeacon.com",
+      "title": "Iowa Democratic Senate Hopeful Josh Turek Skips Vote Aimed at Treating Cancer - Causing Water for Schumer - Aligned Group Event",
+      "url": "https://freebeacon.com/democrats/iowa-democratic-senate-hopeful-josh-turek-skips-vote-aimed-at-treating-cancer-causing-water-for-schumer-aligned-groups-event/",
+      "published_at": "2026-09-30T23:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/wboc.com/content/tncms/assets/v3/editorial/a/18/a18152c1-ab27-4330-b49d-c9f85e8e0e46/6abd76c8ec9d6.image.png?crop=1771%2C930%2C73%2C0",
+      "thumbnail": "",
       "matched_keywords": [
-        "microplastics"
+        "nitrate in water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "wboc.com"
+        "freebeacon.com"
       ]
     },
     {
@@ -1030,23 +948,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "tomsguide.com"
-      ]
-    },
-    {
-      "id": "https://natlawreview.com/event/plastics-and-policy-microplastics-epr-and-other-emerging-trends",
-      "domain": "natlawreview.com",
-      "title": "Plastics and Policy : Microplastics , EPR , & Other Emerging Trends",
-      "url": "https://natlawreview.com/event/plastics-and-policy-microplastics-epr-and-other-emerging-trends",
-      "published_at": "2026-09-30T18:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "natlawreview.com"
       ]
     },
     {
@@ -1154,23 +1055,6 @@
       ]
     },
     {
-      "id": "https://stanforddaily.com/2026/09/29/ai-use-comes-with-a-cost/",
-      "domain": "stanforddaily.com",
-      "title": "From the Community | AI use comes with a cost . ",
-      "url": "https://stanforddaily.com/2026/09/29/ai-use-comes-with-a-cost/",
-      "published_at": "2026-09-30T12:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://stanforddaily.com/wp-content/uploads/2026/09/datacenter.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "stanforddaily.com"
-      ]
-    },
-    {
       "id": "https://www.wutc.org/2026-09-30/u-s-forces-exit-iraq-amid-iran-war-and-scotus-revives-trump-deportation-policy",
       "domain": "wutc.org",
       "title": "U . S . forces exit Iraq amid Iran war . And , SCOTUS revives Trump deportation policy",
@@ -1198,6 +1082,23 @@
         "wsiu.org",
         "wuft.org",
         "wutc.org"
+      ]
+    },
+    {
+      "id": "https://stanforddaily.com/2026/09/29/ai-use-comes-with-a-cost/",
+      "domain": "stanforddaily.com",
+      "title": "From the Community | AI use comes with a cost . ",
+      "url": "https://stanforddaily.com/2026/09/29/ai-use-comes-with-a-cost/",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://stanforddaily.com/wp-content/uploads/2026/09/datacenter.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "stanforddaily.com"
       ]
     },
     {
@@ -1232,23 +1133,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "kmvt.com"
-      ]
-    },
-    {
-      "id": "https://ktvz.com/news/government-politics/2026/09/28/rep-janelle-bynum-leads-request-to-congress-for-formal-review-of-epas-microplastics-regulation/",
-      "domain": "ktvz.com",
-      "title": "Rep . Janelle Bynum leads request to Congress for formal review of EPA microplastics regulation",
-      "url": "https://ktvz.com/news/government-politics/2026/09/28/rep-janelle-bynum-leads-request-to-congress-for-formal-review-of-epas-microplastics-regulation/",
-      "published_at": "2026-09-29T18:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://ktvz.b-cdn.net/2020/02/Microplastics-MGN-860x484.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ktvz.com"
       ]
     },
     {
@@ -1448,79 +1332,12 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/1/54/154bfd94-69cc-5c30-bf1f-f3d371a65ee6/6abb111d0322e.image.jpg?crop=1920%2C1008%2C0%2C35",
       "matched_keywords": [
-        "bottled water"
+        "bottled water",
+        "nitrate in water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "madison.com"
-      ]
-    },
-    {
-      "id": "https://www.fox17online.com/news/local-news/east-jordan-plastics-fire-prompts-cleanup-environmental-testing",
-      "domain": "fox17online.com",
-      "title": "East Jordan Plastics fire prompts cleanup , environmental testing",
-      "url": "https://www.fox17online.com/news/local-news/east-jordan-plastics-fire-prompts-cleanup-environmental-testing",
-      "published_at": "2026-09-29T03:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/08/84/c80b88ab40f3b7b830b50ea78230/screenshot-2026-09-28-at-5-31-13-pm.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "fox17online.com"
-      ]
-    },
-    {
-      "id": "https://southtahoenow.com/09/28/2026/raleys-customers-in-south-lake-tahoe-raise-over-345000-for-the-tahoe-fund",
-      "domain": "southtahoenow.com",
-      "title": "Raley customers in South Lake Tahoe raise over $345 , 000 for the Tahoe Fund",
-      "url": "https://southtahoenow.com/09/28/2026/raleys-customers-in-south-lake-tahoe-raise-over-345000-for-the-tahoe-fund",
-      "published_at": "2026-09-29T03:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://southtahoenow.com/wp-content/uploads/2026/09/Raleys-TF-checkpresentation.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "southtahoenow.com"
-      ]
-    },
-    {
-      "id": "https://www.hendersondispatch.com/archives/jitterbug-perfume-and-the-floral-phase-of-consciousness/article_cb55a6e9-53ba-59aa-9dfb-418c69476f5a.html",
-      "domain": "hendersondispatch.com",
-      "title": "  Jitterbug Perfume  and the floral phase of consciousness",
-      "url": "https://www.hendersondispatch.com/archives/jitterbug-perfume-and-the-floral-phase-of-consciousness/article_cb55a6e9-53ba-59aa-9dfb-418c69476f5a.html",
-      "published_at": "2026-09-29T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/hendersondispatch.com/content/tncms/custom/image/9aef42cc-e96d-11ea-9099-2b53bf5cb610.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "hendersondispatch.com"
-      ]
-    },
-    {
-      "id": "https://ktvz.com/news/government-politics/2026/09/28/rep-janelle-bynum-joins-request-to-congress-for-formal-review-of-epas-microplastics-regulation/",
-      "domain": "ktvz.com",
-      "title": "Rep . Janelle Bynum joins request to Congress for formal review of EPA microplastics regulation",
-      "url": "https://ktvz.com/news/government-politics/2026/09/28/rep-janelle-bynum-joins-request-to-congress-for-formal-review-of-epas-microplastics-regulation/",
-      "published_at": "2026-09-29T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://ktvz.b-cdn.net/2020/02/Microplastics-MGN-860x484.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ktvz.com"
       ]
     },
     {
@@ -1541,23 +1358,6 @@
       ]
     },
     {
-      "id": "https://www.raps.org/resource/recon-fda-approves-drugs-for-parkinson-s-bile-duct-cancer-rare-soft-tissue-disease-merck-daiichi-scrap-application-for-adc-in-lung-cancer.html",
-      "domain": "raps.org",
-      "title": "Recon : FDA approves drugs for Parkinson , bile duct cancer , rare soft tissue disease ; Merck , Daiichi scrap application for ADC in lung cancer",
-      "url": "https://www.raps.org/resource/recon-fda-approves-drugs-for-parkinson-s-bile-duct-cancer-rare-soft-tissue-disease-merck-daiichi-scrap-application-for-adc-in-lung-cancer.html",
-      "published_at": "2026-09-28T23:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "raps.org"
-      ]
-    },
-    {
       "id": "https://www.wbiw.com/2026/09/28/precautionary-boil-order-issued-for-select-crawford-drive-addresses-in-bedford/",
       "domain": "wbiw.com",
       "title": "Precautionary Boil Order issued for select Crawford Drive addresses in Bedford",
@@ -1575,23 +1375,6 @@
       ]
     },
     {
-      "id": "https://news.wjct.org/show/whats-health-got-to-do-with-it/2026-09-28/coffee-and-heart-health-chemical-exposure-chair-yoga",
-      "domain": "news.wjct.org",
-      "title": "Coffee and heart health ; chemical exposure ; chair yoga",
-      "url": "https://news.wjct.org/show/whats-health-got-to-do-with-it/2026-09-28/coffee-and-heart-health-chemical-exposure-chair-yoga",
-      "published_at": "2026-09-28T22:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/ed/ca/bb38a9e142419e83db40ba65abb5/coffee-chemicals-yoga.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "news.wjct.org"
-      ]
-    },
-    {
       "id": "https://www.sott.net/article/508619-The-faulty-premises-underlying-Europeans-war-on-Russia-hyper-ventilation",
       "domain": "sott.net",
       "title": "The faulty premises underlying European  war on Russia  hyper - ventilation",
@@ -1606,6 +1389,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "sott.net"
+      ]
+    },
+    {
+      "id": "https://news.wjct.org/show/whats-health-got-to-do-with-it/2026-09-28/coffee-and-heart-health-chemical-exposure-chair-yoga",
+      "domain": "news.wjct.org",
+      "title": "Coffee and heart health ; chemical exposure ; chair yoga",
+      "url": "https://news.wjct.org/show/whats-health-got-to-do-with-it/2026-09-28/coffee-and-heart-health-chemical-exposure-chair-yoga",
+      "published_at": "2026-09-28T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/ed/ca/bb38a9e142419e83db40ba65abb5/coffee-chemicals-yoga.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "news.wjct.org"
       ]
     },
     {
@@ -1728,23 +1528,6 @@
       ]
     },
     {
-      "id": "https://www.newswise.com/articles/hurricane-helene-deposited-nearly-one-fifth-of-annual-microplastics-at-one-north-carolina-site",
-      "domain": "newswise.com",
-      "title": "Hurricane Helene Deposited Nearly One - Fifth of Annual Microplastics at One North Carolina Site",
-      "url": "https://www.newswise.com/articles/hurricane-helene-deposited-nearly-one-fifth-of-annual-microplastics-at-one-north-carolina-site",
-      "published_at": "2026-09-28T17:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://news.vt.edu/content/news_vt_edu/en/articles/2026/09/science-helene-microplastics/jcr:content/article-image.transform/xl-medium/image.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "newswise.com"
-      ]
-    },
-    {
       "id": "https://capitolfax.com/2026/09/28/isabel%E2%80%99s-morning-briefing-816/",
       "domain": "capitolfax.com",
       "title": "Capitol Fax . com - Your Illinois News Radar \u00bb Isabel morning briefing",
@@ -1815,40 +1598,6 @@
       ]
     },
     {
-      "id": "https://www.nakedcapitalism.com/2026/09/links-9-28-2026.html",
-      "domain": "nakedcapitalism.com",
-      "title": "Links 9 / 28 / 2026 | naked capitalism",
-      "url": "https://www.nakedcapitalism.com/2026/09/links-9-28-2026.html",
-      "published_at": "2026-09-28T15:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/HOalg6HXsAAnk6j-819x1024.jpeg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "nakedcapitalism.com"
-      ]
-    },
-    {
-      "id": "https://www.tahoedailytribune.com/news/new-study-finds-microplastics-3-4-times-higher-in-truckee-river-than-lake-tahoe/",
-      "domain": "tahoedailytribune.com",
-      "title": "New study finds microplastics 3 - 4 times higher in Truckee River than Lake Tahoe",
-      "url": "https://www.tahoedailytribune.com/news/new-study-finds-microplastics-3-4-times-higher-in-truckee-river-than-lake-tahoe/",
-      "published_at": "2026-09-28T15:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://swiftmedia.s3.amazonaws.com/pacific.swiftcom.com/images/sites/5/2026/09/28074835/microplsticstudy2.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "tahoedailytribune.com"
-      ]
-    },
-    {
       "id": "http://www.walkermn.com/around_the_web/health/are-there-toxic-chemicals-in-your-grocery-store-receipt/article_9cca4931-2143-5a3b-8a23-dd16cf69992b.html",
       "domain": "walkermn.com",
       "title": "Are there toxic chemicals in your grocery store receipt ? ",
@@ -1868,20 +1617,20 @@
       ]
     },
     {
-      "id": "https://www.healio.com/news/neurology/20260731/alzheimers-mortality-rate-in-southeastern-pennsylvania-could-be-linked-to-pfas-levels",
-      "domain": "healio.com",
-      "title": "High PFAS levels could be linked to AD mortality in Pennsylvania",
-      "url": "https://www.healio.com/news/neurology/20260731/alzheimers-mortality-rate-in-southeastern-pennsylvania-could-be-linked-to-pfas-levels",
-      "published_at": "2026-09-28T15:15:00+00:00",
+      "id": "https://www.nakedcapitalism.com/2026/09/links-9-28-2026.html",
+      "domain": "nakedcapitalism.com",
+      "title": "Links 9 / 28 / 2026 | naked capitalism",
+      "url": "https://www.nakedcapitalism.com/2026/09/links-9-28-2026.html",
+      "published_at": "2026-09-28T15:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.healio.com/~/media/slack-news/neurology/infographics/2026/07_july/neuro0726kulick_aaic_graphic_01.jpg",
+      "thumbnail": "https://www.nakedcapitalism.com/wp-content/uploads/2026/09/HOalg6HXsAAnk6j-819x1024.jpeg",
       "matched_keywords": [
         "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "healio.com"
+        "nakedcapitalism.com"
       ]
     },
     {
@@ -1902,6 +1651,23 @@
       ]
     },
     {
+      "id": "https://www.healio.com/news/neurology/20260731/alzheimers-mortality-rate-in-southeastern-pennsylvania-could-be-linked-to-pfas-levels",
+      "domain": "healio.com",
+      "title": "High PFAS levels could be linked to AD mortality in Pennsylvania",
+      "url": "https://www.healio.com/news/neurology/20260731/alzheimers-mortality-rate-in-southeastern-pennsylvania-could-be-linked-to-pfas-levels",
+      "published_at": "2026-09-28T15:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.healio.com/~/media/slack-news/neurology/infographics/2026/07_july/neuro0726kulick_aaic_graphic_01.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "healio.com"
+      ]
+    },
+    {
       "id": "https://www.agri-pulse.com/articles/25303-daybreak-sept-28-boozman-foresees-bipartisan-talks-on-farm-bill",
       "domain": "agri-pulse.com",
       "title": "Daybreak Sept . 28 : Boozman foresees bipartisan talks on farm bill",
@@ -1916,23 +1682,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "agri-pulse.com"
-      ]
-    },
-    {
-      "id": "https://www.sandiegouniontribune.com/2026/09/26/when-reusable-bags-start-piling-up-heres-how-to-redirect-them/",
-      "domain": "sandiegouniontribune.com",
-      "title": "When reusable bags start piling up , here how to redirect them \u2013 San Diego Union - Tribune",
-      "url": "https://www.sandiegouniontribune.com/2026/09/26/when-reusable-bags-start-piling-up-heres-how-to-redirect-them/",
-      "published_at": "2026-09-28T14:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/09/SUT-Z-REUSABLEBAGS-0926-AdobeStock2013758447-01.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "sandiegouniontribune.com"
       ]
     },
     {
@@ -1953,20 +1702,21 @@
       ]
     },
     {
-      "id": "https://www.healio.com/news/pulmonology/20260925/more-patients-with-vs-without-lung-malignancy-have-microplastics-in-their-airways",
-      "domain": "healio.com",
-      "title": "Patients with lung malignancy have more airway microplastics",
-      "url": "https://www.healio.com/news/pulmonology/20260925/more-patients-with-vs-without-lung-malignancy-have-microplastics-in-their-airways",
-      "published_at": "2026-09-28T12:30:00+00:00",
+      "id": "https://www.cosmopolitan.com/uk/beauty-hair/skincare/a73850376/shower-filter-review/",
+      "domain": "cosmopolitan.com",
+      "title": "The four most popular shower filters tested \u2013 The one that worth your money and the ones that defintely aren",
+      "url": "https://www.cosmopolitan.com/uk/beauty-hair/skincare/a73850376/shower-filter-review/",
+      "published_at": "2026-09-28T11:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.healio.com/~/media/slack-news/pulmonology/misc/infographics/2026/pulm0926dimeas_ers_graphic_01_web.jpg",
+      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/5f0e8f8a-e82f-4da7-b15c-81f310b049d0.jpg?crop=1.00xw:0.752xh;0,0.137xh",
       "matched_keywords": [
-        "microplastics"
+        "hard water",
+        "water softener"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "healio.com"
+        "cosmopolitan.com"
       ]
     },
     {
@@ -1984,24 +1734,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "readingeagle.com"
-      ]
-    },
-    {
-      "id": "https://www.cosmopolitan.com/uk/beauty-hair/skincare/a73850376/shower-filter-review/",
-      "domain": "cosmopolitan.com",
-      "title": "The four most popular shower filters tested \u2013 The one that worth your money and the ones that defintely aren",
-      "url": "https://www.cosmopolitan.com/uk/beauty-hair/skincare/a73850376/shower-filter-review/",
-      "published_at": "2026-09-28T11:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/5f0e8f8a-e82f-4da7-b15c-81f310b049d0.jpg?crop=1.00xw:0.752xh;0,0.137xh",
-      "matched_keywords": [
-        "hard water",
-        "water softener"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "cosmopolitan.com"
       ]
     },
     {
@@ -2090,6 +1822,23 @@
       ]
     },
     {
+      "id": "https://www.siliconvalley.com/2026/09/27/san-jose-city-council-candidates-data-centers/",
+      "domain": "siliconvalley.com",
+      "title": "Election 2026 : How San Jose council candidates plan to handle data center issue",
+      "url": "https://www.siliconvalley.com/2026/09/27/san-jose-city-council-candidates-data-centers/",
+      "published_at": "2026-09-27T15:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "siliconvalley.com"
+      ]
+    },
+    {
       "id": "https://www.wyomingnews.com/laramieboomerang/laramieboomerang/news/after-jackson-detects-e-coli-in-town-well-residents-rush-to-buy-bottled-water/article_70157d0f-b869-41c9-b0e8-fc3f87820e8d.html",
       "domain": "wyomingnews.com",
       "title": "After Jackson detects E . coli in town well , residents rush to buy bottled water",
@@ -2104,75 +1853,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wyomingnews.com"
-      ]
-    },
-    {
-      "id": "https://www.eastbaytimes.com/2026/09/27/san-jose-city-council-candidates-data-centers/",
-      "domain": "eastbaytimes.com",
-      "title": "Election 2026 : How San Jose council candidates plan to handle data center issue",
-      "url": "https://www.eastbaytimes.com/2026/09/27/san-jose-city-council-candidates-data-centers/",
-      "published_at": "2026-09-27T13:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.eastbaytimes.com/wp-content/uploads/2026/09/SJM-L-DATACENTER-0823-5.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "eastbaytimes.com",
-        "siliconvalley.com"
-      ]
-    },
-    {
-      "id": "https://www.chicagotribune.com/2026/09/27/great-lakes-plastic-pollution/",
-      "domain": "chicagotribune.com",
-      "title": "Great waste in the Great Lakes",
-      "url": "https://www.chicagotribune.com/2026/09/27/great-lakes-plastic-pollution/",
-      "published_at": "2026-09-27T11:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.chicagotribune.com/wp-content/uploads/2026/05/ctc-l-plastics-ela42_262501870.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "chicagotribune.com"
-      ]
-    },
-    {
-      "id": "https://www.kake.com/home/boil-water-advisory-continues-in-bear-hills-subdivision-in-park-city/article_fa8c274c-cb72-4c4f-8df7-9ac1100058db.html",
-      "domain": "kake.com",
-      "title": "Boil water advisory continues in Bear Hills Subdivision in Park City",
-      "url": "https://www.kake.com/home/boil-water-advisory-continues-in-bear-hills-subdivision-in-park-city/article_fa8c274c-cb72-4c4f-8df7-9ac1100058db.html",
-      "published_at": "2026-09-27T04:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/kake.com/content/tncms/assets/v3/editorial/8/b5/8b5ea5be-f7cf-5f22-bfa0-6be2b32a41a0/65d3c3f56c425.image.jpg?crop=640%2C336%2C0%2C11",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "kake.com"
-      ]
-    },
-    {
-      "id": "https://www.dailykos.com/stories/2026/9/26/800103148/elections/republicans-see-warning-signs-for-paxton-in-the-dallas-fort-worth-suburbs/",
-      "domain": "dailykos.com",
-      "title": "Republicans see warning signs for Paxton in the Dallas - Fort Worth suburbs",
-      "url": "https://www.dailykos.com/stories/2026/9/26/800103148/elections/republicans-see-warning-signs-for-paxton-in-the-dallas-fort-worth-suburbs/",
-      "published_at": "2026-09-27T01:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.dailykos.com/wp-content/uploads/sites/2/2026/05/AP26147094590787.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dailykos.com"
       ]
     }
   ]
