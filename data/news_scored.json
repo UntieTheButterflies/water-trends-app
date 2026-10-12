@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-11T15:42:31+00:00",
+  "refreshed_at": "2026-10-12T18:31:50+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,7 +18,7 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 1,
+  "total_unique_mentions": 0,
   "by_keyword_count": {
     "PFAS": 0,
     "forever chemicals": 0,
@@ -30,35 +30,13 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 1,
+    "bottled water": 0,
     "water filter": 0,
     "reverse osmosis": 0,
     "water softener": 0,
     "whole house water filter": 0
   },
-  "mentions": [
-    {
-      "id": "https://www.union-bulletin.com/news/world/israelis-scarred-by-oct-7-struggle-to-see-gaza-as-anything-other-than-a-threat/article_d48e2266-34e5-5cbe-b9f6-64ed73170fe5.html",
-      "domain": "union-bulletin.com",
-      "title": "Israelis scarred by Oct . 7 struggle to see Gaza as anything other than a threat",
-      "url": "https://www.union-bulletin.com/news/world/israelis-scarred-by-oct-7-struggle-to-see-gaza-as-anything-other-than-a-threat/article_d48e2266-34e5-5cbe-b9f6-64ed73170fe5.html",
-      "published_at": "2026-10-06T08:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/union-bulletin.com/content/tncms/assets/v3/editorial/1/48/14882269-e812-52f0-99fb-a88b25319e60/6ac48f8461a62.image.jpg?crop=1763%2C926%2C0%2C124",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "union-bulletin.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "Georgia wildfire state of emergency, not water quality"
-    }
-  ],
-  "classified_at": "2026-10-11T15:42:31+00:00",
+  "mentions": [],
+  "classified_at": "2026-10-12T18:31:51+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
