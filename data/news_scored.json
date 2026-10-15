@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-14T14:30:29+00:00",
+  "refreshed_at": "2026-10-15T14:01:18+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,10 +18,10 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 0,
+  "total_unique_mentions": 2,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
+    "forever chemicals": 1,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
@@ -30,13 +30,56 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 0,
+    "bottled water": 1,
     "water filter": 0,
     "reverse osmosis": 0,
     "water softener": 0,
     "whole house water filter": 0
   },
-  "mentions": [],
-  "classified_at": "2026-10-14T14:30:29+00:00",
+  "mentions": [
+    {
+      "id": "https://www.luxurytravelmagazine.com/news-articles/what-to-eat-in-turkey-traditional-dishes-every-traveller-should-try",
+      "domain": "luxurytravelmagazine.com",
+      "title": "What to Eat in Turkey : Traditional Dishes Every Traveller Should Try",
+      "url": "https://www.luxurytravelmagazine.com/news-articles/what-to-eat-in-turkey-traditional-dishes-every-traveller-should-try",
+      "published_at": "2026-10-15T11:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "luxurytravelmagazine.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.mprnews.org/story/2026/10/15/judy-seeberger-and-tom-dippel-julia-coleman-and-dan-kessler-rematches-in-minnesota-senate",
+      "domain": "mprnews.org",
+      "title": "Judy Seeberger and Tom Dippel , Julia Coleman and Dan Kessler rematches in Minnesota Senate",
+      "url": "https://www.mprnews.org/story/2026/10/15/judy-seeberger-and-tom-dippel-julia-coleman-and-dan-kessler-rematches-in-minnesota-senate",
+      "published_at": "2026-10-15T11:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://img.apmcdn.org/bfd3c5afba9919ae1ab35e9f9898b06293b83148/widescreen/99bca7-20260512-mnstatecapitol17-2000.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mprnews.org"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "Georgia wildfire state of emergency, not water quality"
+    }
+  ],
+  "classified_at": "2026-10-15T14:01:19+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
