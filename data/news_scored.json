@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-10-30T15:55:25+00:00",
+  "refreshed_at": "2026-10-31T15:25:32+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,40 +18,40 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 9,
+  "total_unique_mentions": 10,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
+    "forever chemicals": 1,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
-    "microplastics": 0,
+    "microplastics": 5,
     "fluoride in water": 0,
     "chromium 6": 0,
-    "well water testing": 1,
-    "hard water": 3,
-    "bottled water": 0,
-    "water filter": 2,
-    "reverse osmosis": 1,
-    "water softener": 2,
+    "well water testing": 0,
+    "hard water": 2,
+    "bottled water": 2,
+    "water filter": 0,
+    "reverse osmosis": 0,
+    "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
     {
-      "id": "https://fortune.com/2026/10/25/ups-founder-james-casey-book-excerpt-marc-levinson/",
-      "domain": "fortune.com",
-      "title": "The shy revolutionary who built the world you shop in",
-      "url": "https://fortune.com/2026/10/25/ups-founder-james-casey-book-excerpt-marc-levinson/",
-      "published_at": "2026-10-25T12:45:00+00:00",
+      "id": "https://www.foxnews.com/travel/reckless-visitors-destroying-yellowstones-iconic-thermal-pools-trash",
+      "domain": "foxnews.com",
+      "title": "Iconic Yellowstone collects record 23 , 000 pieces of trash from hot springs",
+      "url": "https://www.foxnews.com/travel/reckless-visitors-destroying-yellowstones-iconic-thermal-pools-trash",
+      "published_at": "2026-10-25T18:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2258557774-e1787195533798.jpg",
+      "thumbnail": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Yellowstone-National-Park-Visitors.png",
       "matched_keywords": [
-        "water filter"
+        "microplastics"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "fortune.com"
+        "foxnews.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -59,20 +59,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.daily-tribune.com/online_features/press_releases/top-realtor-neena-pattar-unveils-latest-san-jose-listing-a-2020-built-communications-hill-condo/article_37d69980-9e47-53f8-8ef7-23ee80dc6278.html",
-      "domain": "daily-tribune.com",
-      "title": "Top Realtor Neena Pattar Unveils Latest San Jose Listing , a 2020 - Built Communications Hill Condo With Hillside Views",
-      "url": "https://www.daily-tribune.com/online_features/press_releases/top-realtor-neena-pattar-unveils-latest-san-jose-listing-a-2020-built-communications-hill-condo/article_37d69980-9e47-53f8-8ef7-23ee80dc6278.html",
-      "published_at": "2026-10-25T05:30:00+00:00",
+      "id": "https://www.bctv.org/2026/10/25/penn-state-berks-to-present-the-perils-of-plastic-oct-27/",
+      "domain": "bctv.org",
+      "title": "Penn State Berks to Present  The Perils of Plastic , Oct . 27",
+      "url": "https://www.bctv.org/2026/10/25/penn-state-berks-to-present-the-perils-of-plastic-oct-27/",
+      "published_at": "2026-10-25T10:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/daily-tribune.com/content/tncms/assets/v3/editorial/9/ff/9ff6664f-5863-56be-aaaf-e03fa9e9e229/6add8a8ff1bba.image.jpg?crop=1080%2C567%2C0%2C256",
+      "thumbnail": "https://www.bctv.org/wp-content/uploads/2026/10/sherri-a.-mason_news_2.jpg",
       "matched_keywords": [
-        "water filter"
+        "microplastics"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "daily-tribune.com"
+        "bctv.org"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -80,41 +80,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.cosmopolitan.com/uk/beauty-hair/hair/a74231357/best-grey-hair-products/",
-      "domain": "cosmopolitan.com",
-      "title": "5 best grey hair products that keep silver & ashy blonde hair brighter for longer",
-      "url": "https://www.cosmopolitan.com/uk/beauty-hair/hair/a74231357/best-grey-hair-products/",
-      "published_at": "2026-10-24T12:30:00+00:00",
+      "id": "https://nypost.com/2026/10/24/us-news/some-chewing-gum-may-be-banned-in-nj/",
+      "domain": "nypost.com",
+      "title": "Some chewing gum may be banned in NJ",
+      "url": "https://nypost.com/2026/10/24/us-news/some-chewing-gum-may-be-banned-in-nj/",
+      "published_at": "2026-10-24T18:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://hips.hearstapps.com/hmg-prod/images/e424c461-a82d-48df-b102-6b99e6237e3f.jpg?crop=1.00xw:0.334xh;0,0.0855xh",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146315631.jpg?quality=75&strip=all",
       "matched_keywords": [
-        "hard water"
+        "microplastics"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "cosmopolitan.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://econotimes.com/AI-Utility-Tools-Feature-at-WETEX-as-Data-Center-Power-Demand-Grows-1761876",
-      "domain": "econotimes.com",
-      "title": "AI Utility Tools Feature at WETEX as Data - Center Power Demand Grows",
-      "url": "https://econotimes.com/AI-Utility-Tools-Feature-at-WETEX-as-Data-Center-Power-Demand-Grows-1761876",
-      "published_at": "2026-10-24T02:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/cdf9adb26bfe27e0df919a9c604a2cdb1c1280ee66f0db8c66a2978376a295ca.webp",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "econotimes.com"
+        "nypost.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -143,25 +122,46 @@
       "classification_reason": "Adopt-a-Beach awareness; tangential"
     },
     {
-      "id": "https://www.messengernews.net/news/local-news/2026/10/meet-the-candidates-2/",
-      "domain": "messengernews.net",
-      "title": "Meet the candidates - Messenger News",
-      "url": "https://www.messengernews.net/news/local-news/2026/10/meet-the-candidates-2/",
-      "published_at": "2026-10-24T09:00:00+00:00",
+      "id": "http://www.bignewsnetwork.com/news/279396564/update-rescue-efforts-continue-after-70-magnitude-quake-in-china-xizang",
+      "domain": "bignewsnetwork.com",
+      "title": "Update : Rescue efforts continue after 7 . 0 - magnitude quake in China Xizang",
+      "url": "http://www.bignewsnetwork.com/news/279396564/update-rescue-efforts-continue-after-70-magnitude-quake-in-china-xizang",
+      "published_at": "2026-10-24T17:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://chitra-api.kreatio.com/api/v1/wps/537bec4/b19533b8-dfec-4498-a4fc-2e536a06cd1e/0/XxjwshE000032-20261024-CBMFN0A001-600x315.jpg",
       "matched_keywords": [
-        "well water testing"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "messengernews.net"
+        "bignewsnetwork.com"
       ],
       "relevance_score": 2,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "wildfire community response, not water"
+    },
+    {
+      "id": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,236195",
+      "domain": "t-g.com",
+      "title": "PFAS are turning up in the Great Lakes , putting fish and water supplies at risk \u2013 here how they get there",
+      "url": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,236195",
+      "published_at": "2026-10-24T15:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.theconversation.com/files/707506/original/file-20251209-66-kcrwb.jpg?ixlib=rb-4.1.0&rect=1223%2C0%2C2497%2C1665&q=45&auto=format&fit=crop",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "t-g.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "PR/brand launch, not news"
     },
     {
       "id": "https://www.slashgear.com/2291479/tankless-water-heater-disadvantages/",
@@ -185,20 +185,20 @@
       "classification_reason": "Georgia wildfire state of emergency, not water quality"
     },
     {
-      "id": "https://www.dailypolitical.com/2026/10/24/reviewing-mosaic-nysemos-and-ingevity-nysengvt.html",
-      "domain": "dailypolitical.com",
-      "title": "Reviewing Mosaic ( NYSE : MOS ) and Ingevity ( NYSE : NGVT ) ",
-      "url": "https://www.dailypolitical.com/2026/10/24/reviewing-mosaic-nysemos-and-ingevity-nysengvt.html",
-      "published_at": "2026-10-24T14:45:00+00:00",
+      "id": "https://mega993online.com/ixp/1135/p/pollution-particles-linked-dementia-risk/",
+      "domain": "mega993online.com",
+      "title": "Air Pollution Particles Found Deep In Human Brain Tissue",
+      "url": "https://mega993online.com/ixp/1135/p/pollution-particles-linked-dementia-risk/",
+      "published_at": "2026-10-24T23:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://townsquare.media/site/1135/files/2026/10/attachment-gettyimages-109912558.jpg?&format=natural",
       "matched_keywords": [
-        "water softener"
+        "microplastics"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "dailypolitical.com"
+        "mega993online.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -206,27 +206,48 @@
       "classification_reason": "Navy divers recovering Orion space capsule"
     },
     {
-      "id": "https://www.woodlandsonline.com/evps/evitem.cfm?evid=209357",
-      "domain": "woodlandsonline.com",
-      "title": "Open House - 19819 Iceland Ct",
-      "url": "https://www.woodlandsonline.com/evps/evitem.cfm?evid=209357",
-      "published_at": "2026-10-24T08:15:00+00:00",
+      "id": "https://www.foodconsumer.org/protect_food_and_water_during_storms_0907161129/",
+      "domain": "foodconsumer.org",
+      "title": "FDA : Protect Food and Water During Storms",
+      "url": "https://www.foodconsumer.org/protect_food_and_water_during_storms_0907161129/",
+      "published_at": "2026-10-24T17:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.woodlandsonline.com/images/ev/209357/img_1.jpg",
+      "thumbnail": "https://storage.ghost.io/c/f5/c2/f5c28c07-f2c7-440d-8161-125a09d9bc91/content/images/2026/09/og-card-1200x630.png",
       "matched_keywords": [
-        "water softener"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "woodlandsonline.com"
+        "foodconsumer.org"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "wildfire evacuation advice"
+    },
+    {
+      "id": "https://www.gillettenewsrecord.com/news/local/article_b582c048-2766-4808-a5f8-874b661cbcfa.html",
+      "domain": "gillettenewsrecord.com",
+      "title": "Local manufacturer Red River wins $150K in federal pitch competition",
+      "url": "https://www.gillettenewsrecord.com/news/local/article_b582c048-2766-4808-a5f8-874b661cbcfa.html",
+      "published_at": "2026-10-24T15:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/gillettenewsrecord.com/content/tncms/assets/v3/editorial/3/e1/3e1a0f07-6e40-4a27-9807-0449a4e4fb1c/6ada9f96db525.image.jpg?crop=1763%2C926%2C0%2C124",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "gillettenewsrecord.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "keyword token appears but article off-topic"
     }
   ],
-  "classified_at": "2026-10-30T15:55:25+00:00",
+  "classified_at": "2026-10-31T15:25:32+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
