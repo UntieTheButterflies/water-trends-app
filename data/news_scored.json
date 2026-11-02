@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-01T15:44:11+00:00",
+  "refreshed_at": "2026-11-02T19:00:10+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,7 +18,7 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 1,
+  "total_unique_mentions": 0,
   "by_keyword_count": {
     "PFAS": 0,
     "forever chemicals": 0,
@@ -29,36 +29,14 @@
     "fluoride in water": 0,
     "chromium 6": 0,
     "well water testing": 0,
-    "hard water": 1,
+    "hard water": 0,
     "bottled water": 0,
     "water filter": 0,
     "reverse osmosis": 0,
     "water softener": 0,
     "whole house water filter": 0
   },
-  "mentions": [
-    {
-      "id": "https://www.slashgear.com/2291479/tankless-water-heater-disadvantages/",
-      "domain": "slashgear.com",
-      "title": "4 Disadvantages Of Tankless Water Heaters",
-      "url": "https://www.slashgear.com/2291479/tankless-water-heater-disadvantages/",
-      "published_at": "2026-10-26T05:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.slashgear.com/img/gallery/4-disadvantages-of-tankless-water-heaters/l-intro-1792499514.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "slashgear.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "Georgia wildfire state of emergency, not water quality"
-    }
-  ],
-  "classified_at": "2026-11-01T15:44:11+00:00",
+  "mentions": [],
+  "classified_at": "2026-11-02T19:00:10+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
