@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-02T19:00:10+00:00",
+  "refreshed_at": "2026-11-03T16:57:05+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,7 +18,7 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 0,
+  "total_unique_mentions": 1,
   "by_keyword_count": {
     "PFAS": 0,
     "forever chemicals": 0,
@@ -30,11 +30,29 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 0,
+    "bottled water": 1,
     "water filter": 0,
     "reverse osmosis": 0,
     "water softener": 0,
     "whole house water filter": 0
   },
-  "mentions": []
+  "mentions": [
+    {
+      "id": "https://www.wpxi.com/news/local/boil-water-advisory-issued-beaver-county-community-after-positive-e-coli-test/CUIPVF5LY5H5NIXLTW76MBOVWY/",
+      "domain": "wpxi.com",
+      "title": "Boil water advisory issued for Beaver County community after positive E . Coli test",
+      "url": "https://www.wpxi.com/news/local/boil-water-advisory-issued-beaver-county-community-after-positive-e-coli-test/CUIPVF5LY5H5NIXLTW76MBOVWY/",
+      "published_at": "2026-11-03T02:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FIBZEFOO27NA4LNV4RQZYVN3IRA.jpeg?auth=fbaa0e7b7710314b5fa9008cce67016339f6aaca194ec40dd5ffc6ae20a13825&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wpxi.com"
+      ]
+    }
+  ]
 }
