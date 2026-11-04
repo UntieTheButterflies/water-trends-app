@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-03T16:57:05+00:00",
+  "refreshed_at": "2026-11-04T17:07:47+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,7 +18,7 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 1,
+  "total_unique_mentions": 2,
   "by_keyword_count": {
     "PFAS": 0,
     "forever chemicals": 0,
@@ -30,7 +30,7 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 1,
+    "bottled water": 2,
     "water filter": 0,
     "reverse osmosis": 0,
     "water softener": 0,
@@ -53,12 +53,33 @@
       "syndicated_domains": [
         "wpxi.com"
       ],
+      "relevance_score": 9,
+      "primary_angle": "crisis",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.wdam.com/2026/11/03/food-pantry-christian-services-running-low-many-types-food/",
+      "domain": "wdam.com",
+      "title": "Food pantry at Christian Services running low on many types of food",
+      "url": "https://www.wdam.com/2026/11/03/food-pantry-christian-services-running-low-many-types-food/",
+      "published_at": "2026-11-04T01:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wdam-prod.gtv-cdn.com/resizer/v2/F7XVWQLJCJBHVOZ3DDXFGN32EY.png?auth=737b13a2c13021089e02aaab073ac21f08e4e68e6e54cbd17578f2d71aa6dbf1&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wdam.com"
+      ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "Georgia wildfire state of emergency, not water quality"
     }
   ],
-  "classified_at": "2026-11-03T16:57:05+00:00",
+  "classified_at": "2026-11-04T17:07:47+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
