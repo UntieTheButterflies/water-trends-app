@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-05T17:24:39+00:00",
+  "refreshed_at": "2026-11-06T16:46:34+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,25 +18,280 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 0,
+  "total_unique_mentions": 12,
   "by_keyword_count": {
     "PFAS": 0,
     "forever chemicals": 0,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
-    "microplastics": 0,
+    "microplastics": 3,
     "fluoride in water": 0,
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 0,
-    "water filter": 0,
+    "bottled water": 9,
+    "water filter": 1,
     "reverse osmosis": 0,
     "water softener": 0,
     "whole house water filter": 0
   },
-  "mentions": [],
-  "classified_at": "2026-11-05T17:24:39+00:00",
+  "mentions": [
+    {
+      "id": "https://www.wpxi.com/news/local/boil-water-advisory-issued-beaver-county-community-after-positive-e-coli-test/CUIPVF5LY5H5NIXLTW76MBOVWY/",
+      "domain": "wpxi.com",
+      "title": "Boil water advisory issued for Beaver County community after positive E . Coli test",
+      "url": "https://www.wpxi.com/news/local/boil-water-advisory-issued-beaver-county-community-after-positive-e-coli-test/CUIPVF5LY5H5NIXLTW76MBOVWY/",
+      "published_at": "2026-11-03T02:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cmg-cmg-tv-10080-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FIBZEFOO27NA4LNV4RQZYVN3IRA.jpeg?auth=fbaa0e7b7710314b5fa9008cce67016339f6aaca194ec40dd5ffc6ae20a13825&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wpxi.com"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "crisis",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.herald-dispatch.com/online_features/tech_talk_and_innovation/severe-weather-el-nino-and-power-grid-fears-what-families-must-do-now-to-prepare/article_4594e4ff-15cc-5891-854c-a9901d47bd63.html",
+      "domain": "herald-dispatch.com",
+      "title": "Severe weather , El Nino and power grid fears : What families must do now to prepare",
+      "url": "https://www.herald-dispatch.com/online_features/tech_talk_and_innovation/severe-weather-el-nino-and-power-grid-fears-what-families-must-do-now-to-prepare/article_4594e4ff-15cc-5891-854c-a9901d47bd63.html",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/assets/v3/editorial/b/7b/b7b766f2-4fd0-5e85-ba80-126ff0330d01/6aed83271328f.image.jpg?crop=1280%2C672%2C0%2C23",
+      "matched_keywords": [
+        "microplastics",
+        "water filter"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "flcourier.com",
+        "herald-dispatch.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.openpr.com/news/4683630/wizard-cyber-launches-cybershield-ai-an-agentic-ai-soc-platform",
+      "domain": "openpr.com",
+      "title": "Wizard Cyber Launches CYBERSHIELD AI , An Agentic AI SOC Platform",
+      "url": "https://www.openpr.com/news/4683630/wizard-cyber-launches-cybershield-ai-an-agentic-ai-soc-platform",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cdn.open-pr.com/b/0/b06477961_g.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "openpr.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.openpr.com/news/4683621/ethan-james-caldwell-s-northlight-turns-five-in-2026",
+      "domain": "openpr.com",
+      "title": "Ethan James Caldwell Northlight Turns Five in 2026 , ",
+      "url": "https://www.openpr.com/news/4683621/ethan-james-caldwell-s-northlight-turns-five-in-2026",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cdn.open-pr.com/b/0/b06157501_g.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "openpr.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://wbkr.com/ixp/74/p/franklin-dickens-christmas/",
+      "domain": "wbkr.com",
+      "title": "A Dickens Christmas Comes to Life in Franklin , TN",
+      "url": "https://wbkr.com/ixp/74/p/franklin-dickens-christmas/",
+      "published_at": "2026-11-06T02:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://townsquare.media/site/74/files/2026/11/attachment-dickens-3.png?&q=75&format=natural",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wbkr.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.orovillemr.com/2023/10/30/savor-the-southwest-on-the-grand-circle-road-trip/",
+      "domain": "orovillemr.com",
+      "title": "2 weeks , 11 national parks , 3 , 350 miles : Savor the Southwest on the Grand Circle road trip",
+      "url": "https://www.orovillemr.com/2023/10/30/savor-the-southwest-on-the-grand-circle-road-trip/",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.orovillemr.com/wp-content/uploads/2023/10/202310230500MCT_____PHOTO____TRV-UST-PARKS-GRAND-CIRCLE-PARKS-3-LA.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "orovillemr.com"
+      ],
+      "relevance_score": 3,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "Adopt-a-Beach awareness; tangential"
+    },
+    {
+      "id": "https://www.uppermichiganssource.com/2026/11/06/nmu-student-conducts-research-microplastic-levels-soil/",
+      "domain": "uppermichiganssource.com",
+      "title": "NMU student conducts research on microplastic levels in soil",
+      "url": "https://www.uppermichiganssource.com/2026/11/06/nmu-student-conducts-research-microplastic-levels-soil/",
+      "published_at": "2026-11-06T03:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wluc-prod.gtv-cdn.com/resizer/v2/TGV4FBKEE5DDREQSEHNFNGU5TA.jpg?auth=38506d6a2410fd285a317ae45c30c5b8dcb9d17eb242722c2dc8c9a707e9e62c&smart=true",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "uppermichiganssource.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire community response, not water"
+    },
+    {
+      "id": "https://www.chattanoogan.com/2026/11/5/525738/Trained-To-Sweep-The-Slope-Of-The.aspx",
+      "domain": "chattanoogan.com",
+      "title": "Trained To Sweep The Slope Of The Mountain : The Moccasin Batteries And The Battles For Chattanooga",
+      "url": "https://www.chattanoogan.com/2026/11/5/525738/Trained-To-Sweep-The-Slope-Of-The.aspx",
+      "published_at": "2026-11-05T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "chattanoogan.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "PR/brand launch, not news"
+    },
+    {
+      "id": "https://www.wdam.com/2026/11/03/food-pantry-christian-services-running-low-many-types-food/",
+      "domain": "wdam.com",
+      "title": "Food pantry at Christian Services running low on many types of food",
+      "url": "https://www.wdam.com/2026/11/03/food-pantry-christian-services-running-low-many-types-food/",
+      "published_at": "2026-11-04T01:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wdam-prod.gtv-cdn.com/resizer/v2/F7XVWQLJCJBHVOZ3DDXFGN32EY.png?auth=737b13a2c13021089e02aaab073ac21f08e4e68e6e54cbd17578f2d71aa6dbf1&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wdam.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire relief effort"
+    },
+    {
+      "id": "https://www.news-medical.net/news/20261106/Giving-up-sugary-drinks-might-not-mean-choosing-healthier-options.aspx",
+      "domain": "news-medical.net",
+      "title": "Giving up sugary drinks might not mean choosing healthier options",
+      "url": "https://www.news-medical.net/news/20261106/Giving-up-sugary-drinks-might-not-mean-choosing-healthier-options.aspx",
+      "published_at": "2026-11-06T12:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.news-medical.net/images/news/ImageForNews_850840_17939633601454130.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "news-medical.net"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "Georgia wildfire state of emergency, not water quality"
+    },
+    {
+      "id": "https://www.openpr.com/news/4683594/maroc-pages-honoured-with-innovation-without-borders-award",
+      "domain": "openpr.com",
+      "title": "Maroc Pages honoured with Innovation Without Borders award",
+      "url": "https://www.openpr.com/news/4683594/maroc-pages-honoured-with-innovation-without-borders-award",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cdn.open-pr.com/b/0/b06322567_g.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "openpr.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "Navy divers recovering Orion space capsule"
+    },
+    {
+      "id": "https://6abc.com/post/penn-researchers-bring-microplastics-detection-kits-philadelphia-classroom/20018299/",
+      "domain": "6abc.com",
+      "title": "Penn researchers bring microplastics detection kits into Philadelphia classroom",
+      "url": "https://6abc.com/post/penn-researchers-bring-microplastics-detection-kits-philadelphia-classroom/20018299/",
+      "published_at": "2026-11-06T03:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/20018654_110526-wpvi-penn-micro-plastics-4-vid-vid.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "6abc.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire evacuation advice"
+    }
+  ],
+  "classified_at": "2026-11-06T16:46:34+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
