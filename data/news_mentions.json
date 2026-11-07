@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-06T16:46:34+00:00",
+  "refreshed_at": "2026-11-07T15:30:28+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,18 +18,18 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 12,
+  "total_unique_mentions": 18,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
+    "forever chemicals": 4,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
-    "microplastics": 3,
+    "microplastics": 4,
     "fluoride in water": 0,
     "chromium 6": 0,
     "well water testing": 0,
-    "hard water": 0,
+    "hard water": 1,
     "bottled water": 9,
     "water filter": 1,
     "reverse osmosis": 0,
@@ -37,6 +37,74 @@
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.13abc.com/2026/11/06/understanding-preventing-battling-cancer-13-action-news-big-story/",
+      "domain": "13abc.com",
+      "title": "Understanding , preventing & battling cancer | 13 Action News Big Story",
+      "url": "https://www.13abc.com/2026/11/06/understanding-preventing-battling-cancer-13-action-news-big-story/",
+      "published_at": "2026-11-07T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wtvg-prod.gtv-cdn.com/resizer/v2/SR24XLT2H5HR7OKXUNKZ4KRUUA.jpg?auth=ff70c47ef12ff1b08a1661264da4a689f4cbeed5b977e284ba93b3b6bd09bacc&smart=true",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "13abc.com"
+      ]
+    },
+    {
+      "id": "https://www.13abc.com/2026/11/06/erie-county-museum-offers-visitors-boatload-rich-maritime-history-hittin-town/",
+      "domain": "13abc.com",
+      "title": "Erie County museum offers visitors a boatload of rich maritime history",
+      "url": "https://www.13abc.com/2026/11/06/erie-county-museum-offers-visitors-boatload-rich-maritime-history-hittin-town/",
+      "published_at": "2026-11-07T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wtvg-prod.gtv-cdn.com/resizer/v2/U6ABHUH4YFC2HMMNC7T5Z2GJ5A.jpg?auth=a2a2560cc7ee8132f18b2cafb74599691d9f48fc285497add33930bcec4379d4&smart=true",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "13abc.com"
+      ]
+    },
+    {
+      "id": "https://www.bryantimes.com/news/health/women-veterans-may-face-more-than-twice-the-odds-of-early-menopause/article_0a48b042-bb75-5d70-8b9b-02e503a40893.html",
+      "domain": "bryantimes.com",
+      "title": "Women veterans may face more than twice the odds of early menopause",
+      "url": "https://www.bryantimes.com/news/health/women-veterans-may-face-more-than-twice-the-odds-of-early-menopause/article_0a48b042-bb75-5d70-8b9b-02e503a40893.html",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/bryantimes.com/content/tncms/assets/v3/editorial/b/b4/bb49d633-8293-5caa-aea3-c1985ebb81ec/6aee2e43d957c.image.jpg?crop=1080%2C567%2C0%2C76",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "bryantimes.com"
+      ]
+    },
+    {
+      "id": "http://www.nashvilleherald.com/news/279416962/abc-glass-company-takes-the-slam-out-of-frameless-shower-doors-launches-120-snowbird-special",
+      "domain": "nashvilleherald.com",
+      "title": "ABC Glass Company Takes the Slam Out of Frameless Shower Doors , Launches $120 Snowbird Special",
+      "url": "http://www.nashvilleherald.com/news/279416962/abc-glass-company-takes-the-slam-out-of-frameless-shower-doors-launches-120-snowbird-special",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "nashvilleherald.com"
+      ]
+    },
     {
       "id": "https://www.news-medical.net/news/20261106/Giving-up-sugary-drinks-might-not-mean-choosing-healthier-options.aspx",
       "domain": "news-medical.net",
@@ -142,6 +210,24 @@
       ]
     },
     {
+      "id": "https://www.fox32chicago.com/news/3m-pay-7-3b-settle-forever-chemical-claims",
+      "domain": "fox32chicago.com",
+      "title": "3M to pay $7 . 3 billion to settle  forever chemical  claims",
+      "url": "https://www.fox32chicago.com/news/3m-pay-7-3b-settle-forever-chemical-claims",
+      "published_at": "2026-11-06T05:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/11/1280/720/gettyimages-1895743817-scaled.jpg?ve=1&tl=1",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "fox32chicago.com",
+        "fox9.com"
+      ]
+    },
+    {
       "id": "https://www.uppermichiganssource.com/2026/11/06/nmu-student-conducts-research-microplastic-levels-soil/",
       "domain": "uppermichiganssource.com",
       "title": "NMU student conducts research on microplastic levels in soil",
@@ -190,6 +276,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wbkr.com"
+      ]
+    },
+    {
+      "id": "https://www.prnewswire.com/news-releases/in-hellonation-hvac-expert-sean-mcgorry-highlights-water-quality-in-new-hampshire-homes-302922348.html",
+      "domain": "prnewswire.com",
+      "title": "In HelloNation , HVAC Expert Sean McGorry Highlights Water Quality in New Hampshire Homes",
+      "url": "https://www.prnewswire.com/news-releases/in-hellonation-hvac-expert-sean-mcgorry-highlights-water-quality-in-new-hampshire-homes-302922348.html",
+      "published_at": "2026-11-05T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "prnewswire.com"
       ]
     },
     {
