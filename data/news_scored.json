@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-07T15:30:28+00:00",
+  "refreshed_at": "2026-11-08T15:35:11+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,10 +18,10 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 18,
+  "total_unique_mentions": 25,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 4,
+    "forever chemicals": 6,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
@@ -30,13 +30,34 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 1,
-    "bottled water": 9,
+    "bottled water": 13,
     "water filter": 1,
-    "reverse osmosis": 0,
-    "water softener": 0,
+    "reverse osmosis": 1,
+    "water softener": 1,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.prnewswire.com/news-releases/in-hellonation-hvac-expert-sean-mcgorry-highlights-water-quality-in-new-hampshire-homes-302922348.html",
+      "domain": "prnewswire.com",
+      "title": "In HelloNation , HVAC Expert Sean McGorry Highlights Water Quality in New Hampshire Homes",
+      "url": "https://www.prnewswire.com/news-releases/in-hellonation-hvac-expert-sean-mcgorry-highlights-water-quality-in-new-hampshire-homes-302922348.html",
+      "published_at": "2026-11-05T22:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "prnewswire.com"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "water-quality",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
     {
       "id": "https://www.wpxi.com/news/local/boil-water-advisory-issued-beaver-county-community-after-positive-e-coli-test/CUIPVF5LY5H5NIXLTW76MBOVWY/",
       "domain": "wpxi.com",
@@ -57,6 +78,71 @@
       "primary_angle": "crisis",
       "notable": true,
       "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
+      "domain": "wvtm13.com",
+      "title": "Strong earthquake shakes central Japan : At least 22 people injured",
+      "url": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
+      "published_at": "2026-11-08T10:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kubrick.htvapps.com/htv-prod/images/cc918f03-bd03-4364-8cda-7a221bb0a620.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0361xh",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "wjcl.com",
+        "wvtm13.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://kdhnews.com/news/world/strong-earthquake-shakes-central-japan-shattering-store-windows-and-injuring-at-least-22/article_4a416186-6ccb-5418-a863-ea061b19cbb5.html",
+      "domain": "kdhnews.com",
+      "title": "Strong earthquake shakes central Japan , shattering store windows and injuring at least 22",
+      "url": "https://kdhnews.com/news/world/strong-earthquake-shakes-central-japan-shattering-store-windows-and-injuring-at-least-22/article_4a416186-6ccb-5418-a863-ea061b19cbb5.html",
+      "published_at": "2026-11-08T09:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/4/12/412c1631-adc6-5991-b51c-c1449f69a492/6aefc79731c1d.image.jpg?crop=1763%2C926%2C0%2C124",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kdhnews.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.medicaldaily.com/nih-pfoa-pfos-er-negative-breast-cancer-study-480944",
+      "domain": "medicaldaily.com",
+      "title": "Two Forever Chemicals Tied to Higher Rates of Aggressive ER - Negative Breast Cancer , Though Not Breast Cancer Overall",
+      "url": "https://www.medicaldaily.com/nih-pfoa-pfos-er-negative-breast-cancer-study-480944",
+      "published_at": "2026-11-07T18:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://d.medicaldaily.com/en/full/488322/breast-cancer.jpg",
+      "matched_keywords": [
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "medicaldaily.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
     },
     {
       "id": "https://www.13abc.com/2026/11/06/erie-county-museum-offers-visitors-boatload-rich-maritime-history-hittin-town/",
@@ -80,43 +166,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "http://www.nashvilleherald.com/news/279416962/abc-glass-company-takes-the-slam-out-of-frameless-shower-doors-launches-120-snowbird-special",
-      "domain": "nashvilleherald.com",
-      "title": "ABC Glass Company Takes the Slam Out of Frameless Shower Doors , Launches $120 Snowbird Special",
-      "url": "http://www.nashvilleherald.com/news/279416962/abc-glass-company-takes-the-slam-out-of-frameless-shower-doors-launches-120-snowbird-special",
-      "published_at": "2026-11-07T00:00:00+00:00",
+      "id": "https://www.news-medical.net/news/20261106/Giving-up-sugary-drinks-might-not-mean-choosing-healthier-options.aspx",
+      "domain": "news-medical.net",
+      "title": "Giving up sugary drinks might not mean choosing healthier options",
+      "url": "https://www.news-medical.net/news/20261106/Giving-up-sugary-drinks-might-not-mean-choosing-healthier-options.aspx",
+      "published_at": "2026-11-06T12:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://www.news-medical.net/images/news/ImageForNews_850840_17939633601454130.jpg",
       "matched_keywords": [
-        "hard water"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "nashvilleherald.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.herald-dispatch.com/online_features/tech_talk_and_innovation/severe-weather-el-nino-and-power-grid-fears-what-families-must-do-now-to-prepare/article_4594e4ff-15cc-5891-854c-a9901d47bd63.html",
-      "domain": "herald-dispatch.com",
-      "title": "Severe weather , El Nino and power grid fears : What families must do now to prepare",
-      "url": "https://www.herald-dispatch.com/online_features/tech_talk_and_innovation/severe-weather-el-nino-and-power-grid-fears-what-families-must-do-now-to-prepare/article_4594e4ff-15cc-5891-854c-a9901d47bd63.html",
-      "published_at": "2026-11-06T08:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/assets/v3/editorial/b/7b/b7b766f2-4fd0-5e85-ba80-126ff0330d01/6aed83271328f.image.jpg?crop=1280%2C672%2C0%2C23",
-      "matched_keywords": [
-        "microplastics",
-        "water filter"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "flcourier.com",
-        "herald-dispatch.com"
+        "news-medical.net"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -145,6 +208,28 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
+      "id": "https://www.fox32chicago.com/news/3m-pay-7-3b-settle-forever-chemical-claims",
+      "domain": "fox32chicago.com",
+      "title": "3M to pay $7 . 3 billion to settle  forever chemical  claims",
+      "url": "https://www.fox32chicago.com/news/3m-pay-7-3b-settle-forever-chemical-claims",
+      "published_at": "2026-11-06T05:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/11/1280/720/gettyimages-1895743817-scaled.jpg?ve=1&tl=1",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "fox32chicago.com",
+        "fox9.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
       "id": "https://www.uppermichiganssource.com/2026/11/06/nmu-student-conducts-research-microplastic-levels-soil/",
       "domain": "uppermichiganssource.com",
       "title": "NMU student conducts research on microplastic levels in soil",
@@ -159,6 +244,27 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "uppermichiganssource.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "americans picky about water - lightweight consumer piece"
+    },
+    {
+      "id": "https://wbkr.com/ixp/74/p/franklin-dickens-christmas/",
+      "domain": "wbkr.com",
+      "title": "A Dickens Christmas Comes to Life in Franklin , TN",
+      "url": "https://wbkr.com/ixp/74/p/franklin-dickens-christmas/",
+      "published_at": "2026-11-06T02:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://townsquare.media/site/74/files/2026/11/attachment-dickens-3.png?&q=75&format=natural",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wbkr.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -187,6 +293,48 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
+      "id": "https://www.dailymail.com/money/markets/article-16274061/Dash-cash-accelerates-record-sums-withdrawn-rush-stock-crisis.html",
+      "domain": "dailymail.com",
+      "title": "Dash for cash accelerates as record sums are withdrawn",
+      "url": "https://www.dailymail.com/money/markets/article-16274061/Dash-cash-accelerates-record-sums-withdrawn-rush-stock-crisis.html",
+      "published_at": "2026-11-08T09:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i.dailymail.com/1s/2026/11/07/14/112364191-0-image-m-35_1794060420588.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailymail.com"
+      ],
+      "relevance_score": 3,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "Adopt-a-Beach awareness; tangential"
+    },
+    {
+      "id": "https://journalnow.com/life-entertainment/local/home-gardening/collection_ce1684bc-e734-5a2a-bba1-721b1c88ec4f.html",
+      "domain": "journalnow.com",
+      "title": "Luxury homes for sale in the Winston - Salem area Updated Nov . 7 , 2026",
+      "url": "https://journalnow.com/life-entertainment/local/home-gardening/collection_ce1684bc-e734-5a2a-bba1-721b1c88ec4f.html",
+      "published_at": "2026-11-07T17:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/c/e1/ce1684bc-e734-5a2a-bba1-721b1c88ec4f/6aeec1fe607eb.preview.jpg?crop=800%2C420%2C0%2C56",
+      "matched_keywords": [
+        "water softener"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "journalnow.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire community response, not water"
+    },
+    {
       "id": "https://www.bryantimes.com/news/health/women-veterans-may-face-more-than-twice-the-odds-of-early-menopause/article_0a48b042-bb75-5d70-8b9b-02e503a40893.html",
       "domain": "bryantimes.com",
       "title": "Women veterans may face more than twice the odds of early menopause",
@@ -202,10 +350,31 @@
       "syndicated_domains": [
         "bryantimes.com"
       ],
-      "relevance_score": 3,
-      "primary_angle": "lifestyle",
+      "relevance_score": 2,
+      "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "Adopt-a-Beach awareness; tangential"
+      "classification_reason": "PR/brand launch, not news"
+    },
+    {
+      "id": "http://www.nashvilleherald.com/news/279416962/abc-glass-company-takes-the-slam-out-of-frameless-shower-doors-launches-120-snowbird-special",
+      "domain": "nashvilleherald.com",
+      "title": "ABC Glass Company Takes the Slam Out of Frameless Shower Doors , Launches $120 Snowbird Special",
+      "url": "http://www.nashvilleherald.com/news/279416962/abc-glass-company-takes-the-slam-out-of-frameless-shower-doors-launches-120-snowbird-special",
+      "published_at": "2026-11-07T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "nashvilleherald.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire relief effort"
     },
     {
       "id": "https://www.orovillemr.com/2023/10/30/savor-the-southwest-on-the-grand-circle-road-trip/",
@@ -226,71 +395,70 @@
       "relevance_score": 2,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "wildfire community response, not water"
+      "classification_reason": "wildfire donation drive"
     },
     {
-      "id": "https://www.openpr.com/news/4683621/ethan-james-caldwell-s-northlight-turns-five-in-2026",
-      "domain": "openpr.com",
-      "title": "Ethan James Caldwell Northlight Turns Five in 2026 , ",
-      "url": "https://www.openpr.com/news/4683621/ethan-james-caldwell-s-northlight-turns-five-in-2026",
-      "published_at": "2026-11-06T08:00:00+00:00",
+      "id": "https://6abc.com/post/penn-researchers-bring-microplastics-detection-kits-philadelphia-classroom/20018299/",
+      "domain": "6abc.com",
+      "title": "Penn researchers bring microplastics detection kits into Philadelphia classroom",
+      "url": "https://6abc.com/post/penn-researchers-bring-microplastics-detection-kits-philadelphia-classroom/20018299/",
+      "published_at": "2026-11-06T03:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://cdn.open-pr.com/b/0/b06157501_g.jpg",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/20018654_110526-wpvi-penn-micro-plastics-4-vid-vid.jpg",
       "matched_keywords": [
-        "bottled water"
+        "microplastics"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "openpr.com"
+        "6abc.com"
       ],
       "relevance_score": 2,
-      "primary_angle": "noise",
+      "primary_angle": "crisis",
       "notable": false,
-      "classification_reason": "PR/brand launch, not news"
+      "classification_reason": "typhoon recovery, not drinking water focused"
     },
     {
-      "id": "https://www.fox32chicago.com/news/3m-pay-7-3b-settle-forever-chemical-claims",
-      "domain": "fox32chicago.com",
-      "title": "3M to pay $7 . 3 billion to settle  forever chemical  claims",
-      "url": "https://www.fox32chicago.com/news/3m-pay-7-3b-settle-forever-chemical-claims",
-      "published_at": "2026-11-06T05:30:00+00:00",
+      "id": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,237780",
+      "domain": "t-g.com",
+      "title": "PFAS are turning up in the Great Lakes , putting fish and water supplies at risk \u2013 here how they get there",
+      "url": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,237780",
+      "published_at": "2026-11-08T13:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/11/1280/720/gettyimages-1895743817-scaled.jpg?ve=1&tl=1",
+      "thumbnail": "https://images.theconversation.com/files/707506/original/file-20251209-66-kcrwb.jpg?ixlib=rb-4.1.0&rect=1223%2C0%2C2497%2C1665&q=45&auto=format&fit=crop",
       "matched_keywords": [
         "forever chemicals"
       ],
-      "syndicated_count": 2,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "fox32chicago.com",
-        "fox9.com"
+        "t-g.com"
       ],
-      "relevance_score": 2,
+      "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "wildfire relief effort"
+      "classification_reason": "Georgia wildfire state of emergency, not water quality"
     },
     {
-      "id": "https://wbkr.com/ixp/74/p/franklin-dickens-christmas/",
-      "domain": "wbkr.com",
-      "title": "A Dickens Christmas Comes to Life in Franklin , TN",
-      "url": "https://wbkr.com/ixp/74/p/franklin-dickens-christmas/",
-      "published_at": "2026-11-06T02:30:00+00:00",
+      "id": "https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/",
+      "domain": "nypost.com",
+      "title": "Japan earthquake injures at least 22 , shatters store windows",
+      "url": "https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/",
+      "published_at": "2026-11-08T09:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://townsquare.media/site/74/files/2026/11/attachment-dickens-3.png?&q=75&format=natural",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147975135.jpg?quality=75&strip=all",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "wbkr.com"
+        "nypost.com"
       ],
-      "relevance_score": 2,
+      "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "wildfire donation drive"
+      "classification_reason": "Navy divers recovering Orion space capsule"
     },
     {
       "id": "https://www.13abc.com/2026/11/06/understanding-preventing-battling-cancer-13-action-news-big-story/",
@@ -311,28 +479,30 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "Georgia wildfire state of emergency, not water quality"
+      "classification_reason": "wildfire evacuation advice"
     },
     {
-      "id": "https://www.news-medical.net/news/20261106/Giving-up-sugary-drinks-might-not-mean-choosing-healthier-options.aspx",
-      "domain": "news-medical.net",
-      "title": "Giving up sugary drinks might not mean choosing healthier options",
-      "url": "https://www.news-medical.net/news/20261106/Giving-up-sugary-drinks-might-not-mean-choosing-healthier-options.aspx",
-      "published_at": "2026-11-06T12:00:00+00:00",
+      "id": "https://www.herald-dispatch.com/online_features/tech_talk_and_innovation/severe-weather-el-nino-and-power-grid-fears-what-families-must-do-now-to-prepare/article_4594e4ff-15cc-5891-854c-a9901d47bd63.html",
+      "domain": "herald-dispatch.com",
+      "title": "Severe weather , El Nino and power grid fears : What families must do now to prepare",
+      "url": "https://www.herald-dispatch.com/online_features/tech_talk_and_innovation/severe-weather-el-nino-and-power-grid-fears-what-families-must-do-now-to-prepare/article_4594e4ff-15cc-5891-854c-a9901d47bd63.html",
+      "published_at": "2026-11-06T08:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.news-medical.net/images/news/ImageForNews_850840_17939633601454130.jpg",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/herald-dispatch.com/content/tncms/assets/v3/editorial/b/7b/b7b766f2-4fd0-5e85-ba80-126ff0330d01/6aed83271328f.image.jpg?crop=1280%2C672%2C0%2C23",
       "matched_keywords": [
-        "bottled water"
+        "microplastics",
+        "water filter"
       ],
-      "syndicated_count": 1,
+      "syndicated_count": 2,
       "syndicated_domains": [
-        "news-medical.net"
+        "flcourier.com",
+        "herald-dispatch.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "Navy divers recovering Orion space capsule"
+      "classification_reason": "Reckitt earnings report"
     },
     {
       "id": "https://www.openpr.com/news/4683630/wizard-cyber-launches-cybershield-ai-an-agentic-ai-soc-platform",
@@ -353,49 +523,28 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "wildfire evacuation advice"
-    },
-    {
-      "id": "https://6abc.com/post/penn-researchers-bring-microplastics-detection-kits-philadelphia-classroom/20018299/",
-      "domain": "6abc.com",
-      "title": "Penn researchers bring microplastics detection kits into Philadelphia classroom",
-      "url": "https://6abc.com/post/penn-researchers-bring-microplastics-detection-kits-philadelphia-classroom/20018299/",
-      "published_at": "2026-11-06T03:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cdn.abcotvs.com/dip/images/20018654_110526-wpvi-penn-micro-plastics-4-vid-vid.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "6abc.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "Reckitt earnings report"
-    },
-    {
-      "id": "https://www.prnewswire.com/news-releases/in-hellonation-hvac-expert-sean-mcgorry-highlights-water-quality-in-new-hampshire-homes-302922348.html",
-      "domain": "prnewswire.com",
-      "title": "In HelloNation , HVAC Expert Sean McGorry Highlights Water Quality in New Hampshire Homes",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-hvac-expert-sean-mcgorry-highlights-water-quality-in-new-hampshire-homes-302922348.html",
-      "published_at": "2026-11-05T22:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "prnewswire.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
       "classification_reason": "football transfer commentary"
+    },
+    {
+      "id": "https://www.openpr.com/news/4683621/ethan-james-caldwell-s-northlight-turns-five-in-2026",
+      "domain": "openpr.com",
+      "title": "Ethan James Caldwell Northlight Turns Five in 2026 , ",
+      "url": "https://www.openpr.com/news/4683621/ethan-james-caldwell-s-northlight-turns-five-in-2026",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cdn.open-pr.com/b/0/b06157501_g.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "openpr.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "hollywood celebrity roundup"
     },
     {
       "id": "https://www.wdam.com/2026/11/03/food-pantry-christian-services-running-low-many-types-food/",
@@ -416,9 +565,9 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "hollywood celebrity roundup"
+      "classification_reason": "maple syrup farm expansion"
     }
   ],
-  "classified_at": "2026-11-07T15:30:28+00:00",
+  "classified_at": "2026-11-08T15:35:11+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }

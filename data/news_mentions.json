@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-07T15:30:28+00:00",
+  "refreshed_at": "2026-11-08T15:35:11+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,10 +18,10 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 18,
+  "total_unique_mentions": 25,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 4,
+    "forever chemicals": 6,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
@@ -30,13 +30,134 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 1,
-    "bottled water": 9,
+    "bottled water": 13,
     "water filter": 1,
-    "reverse osmosis": 0,
-    "water softener": 0,
+    "reverse osmosis": 1,
+    "water softener": 1,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,237780",
+      "domain": "t-g.com",
+      "title": "PFAS are turning up in the Great Lakes , putting fish and water supplies at risk \u2013 here how they get there",
+      "url": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,237780",
+      "published_at": "2026-11-08T13:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.theconversation.com/files/707506/original/file-20251209-66-kcrwb.jpg?ixlib=rb-4.1.0&rect=1223%2C0%2C2497%2C1665&q=45&auto=format&fit=crop",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "t-g.com"
+      ]
+    },
+    {
+      "id": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
+      "domain": "wvtm13.com",
+      "title": "Strong earthquake shakes central Japan : At least 22 people injured",
+      "url": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
+      "published_at": "2026-11-08T10:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kubrick.htvapps.com/htv-prod/images/cc918f03-bd03-4364-8cda-7a221bb0a620.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0361xh",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "wjcl.com",
+        "wvtm13.com"
+      ]
+    },
+    {
+      "id": "https://www.dailymail.com/money/markets/article-16274061/Dash-cash-accelerates-record-sums-withdrawn-rush-stock-crisis.html",
+      "domain": "dailymail.com",
+      "title": "Dash for cash accelerates as record sums are withdrawn",
+      "url": "https://www.dailymail.com/money/markets/article-16274061/Dash-cash-accelerates-record-sums-withdrawn-rush-stock-crisis.html",
+      "published_at": "2026-11-08T09:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i.dailymail.com/1s/2026/11/07/14/112364191-0-image-m-35_1794060420588.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailymail.com"
+      ]
+    },
+    {
+      "id": "https://kdhnews.com/news/world/strong-earthquake-shakes-central-japan-shattering-store-windows-and-injuring-at-least-22/article_4a416186-6ccb-5418-a863-ea061b19cbb5.html",
+      "domain": "kdhnews.com",
+      "title": "Strong earthquake shakes central Japan , shattering store windows and injuring at least 22",
+      "url": "https://kdhnews.com/news/world/strong-earthquake-shakes-central-japan-shattering-store-windows-and-injuring-at-least-22/article_4a416186-6ccb-5418-a863-ea061b19cbb5.html",
+      "published_at": "2026-11-08T09:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/4/12/412c1631-adc6-5991-b51c-c1449f69a492/6aefc79731c1d.image.jpg?crop=1763%2C926%2C0%2C124",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kdhnews.com"
+      ]
+    },
+    {
+      "id": "https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/",
+      "domain": "nypost.com",
+      "title": "Japan earthquake injures at least 22 , shatters store windows",
+      "url": "https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/",
+      "published_at": "2026-11-08T09:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147975135.jpg?quality=75&strip=all",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "nypost.com"
+      ]
+    },
+    {
+      "id": "https://www.medicaldaily.com/nih-pfoa-pfos-er-negative-breast-cancer-study-480944",
+      "domain": "medicaldaily.com",
+      "title": "Two Forever Chemicals Tied to Higher Rates of Aggressive ER - Negative Breast Cancer , Though Not Breast Cancer Overall",
+      "url": "https://www.medicaldaily.com/nih-pfoa-pfos-er-negative-breast-cancer-study-480944",
+      "published_at": "2026-11-07T18:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://d.medicaldaily.com/en/full/488322/breast-cancer.jpg",
+      "matched_keywords": [
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "medicaldaily.com"
+      ]
+    },
+    {
+      "id": "https://journalnow.com/life-entertainment/local/home-gardening/collection_ce1684bc-e734-5a2a-bba1-721b1c88ec4f.html",
+      "domain": "journalnow.com",
+      "title": "Luxury homes for sale in the Winston - Salem area Updated Nov . 7 , 2026",
+      "url": "https://journalnow.com/life-entertainment/local/home-gardening/collection_ce1684bc-e734-5a2a-bba1-721b1c88ec4f.html",
+      "published_at": "2026-11-07T17:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/c/e1/ce1684bc-e734-5a2a-bba1-721b1c88ec4f/6aeec1fe607eb.preview.jpg?crop=800%2C420%2C0%2C56",
+      "matched_keywords": [
+        "water softener"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "journalnow.com"
+      ]
+    },
     {
       "id": "https://www.13abc.com/2026/11/06/understanding-preventing-battling-cancer-13-action-news-big-story/",
       "domain": "13abc.com",
