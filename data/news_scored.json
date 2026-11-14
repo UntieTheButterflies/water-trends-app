@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-13T16:52:56+00:00",
+  "refreshed_at": "2026-11-14T15:38:31+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,25 +18,67 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 31,
+  "total_unique_mentions": 39,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
+    "forever chemicals": 11,
     "lead in water": 1,
     "arsenic in water": 0,
     "nitrate in water": 0,
-    "microplastics": 7,
+    "microplastics": 6,
     "fluoride in water": 0,
     "chromium 6": 0,
     "well water testing": 0,
-    "hard water": 3,
-    "bottled water": 14,
+    "hard water": 2,
+    "bottled water": 16,
     "water filter": 0,
     "reverse osmosis": 5,
     "water softener": 1,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.wvxu.org/politics/2026-11-09/greater-cincinnati-waterworks-proposes-rate-increase-for-drinking-water-utility",
+      "domain": "wvxu.org",
+      "title": "Cincinnati proposes 9 . 5 % rate increase for drinking water utility",
+      "url": "https://www.wvxu.org/politics/2026-11-09/greater-cincinnati-waterworks-proposes-rate-increase-for-drinking-water-utility",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://npr-brightspot.s3.amazonaws.com/f8/59/3f9667904f3fa7cfd5a730197cd6/water-1154082-1280.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wvxu.org"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "water-quality",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.turnto23.com/news/national/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us",
+      "domain": "turnto23.com",
+      "title": "Bigger and more - frequent wildfires threaten water supplies across the US",
+      "url": "https://www.turnto23.com/news/national/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us",
+      "published_at": "2026-11-13T18:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://ewscripps.brightspotcdn.com/2a/a8/2210e55e44b6ac36223edd42b57f/wildfire.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "turnto23.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
     {
       "id": "https://www.azocleantech.com/article.aspx?ArticleID=2218",
       "domain": "azocleantech.com",
@@ -59,62 +101,85 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.tickerreport.com/banking-finance/13659994/h2o-innovation-otcmktsheoff-shares-down-0-2-time-to-sell.html",
-      "domain": "tickerreport.com",
-      "title": "H2O Innovation ( OTCMKTS : HEOFF ) Shares Down 0 . 2 % \u2013 Time to Sell ? ",
-      "url": "https://www.tickerreport.com/banking-finance/13659994/h2o-innovation-otcmktsheoff-shares-down-0-2-time-to-sell.html",
-      "published_at": "2026-11-12T01:30:00+00:00",
+      "id": "https://www.newscientist.com/article/2598571-some-pfas-chemicals-are-declining-in-english-rivers-but-others-are-appearing/",
+      "domain": "newscientist.com",
+      "title": "Some PFAS chemicals are declining in English rivers but others are appearing",
+      "url": "https://www.newscientist.com/article/2598571-some-pfas-chemicals-are-declining-in-english-rivers-but-others-are-appearing/",
+      "published_at": "2026-11-12T03:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320306700.jpg",
       "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "newscientist.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.vaildaily.com/news/film-screenings-hosted-by-eagle-river-coalition-brings-community-together-over-water-conservation/",
+      "domain": "vaildaily.com",
+      "title": "Film screenings hosted by Eagle River Coalition brings community together over water conservation",
+      "url": "https://www.vaildaily.com/news/film-screenings-hosted-by-eagle-river-coalition-brings-community-together-over-water-conservation/",
+      "published_at": "2026-11-12T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/7/2026/11/11152600/1382c142-4153-4372-8f39-4cecfd550674-1024x441.png",
+      "matched_keywords": [
+        "forever chemicals",
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "vaildaily.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://hotair.com/headlines/2026/11/10/some-parts-of-the-ocean-are-turning-a-weird-shade-of-blue-green-n3820842",
+      "domain": "hotair.com",
+      "title": "Some Parts of the Ocean Are Turning a Weird Shade of Blue - Green",
+      "url": "https://hotair.com/headlines/2026/11/10/some-parts-of-the-ocean-are-turning-a-weird-shade-of-blue-green-n3820842",
+      "published_at": "2026-11-11T03:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cdn.townhall.com/web/thm/hotair-opengraph-default.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "hotair.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
+      "domain": "ojaivalleynews.com",
+      "title": "Planning Commission approves permits for $420 million VenturaWaterPure purification facility",
+      "url": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
+      "published_at": "2026-11-11T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/8/cc/8ccb6a48-f15a-4921-9bd3-7eed99465a50/6af25f6ba1d15.image.png?crop=1335%2C701%2C309%2C0",
+      "matched_keywords": [
+        "forever chemicals",
         "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "tickerreport.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.zerohedge.com/energy/blackouts-reveal-how-fragile-society-really",
-      "domain": "zerohedge.com",
-      "title": "Blackouts Reveal How Fragile Society Really Is",
-      "url": "https://www.zerohedge.com/energy/blackouts-reveal-how-fragile-society-really",
-      "published_at": "2026-11-11T05:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/httpssubstack-post-media.s3.amaz%20%2839%29.jpg?itok=d0xQd6Qy",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "zerohedge.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
-      "domain": "pagosasun.com",
-      "title": "Governor provides update on flooding in Southwestern Colorado , shares resources to support impacted Coloradans",
-      "url": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cdn2.creativecirclemedia.com/pagosa/original/20231127-133643-pagosa-og.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "pagosasun.com"
+        "ojaivalleynews.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -143,23 +208,91 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.nbcphiladelphia.com/news/politics/midterm-results-feud-future-maha-movement/4494313/",
-      "domain": "nbcphiladelphia.com",
-      "title": "What do the midterm results mean for the MAHA movement ? \u2013 NBC10 Philadelphia",
-      "url": "https://www.nbcphiladelphia.com/news/politics/midterm-results-feud-future-maha-movement/4494313/",
+      "id": "https://wallowa.com/2026/11/09/terminal-gravity-seeks-new-ownership/",
+      "domain": "wallowa.com",
+      "title": "Terminal Gravity seeks new ownership | Wallowa County Chieftain",
+      "url": "https://wallowa.com/2026/11/09/terminal-gravity-seeks-new-ownership/",
+      "published_at": "2026-11-10T02:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://wallowa.com/wp-content/uploads/sites/8/2026/11/TG.jpg",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wallowa.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "americans picky about water - lightweight consumer piece"
+    },
+    {
+      "id": "https://www.abqjournal.com/opinion/opinion-providing-new-water-for-nm-future-economic-development/3156071",
+      "domain": "abqjournal.com",
+      "title": "Opinion : Desalination can provide New Mexico water for economic growth",
+      "url": "https://www.abqjournal.com/opinion/opinion-providing-new-water-for-nm-future-economic-development/3156071",
+      "published_at": "2026-11-10T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://image.abqjournal.com/3156110.jpg?imageId=3156110&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "abqjournal.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.pressdemocrat.com/2026/11/09/trump-maha-feud/",
+      "domain": "pressdemocrat.com",
+      "title": "Feud between former Trump officials exposes divisions over MAHA",
+      "url": "https://www.pressdemocrat.com/2026/11/09/trump-maha-feud/",
       "published_at": "2026-11-10T00:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://media.nbcphiladelphia.com/2026/11/CALLEY-MEANS.jpg?quality=85&strip=all",
+      "thumbnail": "https://www.pressdemocrat.com/wp-content/uploads/2026/11/Trump_MAHA_Means_48587-1.jpg",
       "matched_keywords": [
         "microplastics"
       ],
+      "syndicated_count": 6,
+      "syndicated_domains": [
+        "capitalgazette.com",
+        "dailypress.com",
+        "greeleytribune.com",
+        "koaa.com",
+        "pressdemocrat.com",
+        "yahoo.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "http://www.bostonstar.com/news/279422712/ur-energy-reports-third-quarter-2026-results",
+      "domain": "bostonstar.com",
+      "title": "Ur - Energy Reports Third Quarter 2026 Results",
+      "url": "http://www.bostonstar.com/news/279422712/ur-energy-reports-third-quarter-2026-results",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
       "syndicated_count": 4,
       "syndicated_domains": [
-        "nbcchicago.com",
-        "nbclosangeles.com",
-        "nbcnewyork.com",
-        "nbcphiladelphia.com"
+        "bostonstar.com",
+        "memphissun.com",
+        "pittsburghstar.com",
+        "tennesseedaily.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -204,9 +337,9 @@
         "wdam.com"
       ],
       "relevance_score": 4,
-      "primary_angle": "lifestyle",
+      "primary_angle": "tangential",
       "notable": false,
-      "classification_reason": "americans picky about water - lightweight consumer piece"
+      "classification_reason": "keyword appears, relevance unclear"
     },
     {
       "id": "https://whky.com/hickory-officials-advise-residents-to-identify-water-service-line-material/",
@@ -223,6 +356,27 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "whky.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.abqjournal.com/news/st-felix-pantry-delivers-flood-relief-aid/3157520",
+      "domain": "abqjournal.com",
+      "title": "St . Felix Pantry delivers aid to flood - damaged Sandoval County communities",
+      "url": "https://www.abqjournal.com/news/st-felix-pantry-delivers-flood-relief-aid/3157520",
+      "published_at": "2026-11-09T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://image.abqjournal.com/3156589.jpg?imageId=3156589&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "abqjournal.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -251,20 +405,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.latimes.com/california/newsletter/2026-11-08/history-art-culture-and-community-flourish-in-little-tokyo",
-      "domain": "latimes.com",
-      "title": "History , art , culture and community flourish in L . A . Little Tokyo",
-      "url": "https://www.latimes.com/california/newsletter/2026-11-08/history-art-culture-and-community-flourish-in-little-tokyo",
-      "published_at": "2026-11-08T17:00:00+00:00",
+      "id": "https://www.news8000.com/news/national-world/week-in-review-test-your-knowledge-of-notable-news/article_d5a7e4b0-2dee-5eba-bbe4-ef32202e9afb.html",
+      "domain": "news8000.com",
+      "title": "Week in review : Test your knowledge of notable news",
+      "url": "https://www.news8000.com/news/national-world/week-in-review-test-your-knowledge-of-notable-news/article_d5a7e4b0-2dee-5eba-bbe4-ef32202e9afb.html",
+      "published_at": "2026-11-08T18:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://california-times-brightspot.s3.amazonaws.com/fd/67/ac1700be41b8b0ad4846eea5c0fe/little-tokyo-guide-thumb.png",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/news8000.com/content/tncms/assets/v3/editorial/d/5a/d5a7e4b0-2dee-5eba-bbe4-ef32202e9afb/6aed03b6f4097.preview.jpg?crop=1763%2C926%2C0%2C126",
       "matched_keywords": [
-        "microplastics"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "latimes.com"
+        "news8000.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -346,6 +500,7 @@
       "source_country": "United States",
       "thumbnail": "https://d.medicaldaily.com/en/full/488322/breast-cancer.jpg",
       "matched_keywords": [
+        "forever chemicals",
         "reverse osmosis"
       ],
       "syndicated_count": 1,
@@ -356,174 +511,6 @@
       "primary_angle": "tangential",
       "notable": false,
       "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.13abc.com/2026/11/06/erie-county-museum-offers-visitors-boatload-rich-maritime-history-hittin-town/",
-      "domain": "13abc.com",
-      "title": "Erie County museum offers visitors a boatload of rich maritime history",
-      "url": "https://www.13abc.com/2026/11/06/erie-county-museum-offers-visitors-boatload-rich-maritime-history-hittin-town/",
-      "published_at": "2026-11-07T01:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://gray-wtvg-prod.gtv-cdn.com/resizer/v2/U6ABHUH4YFC2HMMNC7T5Z2GJ5A.jpg?auth=a2a2560cc7ee8132f18b2cafb74599691d9f48fc285497add33930bcec4379d4&smart=true",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "13abc.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "http://www.nashvilleherald.com/news/279416962/abc-glass-company-takes-the-slam-out-of-frameless-shower-doors-launches-120-snowbird-special",
-      "domain": "nashvilleherald.com",
-      "title": "ABC Glass Company Takes the Slam Out of Frameless Shower Doors , Launches $120 Snowbird Special",
-      "url": "http://www.nashvilleherald.com/news/279416962/abc-glass-company-takes-the-slam-out-of-frameless-shower-doors-launches-120-snowbird-special",
-      "published_at": "2026-11-07T00:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "nashvilleherald.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.dailypolitical.com/2026/11/11/coca-cola-femsa-otcmktscocsf-shares-climb-1-4-heres-what-happened.html",
-      "domain": "dailypolitical.com",
-      "title": "Coca - Cola FEMSA ( OTCMKTS : COCSF ) Shares Climb 1 . 4 % \u2013 Here What Happened",
-      "url": "https://www.dailypolitical.com/2026/11/11/coca-cola-femsa-otcmktscocsf-shares-climb-1-4-heres-what-happened.html",
-      "published_at": "2026-11-12T06:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dailypolitical.com"
-      ],
-      "relevance_score": 3,
-      "primary_angle": "lifestyle",
-      "notable": false,
-      "classification_reason": "Adopt-a-Beach awareness; tangential"
-    },
-    {
-      "id": "https://hotair.com/headlines/2026/11/10/some-parts-of-the-ocean-are-turning-a-weird-shade-of-blue-green-n3820842",
-      "domain": "hotair.com",
-      "title": "Some Parts of the Ocean Are Turning a Weird Shade of Blue - Green",
-      "url": "https://hotair.com/headlines/2026/11/10/some-parts-of-the-ocean-are-turning-a-weird-shade-of-blue-green-n3820842",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cdn.townhall.com/web/thm/hotair-opengraph-default.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "hotair.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "wildfire community response, not water"
-    },
-    {
-      "id": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
-      "domain": "wagmtv.com",
-      "title": "Fort Fairfield Water Exceeds Standard Copper Level",
-      "url": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://gray-wagm-prod.gtv-cdn.com/resizer/v2/TVZMNS2QAFCRPEUHHNZPSIQBKA.png?auth=ec24d8c21e8efb01c9eb6127fa68012a058322cc3bac40617321301910f19523&smart=true",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wagmtv.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "PR/brand launch, not news"
-    },
-    {
-      "id": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
-      "domain": "ojaivalleynews.com",
-      "title": "Planning Commission approves permits for $420 million VenturaWaterPure purification facility",
-      "url": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/8/cc/8ccb6a48-f15a-4921-9bd3-7eed99465a50/6af25f6ba1d15.image.png?crop=1335%2C701%2C309%2C0",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ojaivalleynews.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "wildfire relief effort"
-    },
-    {
-      "id": "https://www.abqjournal.com/opinion/opinion-providing-new-water-for-nm-future-economic-development/3156071",
-      "domain": "abqjournal.com",
-      "title": "Opinion : Desalination can provide New Mexico water for economic growth",
-      "url": "https://www.abqjournal.com/opinion/opinion-providing-new-water-for-nm-future-economic-development/3156071",
-      "published_at": "2026-11-10T00:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://image.abqjournal.com/3156110.jpg?imageId=3156110&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "abqjournal.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "wildfire donation drive"
-    },
-    {
-      "id": "https://www.abqjournal.com/news/st-felix-pantry-delivers-flood-relief-aid/3157520",
-      "domain": "abqjournal.com",
-      "title": "St . Felix Pantry delivers aid to flood - damaged Sandoval County communities",
-      "url": "https://www.abqjournal.com/news/st-felix-pantry-delivers-flood-relief-aid/3157520",
-      "published_at": "2026-11-09T01:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://image.abqjournal.com/3156589.jpg?imageId=3156589&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "abqjournal.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "crisis",
-      "notable": false,
-      "classification_reason": "typhoon recovery, not drinking water focused"
     },
     {
       "id": "https://www.dailypress.net/news/local-news/2026/11/state-urges-residents-to-prepare-homes-and-vehicles-for-winter-weather/",
@@ -541,31 +528,222 @@
       "syndicated_domains": [
         "dailypress.net"
       ],
+      "relevance_score": 3,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "Adopt-a-Beach awareness; tangential"
+    },
+    {
+      "id": "https://www.tickerreport.com/banking-finance/13659994/h2o-innovation-otcmktsheoff-shares-down-0-2-time-to-sell.html",
+      "domain": "tickerreport.com",
+      "title": "H2O Innovation ( OTCMKTS : HEOFF ) Shares Down 0 . 2 % \u2013 Time to Sell ? ",
+      "url": "https://www.tickerreport.com/banking-finance/13659994/h2o-innovation-otcmktsheoff-shares-down-0-2-time-to-sell.html",
+      "published_at": "2026-11-12T01:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "tickerreport.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire community response, not water"
+    },
+    {
+      "id": "https://www.zerohedge.com/energy/blackouts-reveal-how-fragile-society-really",
+      "domain": "zerohedge.com",
+      "title": "Blackouts Reveal How Fragile Society Really Is",
+      "url": "https://www.zerohedge.com/energy/blackouts-reveal-how-fragile-society-really",
+      "published_at": "2026-11-11T05:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/httpssubstack-post-media.s3.amaz%20%2839%29.jpg?itok=d0xQd6Qy",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "zerohedge.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "PR/brand launch, not news"
+    },
+    {
+      "id": "https://www.news-medical.net/news/20261110/NIH-grant-supports-research-into-PFAS-effects-on-mosquitoes.aspx",
+      "domain": "news-medical.net",
+      "title": "NIH grant supports research into PFAS effects on mosquitoes",
+      "url": "https://www.news-medical.net/news/20261110/NIH-grant-supports-research-into-PFAS-effects-on-mosquitoes.aspx",
+      "published_at": "2026-11-11T03:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.news-medical.net/image-handler/picture/2014/7/Microbiology-620x480.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "news-medical.net"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire relief effort"
+    },
+    {
+      "id": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
+      "domain": "pagosasun.com",
+      "title": "Governor provides update on flooding in Southwestern Colorado , shares resources to support impacted Coloradans",
+      "url": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
+      "published_at": "2026-11-11T03:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cdn2.creativecirclemedia.com/pagosa/original/20231127-133643-pagosa-og.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "pagosasun.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire donation drive"
+    },
+    {
+      "id": "https://local12.com/news/local/greater-cincinnati-water-works-seeks-95-annual-rate-hikes-taxes-tax-money-cost-prices-customers-consumers-federal-regulations-lead-pipes-chemicals-inflation-electricity-treatment-repairs-interest-ohio-utility",
+      "domain": "local12.com",
+      "title": "Greater Cincinnati Water Works seeks 9 . 5 % annual rate hikes",
+      "url": "https://local12.com/news/local/greater-cincinnati-water-works-seeks-95-annual-rate-hikes-taxes-tax-money-cost-prices-customers-consumers-federal-regulations-lead-pipes-chemicals-inflation-electricity-treatment-repairs-interest-ohio-utility",
+      "published_at": "2026-11-10T01:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://local12.com/resources/media/ed118882-a535-48db-8705-a779f07e133b-jumbo16x9_6f25fb85857849878bd99d22ffe867c5gmcWATERWORKSSETTLEMENT.transfer_frame_433.png",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "local12.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "crisis",
+      "notable": false,
+      "classification_reason": "typhoon recovery, not drinking water focused"
+    },
+    {
+      "id": "https://www.latimes.com/california/newsletter/2026-11-08/history-art-culture-and-community-flourish-in-little-tokyo",
+      "domain": "latimes.com",
+      "title": "History , art , culture and community flourish in L . A . Little Tokyo",
+      "url": "https://www.latimes.com/california/newsletter/2026-11-08/history-art-culture-and-community-flourish-in-little-tokyo",
+      "published_at": "2026-11-08T17:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://california-times-brightspot.s3.amazonaws.com/fd/67/ac1700be41b8b0ad4846eea5c0fe/little-tokyo-guide-thumb.png",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "latimes.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "home renovation trends general"
+    },
+    {
+      "id": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
+      "domain": "wvtm13.com",
+      "title": "Strong earthquake shakes central Japan : At least 22 people injured",
+      "url": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
+      "published_at": "2026-11-08T10:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kubrick.htvapps.com/htv-prod/images/cc918f03-bd03-4364-8cda-7a221bb0a620.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0361xh",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "wjcl.com",
+        "wvtm13.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "zoo conservation partnership"
+    },
+    {
+      "id": "https://www.orlandosentinel.com/2026/11/13/wildfires-contaminate-drinking-water-supply/",
+      "domain": "orlandosentinel.com",
+      "title": "US water supplies are threatened by bigger , more frequent wildfires",
+      "url": "https://www.orlandosentinel.com/2026/11/13/wildfires-contaminate-drinking-water-supply/",
+      "published_at": "2026-11-13T18:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.orlandosentinel.com/wp-content/uploads/2026/11/Wildfires_Drinking_Water_51416-1.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "orlandosentinel.com",
+        "record-bee.com"
+      ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "Georgia wildfire state of emergency, not water quality"
     },
     {
-      "id": "https://www.vaildaily.com/news/film-screenings-hosted-by-eagle-river-coalition-brings-community-together-over-water-conservation/",
-      "domain": "vaildaily.com",
-      "title": "Film screenings hosted by Eagle River Coalition brings community together over water conservation",
-      "url": "https://www.vaildaily.com/news/film-screenings-hosted-by-eagle-river-coalition-brings-community-together-over-water-conservation/",
-      "published_at": "2026-11-12T00:30:00+00:00",
+      "id": "https://www.dailypolitical.com/2026/11/11/coca-cola-femsa-otcmktscocsf-shares-climb-1-4-heres-what-happened.html",
+      "domain": "dailypolitical.com",
+      "title": "Coca - Cola FEMSA ( OTCMKTS : COCSF ) Shares Climb 1 . 4 % \u2013 Here What Happened",
+      "url": "https://www.dailypolitical.com/2026/11/11/coca-cola-femsa-otcmktscocsf-shares-climb-1-4-heres-what-happened.html",
+      "published_at": "2026-11-12T06:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/7/2026/11/11152600/1382c142-4153-4372-8f39-4cecfd550674-1024x441.png",
+      "thumbnail": "",
       "matched_keywords": [
-        "microplastics"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "vaildaily.com"
+        "dailypolitical.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "Navy divers recovering Orion space capsule"
+    },
+    {
+      "id": "https://freerepublic.com/tag/*/index?more=4402688",
+      "domain": "freerepublic.com",
+      "title": "Latest Articles",
+      "url": "https://freerepublic.com/tag/*/index?more=4402688",
+      "published_at": "2026-11-12T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "freerepublic.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire evacuation advice"
     },
     {
       "id": "https://www.eurasiareview.com/11112026-north-korean-affordability-crisis-monthly-salary-cant-buy-even-a-bag-of-rice/",
@@ -586,49 +764,23 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "wildfire evacuation advice"
-    },
-    {
-      "id": "https://wallowa.com/2026/11/09/terminal-gravity-seeks-new-ownership/",
-      "domain": "wallowa.com",
-      "title": "Terminal Gravity seeks new ownership | Wallowa County Chieftain",
-      "url": "https://wallowa.com/2026/11/09/terminal-gravity-seeks-new-ownership/",
-      "published_at": "2026-11-10T02:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wallowa.com/wp-content/uploads/sites/8/2026/11/TG.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wallowa.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
       "classification_reason": "Reckitt earnings report"
     },
     {
-      "id": "https://www.pressdemocrat.com/2026/11/09/trump-maha-feud/",
-      "domain": "pressdemocrat.com",
-      "title": "Feud between former Trump officials exposes divisions over MAHA",
-      "url": "https://www.pressdemocrat.com/2026/11/09/trump-maha-feud/",
-      "published_at": "2026-11-10T00:00:00+00:00",
+      "id": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
+      "domain": "wagmtv.com",
+      "title": "Fort Fairfield Water Exceeds Standard Copper Level",
+      "url": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
+      "published_at": "2026-11-11T03:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.pressdemocrat.com/wp-content/uploads/2026/11/Trump_MAHA_Means_48587-1.jpg",
+      "thumbnail": "https://gray-wagm-prod.gtv-cdn.com/resizer/v2/TVZMNS2QAFCRPEUHHNZPSIQBKA.png?auth=ec24d8c21e8efb01c9eb6127fa68012a058322cc3bac40617321301910f19523&smart=true",
       "matched_keywords": [
-        "microplastics"
+        "bottled water"
       ],
-      "syndicated_count": 6,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "capitalgazette.com",
-        "dailypress.com",
-        "greeleytribune.com",
-        "koaa.com",
-        "pressdemocrat.com",
-        "yahoo.com"
+        "wagmtv.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -636,23 +788,20 @@
       "classification_reason": "football transfer commentary"
     },
     {
-      "id": "http://www.bostonstar.com/news/279422712/ur-energy-reports-third-quarter-2026-results",
-      "domain": "bostonstar.com",
-      "title": "Ur - Energy Reports Third Quarter 2026 Results",
-      "url": "http://www.bostonstar.com/news/279422712/ur-energy-reports-third-quarter-2026-results",
-      "published_at": "2026-11-10T00:00:00+00:00",
+      "id": "https://www.wcpo.com/news/local-news/cincinnati-city-council-considers-9-5-water-rate-increase-what-it-means-for-your-wallet",
+      "domain": "wcpo.com",
+      "title": "Cincinnati City Council considers 9 . 5 % water rate increase",
+      "url": "https://www.wcpo.com/news/local-news/cincinnati-city-council-considers-9-5-water-rate-increase-what-it-means-for-your-wallet",
+      "published_at": "2026-11-10T03:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/54/ad/67c680094e3f9a2a1950ebcc90f7/council.png",
       "matched_keywords": [
-        "reverse osmosis"
+        "forever chemicals"
       ],
-      "syndicated_count": 4,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "bostonstar.com",
-        "memphissun.com",
-        "pittsburghstar.com",
-        "tennesseedaily.com"
+        "wcpo.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -660,26 +809,49 @@
       "classification_reason": "hollywood celebrity roundup"
     },
     {
-      "id": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
-      "domain": "wvtm13.com",
-      "title": "Strong earthquake shakes central Japan : At least 22 people injured",
-      "url": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
-      "published_at": "2026-11-08T10:30:00+00:00",
+      "id": "https://www.nbcphiladelphia.com/news/politics/midterm-results-feud-future-maha-movement/4494313/",
+      "domain": "nbcphiladelphia.com",
+      "title": "What do the midterm results mean for the MAHA movement ? \u2013 NBC10 Philadelphia",
+      "url": "https://www.nbcphiladelphia.com/news/politics/midterm-results-feud-future-maha-movement/4494313/",
+      "published_at": "2026-11-10T00:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://kubrick.htvapps.com/htv-prod/images/cc918f03-bd03-4364-8cda-7a221bb0a620.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0361xh",
+      "thumbnail": "https://media.nbcphiladelphia.com/2026/11/CALLEY-MEANS.jpg?quality=85&strip=all",
       "matched_keywords": [
-        "bottled water"
+        "microplastics"
       ],
-      "syndicated_count": 2,
+      "syndicated_count": 4,
       "syndicated_domains": [
-        "wjcl.com",
-        "wvtm13.com"
+        "nbcchicago.com",
+        "nbclosangeles.com",
+        "nbcnewyork.com",
+        "nbcphiladelphia.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "maple syrup farm expansion"
+    },
+    {
+      "id": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,237780",
+      "domain": "t-g.com",
+      "title": "PFAS are turning up in the Great Lakes , putting fish and water supplies at risk \u2013 here how they get there",
+      "url": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,237780",
+      "published_at": "2026-11-08T13:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.theconversation.com/files/707506/original/file-20251209-66-kcrwb.jpg?ixlib=rb-4.1.0&rect=1223%2C0%2C2497%2C1665&q=45&auto=format&fit=crop",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "t-g.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "fly fishing hotel booking"
     },
     {
       "id": "https://journalnow.com/life-entertainment/local/home-gardening/collection_ce1684bc-e734-5a2a-bba1-721b1c88ec4f.html",
@@ -703,6 +875,6 @@
       "classification_reason": "keyword token appears but article off-topic"
     }
   ],
-  "classified_at": "2026-11-13T16:52:57+00:00",
+  "classified_at": "2026-11-14T15:38:31+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
