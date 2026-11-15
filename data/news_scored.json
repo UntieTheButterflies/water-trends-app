@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-14T15:38:31+00:00",
+  "refreshed_at": "2026-11-15T16:24:46+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,22 +18,22 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 39,
+  "total_unique_mentions": 28,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 11,
-    "lead in water": 1,
+    "forever chemicals": 9,
+    "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
-    "microplastics": 6,
+    "microplastics": 0,
     "fluoride in water": 0,
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 2,
-    "bottled water": 16,
+    "bottled water": 14,
     "water filter": 0,
-    "reverse osmosis": 5,
-    "water softener": 1,
+    "reverse osmosis": 4,
+    "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
@@ -59,20 +59,21 @@
       "classification_reason": "direct water-quality / regulatory / crisis coverage"
     },
     {
-      "id": "https://www.turnto23.com/news/national/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us",
-      "domain": "turnto23.com",
-      "title": "Bigger and more - frequent wildfires threaten water supplies across the US",
-      "url": "https://www.turnto23.com/news/national/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us",
+      "id": "https://www.orlandosentinel.com/2026/11/13/wildfires-contaminate-drinking-water-supply/",
+      "domain": "orlandosentinel.com",
+      "title": "US water supplies are threatened by bigger , more frequent wildfires",
+      "url": "https://www.orlandosentinel.com/2026/11/13/wildfires-contaminate-drinking-water-supply/",
       "published_at": "2026-11-13T18:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://ewscripps.brightspotcdn.com/2a/a8/2210e55e44b6ac36223edd42b57f/wildfire.png",
+      "thumbnail": "https://www.orlandosentinel.com/wp-content/uploads/2026/11/Wildfires_Drinking_Water_51416-1.jpg",
       "matched_keywords": [
         "bottled water"
       ],
-      "syndicated_count": 1,
+      "syndicated_count": 2,
       "syndicated_domains": [
-        "turnto23.com"
+        "orlandosentinel.com",
+        "record-bee.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -80,20 +81,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.azocleantech.com/article.aspx?ArticleID=2218",
-      "domain": "azocleantech.com",
-      "title": "The Role of Spectroscopy in Microplastic Detection",
-      "url": "https://www.azocleantech.com/article.aspx?ArticleID=2218",
-      "published_at": "2026-11-12T06:45:00+00:00",
+      "id": "https://www.dailypress.net/news/local-news/2026/11/state-urges-residents-to-prepare-homes-and-vehicles-for-winter-weather/",
+      "domain": "dailypress.net",
+      "title": "State urges residents to prepare homes and vehicles for winter weather",
+      "url": "https://www.dailypress.net/news/local-news/2026/11/state-urges-residents-to-prepare-homes-and-vehicles-for-winter-weather/",
+      "published_at": "2026-11-12T07:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.azocleantech.com/images/Article_Images/ImageForArticle_2218_17928364177725276.png",
+      "thumbnail": "",
       "matched_keywords": [
-        "microplastics"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "azocleantech.com"
+        "dailypress.net"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -131,8 +132,7 @@
       "source_country": "United States",
       "thumbnail": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/7/2026/11/11152600/1382c142-4153-4372-8f39-4cecfd550674-1024x441.png",
       "matched_keywords": [
-        "forever chemicals",
-        "microplastics"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
@@ -144,20 +144,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://hotair.com/headlines/2026/11/10/some-parts-of-the-ocean-are-turning-a-weird-shade-of-blue-green-n3820842",
-      "domain": "hotair.com",
-      "title": "Some Parts of the Ocean Are Turning a Weird Shade of Blue - Green",
-      "url": "https://hotair.com/headlines/2026/11/10/some-parts-of-the-ocean-are-turning-a-weird-shade-of-blue-green-n3820842",
+      "id": "https://www.eurasiareview.com/11112026-north-korean-affordability-crisis-monthly-salary-cant-buy-even-a-bag-of-rice/",
+      "domain": "eurasiareview.com",
+      "title": "North Korean Affordability Crisis : Monthly Salary Cant Buy Even A Bag Of Rice",
+      "url": "https://www.eurasiareview.com/11112026-north-korean-affordability-crisis-monthly-salary-cant-buy-even-a-bag-of-rice/",
       "published_at": "2026-11-11T03:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://cdn.townhall.com/web/thm/hotair-opengraph-default.jpg",
+      "thumbnail": "https://www.eurasiareview.com/wp-content/uploads/2026/11/a-67.jpeg",
       "matched_keywords": [
-        "microplastics"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "hotair.com"
+        "eurasiareview.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -165,42 +165,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
-      "domain": "ojaivalleynews.com",
-      "title": "Planning Commission approves permits for $420 million VenturaWaterPure purification facility",
-      "url": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
-      "published_at": "2026-11-11T00:00:00+00:00",
+      "id": "https://www.wcpo.com/news/local-news/cincinnati-city-council-considers-9-5-water-rate-increase-what-it-means-for-your-wallet",
+      "domain": "wcpo.com",
+      "title": "Cincinnati City Council considers 9 . 5 % water rate increase",
+      "url": "https://www.wcpo.com/news/local-news/cincinnati-city-council-considers-9-5-water-rate-increase-what-it-means-for-your-wallet",
+      "published_at": "2026-11-10T03:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/8/cc/8ccb6a48-f15a-4921-9bd3-7eed99465a50/6af25f6ba1d15.image.png?crop=1335%2C701%2C309%2C0",
+      "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/54/ad/67c680094e3f9a2a1950ebcc90f7/council.png",
       "matched_keywords": [
-        "forever chemicals",
-        "reverse osmosis"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "ojaivalleynews.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://eastoregonian.com/2026/11/09/terminal-gravity-seeks-new-ownership/",
-      "domain": "eastoregonian.com",
-      "title": "Terminal Gravity seeks new ownership | East Oregonian",
-      "url": "https://eastoregonian.com/2026/11/09/terminal-gravity-seeks-new-ownership/",
-      "published_at": "2026-11-10T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://eastoregonian.com/wp-content/uploads/sites/7/2026/11/TG.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "eastoregonian.com"
+        "wcpo.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -224,56 +202,30 @@
         "wallowa.com"
       ],
       "relevance_score": 4,
-      "primary_angle": "lifestyle",
+      "primary_angle": "tangential",
       "notable": false,
-      "classification_reason": "americans picky about water - lightweight consumer piece"
+      "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.abqjournal.com/opinion/opinion-providing-new-water-for-nm-future-economic-development/3156071",
-      "domain": "abqjournal.com",
-      "title": "Opinion : Desalination can provide New Mexico water for economic growth",
-      "url": "https://www.abqjournal.com/opinion/opinion-providing-new-water-for-nm-future-economic-development/3156071",
-      "published_at": "2026-11-10T00:30:00+00:00",
+      "id": "https://local12.com/news/local/greater-cincinnati-water-works-seeks-95-annual-rate-hikes-taxes-tax-money-cost-prices-customers-consumers-federal-regulations-lead-pipes-chemicals-inflation-electricity-treatment-repairs-interest-ohio-utility",
+      "domain": "local12.com",
+      "title": "Greater Cincinnati Water Works seeks 9 . 5 % annual rate hikes",
+      "url": "https://local12.com/news/local/greater-cincinnati-water-works-seeks-95-annual-rate-hikes-taxes-tax-money-cost-prices-customers-consumers-federal-regulations-lead-pipes-chemicals-inflation-electricity-treatment-repairs-interest-ohio-utility",
+      "published_at": "2026-11-10T01:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://image.abqjournal.com/3156110.jpg?imageId=3156110&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "thumbnail": "https://local12.com/resources/media/ed118882-a535-48db-8705-a779f07e133b-jumbo16x9_6f25fb85857849878bd99d22ffe867c5gmcWATERWORKSSETTLEMENT.transfer_frame_433.png",
       "matched_keywords": [
-        "reverse osmosis"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "abqjournal.com"
+        "local12.com"
       ],
       "relevance_score": 4,
-      "primary_angle": "tangential",
+      "primary_angle": "lifestyle",
       "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.pressdemocrat.com/2026/11/09/trump-maha-feud/",
-      "domain": "pressdemocrat.com",
-      "title": "Feud between former Trump officials exposes divisions over MAHA",
-      "url": "https://www.pressdemocrat.com/2026/11/09/trump-maha-feud/",
-      "published_at": "2026-11-10T00:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.pressdemocrat.com/wp-content/uploads/2026/11/Trump_MAHA_Means_48587-1.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 6,
-      "syndicated_domains": [
-        "capitalgazette.com",
-        "dailypress.com",
-        "greeleytribune.com",
-        "koaa.com",
-        "pressdemocrat.com",
-        "yahoo.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
+      "classification_reason": "americans picky about water - lightweight consumer piece"
     },
     {
       "id": "http://www.bostonstar.com/news/279422712/ur-energy-reports-third-quarter-2026-results",
@@ -314,48 +266,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wivk.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.wdam.com/2026/11/08/flood-ravaged-mccaysville-leans-prayer-after-deadly-disaster/",
-      "domain": "wdam.com",
-      "title": "Flood - ravaged McCaysville leans on prayer after deadly disaster",
-      "url": "https://www.wdam.com/2026/11/08/flood-ravaged-mccaysville-leans-prayer-after-deadly-disaster/",
-      "published_at": "2026-11-09T02:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://gray-wdam-prod.gtv-cdn.com/resizer/v2/RYRMPSBGMZDIDNC2FEUYHJ5VUQ.png?auth=e761323a4c5fead78aa5e08f3f4bb2cc5b7aae6161611250faba00889448ad04&smart=true",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wdam.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://whky.com/hickory-officials-advise-residents-to-identify-water-service-line-material/",
-      "domain": "whky.com",
-      "title": "Hickory Officials Advise Residents To Identify Water Service Line Material",
-      "url": "https://whky.com/hickory-officials-advise-residents-to-identify-water-service-line-material/",
-      "published_at": "2026-11-09T01:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://whky.com/wp-content/uploads/2026/11/IMG_1327.png",
-      "matched_keywords": [
-        "lead in water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "whky.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -426,21 +336,19 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://kdhnews.com/news/world/strong-earthquake-shakes-central-japan-shattering-store-windows-and-injuring-at-least-22/article_4a416186-6ccb-5418-a863-ea061b19cbb5.html",
-      "domain": "kdhnews.com",
-      "title": "Strong earthquake shakes central Japan , shattering store windows and injuring at least 22",
-      "url": "https://kdhnews.com/news/world/strong-earthquake-shakes-central-japan-shattering-store-windows-and-injuring-at-least-22/article_4a416186-6ccb-5418-a863-ea061b19cbb5.html",
-      "published_at": "2026-11-08T09:00:00+00:00",
+      "id": "https://wtop.com/world/2026/11/a-strong-earthquake-with-a-preliminary-magnitude-of-5-7-strikes-central-japan-meteorological-agency-says/",
+      "domain": "wtop.com",
+      "title": "Strong earthquake shakes central Japan , shattering store windows and injuring at least 22 \u2013 WTOP News",
+      "url": "https://wtop.com/world/2026/11/a-strong-earthquake-with-a-preliminary-magnitude-of-5-7-strikes-central-japan-meteorological-agency-says/",
+      "published_at": "2026-11-08T17:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/kdhnews.com/content/tncms/assets/v3/editorial/4/12/412c1631-adc6-5991-b51c-c1449f69a492/6aefc79731c1d.image.jpg?crop=1763%2C926%2C0%2C124",
+      "thumbnail": "https://wtop.com/wp-content/uploads/2026/11/Japan_Earthquake_72287-scaled-e1794140388209.jpg",
       "matched_keywords": [
         "bottled water"
       ],
-      "syndicated_count": 3,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "kdhnews.com",
-        "wpxi.com",
         "wtop.com"
       ],
       "relevance_score": 4,
@@ -449,84 +357,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.dailymail.com/money/markets/article-16274061/Dash-cash-accelerates-record-sums-withdrawn-rush-stock-crisis.html",
-      "domain": "dailymail.com",
-      "title": "Dash for cash accelerates as record sums are withdrawn",
-      "url": "https://www.dailymail.com/money/markets/article-16274061/Dash-cash-accelerates-record-sums-withdrawn-rush-stock-crisis.html",
-      "published_at": "2026-11-08T09:00:00+00:00",
+      "id": "https://www.turnto23.com/news/national/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us",
+      "domain": "turnto23.com",
+      "title": "Bigger and more - frequent wildfires threaten water supplies across the US",
+      "url": "https://www.turnto23.com/news/national/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us",
+      "published_at": "2026-11-13T18:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://i.dailymail.com/1s/2026/11/07/14/112364191-0-image-m-35_1794060420588.jpg",
+      "thumbnail": "https://ewscripps.brightspotcdn.com/2a/a8/2210e55e44b6ac36223edd42b57f/wildfire.png",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "dailymail.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/",
-      "domain": "nypost.com",
-      "title": "Japan earthquake injures at least 22 , shatters store windows",
-      "url": "https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/",
-      "published_at": "2026-11-08T09:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://nypost.com/wp-content/uploads/sites/2/2026/11/147975135.jpg?quality=75&strip=all",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "nypost.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.medicaldaily.com/nih-pfoa-pfos-er-negative-breast-cancer-study-480944",
-      "domain": "medicaldaily.com",
-      "title": "Two Forever Chemicals Tied to Higher Rates of Aggressive ER - Negative Breast Cancer , Though Not Breast Cancer Overall",
-      "url": "https://www.medicaldaily.com/nih-pfoa-pfos-er-negative-breast-cancer-study-480944",
-      "published_at": "2026-11-07T18:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://d.medicaldaily.com/en/full/488322/breast-cancer.jpg",
-      "matched_keywords": [
-        "forever chemicals",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "medicaldaily.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.dailypress.net/news/local-news/2026/11/state-urges-residents-to-prepare-homes-and-vehicles-for-winter-weather/",
-      "domain": "dailypress.net",
-      "title": "State urges residents to prepare homes and vehicles for winter weather",
-      "url": "https://www.dailypress.net/news/local-news/2026/11/state-urges-residents-to-prepare-homes-and-vehicles-for-winter-weather/",
-      "published_at": "2026-11-12T07:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dailypress.net"
+        "turnto23.com"
       ],
       "relevance_score": 3,
       "primary_angle": "lifestyle",
@@ -597,20 +441,20 @@
       "classification_reason": "wildfire relief effort"
     },
     {
-      "id": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
-      "domain": "pagosasun.com",
-      "title": "Governor provides update on flooding in Southwestern Colorado , shares resources to support impacted Coloradans",
-      "url": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
+      "id": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
+      "domain": "wagmtv.com",
+      "title": "Fort Fairfield Water Exceeds Standard Copper Level",
+      "url": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
       "published_at": "2026-11-11T03:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://cdn2.creativecirclemedia.com/pagosa/original/20231127-133643-pagosa-og.jpg",
+      "thumbnail": "https://gray-wagm-prod.gtv-cdn.com/resizer/v2/TVZMNS2QAFCRPEUHHNZPSIQBKA.png?auth=ec24d8c21e8efb01c9eb6127fa68012a058322cc3bac40617321301910f19523&smart=true",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "pagosasun.com"
+        "wagmtv.com"
       ],
       "relevance_score": 2,
       "primary_angle": "noise",
@@ -618,20 +462,20 @@
       "classification_reason": "wildfire donation drive"
     },
     {
-      "id": "https://local12.com/news/local/greater-cincinnati-water-works-seeks-95-annual-rate-hikes-taxes-tax-money-cost-prices-customers-consumers-federal-regulations-lead-pipes-chemicals-inflation-electricity-treatment-repairs-interest-ohio-utility",
-      "domain": "local12.com",
-      "title": "Greater Cincinnati Water Works seeks 9 . 5 % annual rate hikes",
-      "url": "https://local12.com/news/local/greater-cincinnati-water-works-seeks-95-annual-rate-hikes-taxes-tax-money-cost-prices-customers-consumers-federal-regulations-lead-pipes-chemicals-inflation-electricity-treatment-repairs-interest-ohio-utility",
-      "published_at": "2026-11-10T01:00:00+00:00",
+      "id": "https://www.abqjournal.com/opinion/opinion-providing-new-water-for-nm-future-economic-development/3156071",
+      "domain": "abqjournal.com",
+      "title": "Opinion : Desalination can provide New Mexico water for economic growth",
+      "url": "https://www.abqjournal.com/opinion/opinion-providing-new-water-for-nm-future-economic-development/3156071",
+      "published_at": "2026-11-10T00:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://local12.com/resources/media/ed118882-a535-48db-8705-a779f07e133b-jumbo16x9_6f25fb85857849878bd99d22ffe867c5gmcWATERWORKSSETTLEMENT.transfer_frame_433.png",
+      "thumbnail": "https://image.abqjournal.com/3156110.jpg?imageId=3156110&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
       "matched_keywords": [
-        "forever chemicals"
+        "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "local12.com"
+        "abqjournal.com"
       ],
       "relevance_score": 2,
       "primary_angle": "crisis",
@@ -639,64 +483,20 @@
       "classification_reason": "typhoon recovery, not drinking water focused"
     },
     {
-      "id": "https://www.latimes.com/california/newsletter/2026-11-08/history-art-culture-and-community-flourish-in-little-tokyo",
-      "domain": "latimes.com",
-      "title": "History , art , culture and community flourish in L . A . Little Tokyo",
-      "url": "https://www.latimes.com/california/newsletter/2026-11-08/history-art-culture-and-community-flourish-in-little-tokyo",
-      "published_at": "2026-11-08T17:00:00+00:00",
+      "id": "https://www.kiro7.com/news/local/ocean-shores-residents-navigating-state-emergency-boil-water-advisory/BNRXZBQLNVEIJAVJHBTJG4LZM4/",
+      "domain": "kiro7.com",
+      "title": "Ocean Shores residents navigating state of emergency and boil water advisory",
+      "url": "https://www.kiro7.com/news/local/ocean-shores-residents-navigating-state-emergency-boil-water-advisory/BNRXZBQLNVEIJAVJHBTJG4LZM4/",
+      "published_at": "2026-11-14T21:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://california-times-brightspot.s3.amazonaws.com/fd/67/ac1700be41b8b0ad4846eea5c0fe/little-tokyo-guide-thumb.png",
+      "thumbnail": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKI4YHQFNWFDCFM4D6KFSPNBEIM.jpeg?auth=62df8144b5d2478d3e29a965d6ebf33ed3f1d9dbf359f8977815ab085b52587e&smart=true",
       "matched_keywords": [
-        "microplastics"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "latimes.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "home renovation trends general"
-    },
-    {
-      "id": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
-      "domain": "wvtm13.com",
-      "title": "Strong earthquake shakes central Japan : At least 22 people injured",
-      "url": "https://www.wvtm13.com/article/strong-earthquake-central-japan-22-people-injured/74367344",
-      "published_at": "2026-11-08T10:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://kubrick.htvapps.com/htv-prod/images/cc918f03-bd03-4364-8cda-7a221bb0a620.jpg?crop=1.00xw%3A0.846xh%3B0%2C0.0361xh",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "wjcl.com",
-        "wvtm13.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "lifestyle",
-      "notable": false,
-      "classification_reason": "zoo conservation partnership"
-    },
-    {
-      "id": "https://www.orlandosentinel.com/2026/11/13/wildfires-contaminate-drinking-water-supply/",
-      "domain": "orlandosentinel.com",
-      "title": "US water supplies are threatened by bigger , more frequent wildfires",
-      "url": "https://www.orlandosentinel.com/2026/11/13/wildfires-contaminate-drinking-water-supply/",
-      "published_at": "2026-11-13T18:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.orlandosentinel.com/wp-content/uploads/2026/11/Wildfires_Drinking_Water_51416-1.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "orlandosentinel.com",
-        "record-bee.com"
+        "kiro7.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -746,20 +546,20 @@
       "classification_reason": "wildfire evacuation advice"
     },
     {
-      "id": "https://www.eurasiareview.com/11112026-north-korean-affordability-crisis-monthly-salary-cant-buy-even-a-bag-of-rice/",
-      "domain": "eurasiareview.com",
-      "title": "North Korean Affordability Crisis : Monthly Salary Cant Buy Even A Bag Of Rice",
-      "url": "https://www.eurasiareview.com/11112026-north-korean-affordability-crisis-monthly-salary-cant-buy-even-a-bag-of-rice/",
+      "id": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
+      "domain": "pagosasun.com",
+      "title": "Governor provides update on flooding in Southwestern Colorado , shares resources to support impacted Coloradans",
+      "url": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
       "published_at": "2026-11-11T03:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.eurasiareview.com/wp-content/uploads/2026/11/a-67.jpeg",
+      "thumbnail": "https://cdn2.creativecirclemedia.com/pagosa/original/20231127-133643-pagosa-og.jpg",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "eurasiareview.com"
+        "pagosasun.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -767,20 +567,21 @@
       "classification_reason": "Reckitt earnings report"
     },
     {
-      "id": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
-      "domain": "wagmtv.com",
-      "title": "Fort Fairfield Water Exceeds Standard Copper Level",
-      "url": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
-      "published_at": "2026-11-11T03:00:00+00:00",
+      "id": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
+      "domain": "ojaivalleynews.com",
+      "title": "Planning Commission approves permits for $420 million VenturaWaterPure purification facility",
+      "url": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
+      "published_at": "2026-11-11T00:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://gray-wagm-prod.gtv-cdn.com/resizer/v2/TVZMNS2QAFCRPEUHHNZPSIQBKA.png?auth=ec24d8c21e8efb01c9eb6127fa68012a058322cc3bac40617321301910f19523&smart=true",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/8/cc/8ccb6a48-f15a-4921-9bd3-7eed99465a50/6af25f6ba1d15.image.png?crop=1335%2C701%2C309%2C0",
       "matched_keywords": [
-        "bottled water"
+        "forever chemicals",
+        "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "wagmtv.com"
+        "ojaivalleynews.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -788,20 +589,20 @@
       "classification_reason": "football transfer commentary"
     },
     {
-      "id": "https://www.wcpo.com/news/local-news/cincinnati-city-council-considers-9-5-water-rate-increase-what-it-means-for-your-wallet",
-      "domain": "wcpo.com",
-      "title": "Cincinnati City Council considers 9 . 5 % water rate increase",
-      "url": "https://www.wcpo.com/news/local-news/cincinnati-city-council-considers-9-5-water-rate-increase-what-it-means-for-your-wallet",
-      "published_at": "2026-11-10T03:30:00+00:00",
+      "id": "https://eastoregonian.com/2026/11/09/terminal-gravity-seeks-new-ownership/",
+      "domain": "eastoregonian.com",
+      "title": "Terminal Gravity seeks new ownership | East Oregonian",
+      "url": "https://eastoregonian.com/2026/11/09/terminal-gravity-seeks-new-ownership/",
+      "published_at": "2026-11-10T03:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/54/ad/67c680094e3f9a2a1950ebcc90f7/council.png",
+      "thumbnail": "https://eastoregonian.com/wp-content/uploads/sites/7/2026/11/TG.jpg",
       "matched_keywords": [
-        "forever chemicals"
+        "hard water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "wcpo.com"
+        "eastoregonian.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -809,72 +610,27 @@
       "classification_reason": "hollywood celebrity roundup"
     },
     {
-      "id": "https://www.nbcphiladelphia.com/news/politics/midterm-results-feud-future-maha-movement/4494313/",
-      "domain": "nbcphiladelphia.com",
-      "title": "What do the midterm results mean for the MAHA movement ? \u2013 NBC10 Philadelphia",
-      "url": "https://www.nbcphiladelphia.com/news/politics/midterm-results-feud-future-maha-movement/4494313/",
-      "published_at": "2026-11-10T00:00:00+00:00",
+      "id": "https://www.wdam.com/2026/11/08/flood-ravaged-mccaysville-leans-prayer-after-deadly-disaster/",
+      "domain": "wdam.com",
+      "title": "Flood - ravaged McCaysville leans on prayer after deadly disaster",
+      "url": "https://www.wdam.com/2026/11/08/flood-ravaged-mccaysville-leans-prayer-after-deadly-disaster/",
+      "published_at": "2026-11-09T02:00:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://media.nbcphiladelphia.com/2026/11/CALLEY-MEANS.jpg?quality=85&strip=all",
+      "thumbnail": "https://gray-wdam-prod.gtv-cdn.com/resizer/v2/RYRMPSBGMZDIDNC2FEUYHJ5VUQ.png?auth=e761323a4c5fead78aa5e08f3f4bb2cc5b7aae6161611250faba00889448ad04&smart=true",
       "matched_keywords": [
-        "microplastics"
+        "bottled water"
       ],
-      "syndicated_count": 4,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "nbcchicago.com",
-        "nbclosangeles.com",
-        "nbcnewyork.com",
-        "nbcphiladelphia.com"
+        "wdam.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "maple syrup farm expansion"
-    },
-    {
-      "id": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,237780",
-      "domain": "t-g.com",
-      "title": "PFAS are turning up in the Great Lakes , putting fish and water supplies at risk \u2013 here how they get there",
-      "url": "http://www.t-g.com/premium/theconversation/stories/pfas-are-turning-up-in-the-great-lakes-putting-fish-and-water-supplies-at-risk-heres-how,237780",
-      "published_at": "2026-11-08T13:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://images.theconversation.com/files/707506/original/file-20251209-66-kcrwb.jpg?ixlib=rb-4.1.0&rect=1223%2C0%2C2497%2C1665&q=45&auto=format&fit=crop",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "t-g.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "fly fishing hotel booking"
-    },
-    {
-      "id": "https://journalnow.com/life-entertainment/local/home-gardening/collection_ce1684bc-e734-5a2a-bba1-721b1c88ec4f.html",
-      "domain": "journalnow.com",
-      "title": "Luxury homes for sale in the Winston - Salem area Updated Nov . 7 , 2026",
-      "url": "https://journalnow.com/life-entertainment/local/home-gardening/collection_ce1684bc-e734-5a2a-bba1-721b1c88ec4f.html",
-      "published_at": "2026-11-07T17:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/journalnow.com/content/tncms/assets/v3/editorial/c/e1/ce1684bc-e734-5a2a-bba1-721b1c88ec4f/6aeec1fe607eb.preview.jpg?crop=800%2C420%2C0%2C56",
-      "matched_keywords": [
-        "water softener"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "journalnow.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "keyword token appears but article off-topic"
     }
   ],
-  "classified_at": "2026-11-14T15:38:31+00:00",
+  "classified_at": "2026-11-15T16:24:46+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
