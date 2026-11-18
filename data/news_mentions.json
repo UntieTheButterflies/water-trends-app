@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-17T18:18:36+00:00",
+  "refreshed_at": "2026-11-18T17:46:12+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,10 +18,10 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 19,
+  "total_unique_mentions": 14,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 6,
+    "forever chemicals": 5,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
@@ -30,28 +30,63 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 10,
+    "bottled water": 7,
     "water filter": 0,
-    "reverse osmosis": 2,
+    "reverse osmosis": 0,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
     {
-      "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
-      "domain": "mariettatimes.com",
-      "title": "Local Events - Marietta Times",
-      "url": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
-      "published_at": "2026-11-16T08:15:00+00:00",
+      "id": "https://www.ksat.com/tech/2026/11/17/prince-william-presents-earthshot-prize-winners-with-13-million-each/",
+      "domain": "ksat.com",
+      "title": "Prince William presents Earthshot Prize winners with $1 . 3 million each",
+      "url": "https://www.ksat.com/tech/2026/11/17/prince-william-presents-earthshot-prize-winners-with-13-million-each/",
+      "published_at": "2026-11-18T01:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/7FI7CFX73BFRTJCLCA6CK6DFA4.jpg?api_key=ksat_9a37fc89631abedf",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "ksat.com",
+        "wral.com"
+      ]
+    },
+    {
+      "id": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
+      "domain": "ecoportal.net",
+      "title": "A plant on the Atlantic City shoreline traps 580 million plastic specks a year , and it runs that way full time before its water reaches the ocean",
+      "url": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
+      "published_at": "2026-11-18T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/plant-atlantic-city-shoreline-traps-580-photo.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ecoportal.net"
+      ]
+    },
+    {
+      "id": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
+      "domain": "ksat.com",
+      "title": "FEMA emergency drill , new nationwide outages add to doomsday fears for some people",
+      "url": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
+      "published_at": "2026-11-18T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/ksat/ed67ad15-0c76-47cf-a3c7-ed4c33d94fd5/image.jpg?api_key=ksat_9a37fc89631abedf",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "mariettatimes.com"
+        "ksat.com"
       ]
     },
     {
@@ -69,6 +104,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wowo.com"
+      ]
+    },
+    {
+      "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
+      "domain": "mariettatimes.com",
+      "title": "Local Events - Marietta Times",
+      "url": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
+      "published_at": "2026-11-16T08:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mariettatimes.com"
       ]
     },
     {
@@ -192,20 +244,20 @@
       ]
     },
     {
-      "id": "https://www.tickerreport.com/banking-finance/13659994/h2o-innovation-otcmktsheoff-shares-down-0-2-time-to-sell.html",
-      "domain": "tickerreport.com",
-      "title": "H2O Innovation ( OTCMKTS : HEOFF ) Shares Down 0 . 2 % \u2013 Time to Sell ? ",
-      "url": "https://www.tickerreport.com/banking-finance/13659994/h2o-innovation-otcmktsheoff-shares-down-0-2-time-to-sell.html",
-      "published_at": "2026-11-12T01:30:00+00:00",
+      "id": "https://freerepublic.com/tag/*/index?more=4402688",
+      "domain": "freerepublic.com",
+      "title": "Latest Articles",
+      "url": "https://freerepublic.com/tag/*/index?more=4402688",
+      "published_at": "2026-11-12T00:30:00+00:00",
       "language": "English",
       "source_country": "United States",
       "thumbnail": "",
       "matched_keywords": [
-        "reverse osmosis"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "tickerreport.com"
+        "freerepublic.com"
       ]
     },
     {
@@ -224,143 +276,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "vaildaily.com"
-      ]
-    },
-    {
-      "id": "https://freerepublic.com/tag/*/index?more=4402688",
-      "domain": "freerepublic.com",
-      "title": "Latest Articles",
-      "url": "https://freerepublic.com/tag/*/index?more=4402688",
-      "published_at": "2026-11-12T00:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "freerepublic.com"
-      ]
-    },
-    {
-      "id": "https://www.zerohedge.com/energy/blackouts-reveal-how-fragile-society-really",
-      "domain": "zerohedge.com",
-      "title": "Blackouts Reveal How Fragile Society Really Is",
-      "url": "https://www.zerohedge.com/energy/blackouts-reveal-how-fragile-society-really",
-      "published_at": "2026-11-11T05:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/httpssubstack-post-media.s3.amaz%20%2839%29.jpg?itok=d0xQd6Qy",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "zerohedge.com"
-      ]
-    },
-    {
-      "id": "https://hotair.com/headlines/2026/11/10/some-parts-of-the-ocean-are-turning-a-weird-shade-of-blue-green-n3820842",
-      "domain": "hotair.com",
-      "title": "Some Parts of the Ocean Are Turning a Weird Shade of Blue - Green",
-      "url": "https://hotair.com/headlines/2026/11/10/some-parts-of-the-ocean-are-turning-a-weird-shade-of-blue-green-n3820842",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cdn.townhall.com/web/thm/hotair-opengraph-default.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "hotair.com"
-      ]
-    },
-    {
-      "id": "https://www.eurasiareview.com/11112026-north-korean-affordability-crisis-monthly-salary-cant-buy-even-a-bag-of-rice/",
-      "domain": "eurasiareview.com",
-      "title": "North Korean Affordability Crisis : Monthly Salary Cant Buy Even A Bag Of Rice",
-      "url": "https://www.eurasiareview.com/11112026-north-korean-affordability-crisis-monthly-salary-cant-buy-even-a-bag-of-rice/",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.eurasiareview.com/wp-content/uploads/2026/11/a-67.jpeg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "eurasiareview.com"
-      ]
-    },
-    {
-      "id": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
-      "domain": "pagosasun.com",
-      "title": "Governor provides update on flooding in Southwestern Colorado , shares resources to support impacted Coloradans",
-      "url": "http://www.pagosasun.com/stories/governor-provides-update-on-flooding-in-southwestern-colorado-shares-resources-to-support-impacted,159386",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cdn2.creativecirclemedia.com/pagosa/original/20231127-133643-pagosa-og.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "pagosasun.com"
-      ]
-    },
-    {
-      "id": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
-      "domain": "wagmtv.com",
-      "title": "Fort Fairfield Water Exceeds Standard Copper Level",
-      "url": "https://www.wagmtv.com/2026/11/10/fort-fairfield-water-exceeds-standard-copper-level/",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://gray-wagm-prod.gtv-cdn.com/resizer/v2/TVZMNS2QAFCRPEUHHNZPSIQBKA.png?auth=ec24d8c21e8efb01c9eb6127fa68012a058322cc3bac40617321301910f19523&smart=true",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wagmtv.com"
-      ]
-    },
-    {
-      "id": "https://www.news-medical.net/news/20261110/NIH-grant-supports-research-into-PFAS-effects-on-mosquitoes.aspx",
-      "domain": "news-medical.net",
-      "title": "NIH grant supports research into PFAS effects on mosquitoes",
-      "url": "https://www.news-medical.net/news/20261110/NIH-grant-supports-research-into-PFAS-effects-on-mosquitoes.aspx",
-      "published_at": "2026-11-11T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.news-medical.net/image-handler/picture/2014/7/Microbiology-620x480.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "news-medical.net"
-      ]
-    },
-    {
-      "id": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
-      "domain": "ojaivalleynews.com",
-      "title": "Planning Commission approves permits for $420 million VenturaWaterPure purification facility",
-      "url": "https://www.ojaivalleynews.com/news/county/planning-commission-approves-permits-for-420-million-venturawaterpure-purification-facility/article_8cfaddea-52d4-4b93-b5f8-41dfc69bb4f4.html",
-      "published_at": "2026-11-11T00:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/8/cc/8ccb6a48-f15a-4921-9bd3-7eed99465a50/6af25f6ba1d15.image.png?crop=1335%2C701%2C309%2C0",
-      "matched_keywords": [
-        "forever chemicals",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ojaivalleynews.com"
       ]
     }
   ]
