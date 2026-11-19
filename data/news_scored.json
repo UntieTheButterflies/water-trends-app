@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-18T17:46:12+00:00",
+  "refreshed_at": "2026-11-19T18:10:58+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,19 +18,19 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 14,
+  "total_unique_mentions": 8,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 5,
+    "forever chemicals": 3,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
-    "microplastics": 3,
+    "microplastics": 0,
     "fluoride in water": 0,
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 7,
+    "bottled water": 5,
     "water filter": 0,
     "reverse osmosis": 0,
     "water softener": 0,
@@ -59,90 +59,6 @@
       "classification_reason": "direct water-quality / regulatory / crisis coverage"
     },
     {
-      "id": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
-      "domain": "ecoportal.net",
-      "title": "A plant on the Atlantic City shoreline traps 580 million plastic specks a year , and it runs that way full time before its water reaches the ocean",
-      "url": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
-      "published_at": "2026-11-18T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/plant-atlantic-city-shoreline-traps-580-photo.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ecoportal.net"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
-      "domain": "wowo.com",
-      "title": "Study links common PFAS chemicals to higher rates of aggressive breast cancer",
-      "url": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
-      "published_at": "2026-11-16T08:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wowo.com/wp-content/uploads/2026/11/sedjj4dmc9s.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wowo.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.dailypress.net/news/local-news/2026/11/state-urges-residents-to-prepare-homes-and-vehicles-for-winter-weather/",
-      "domain": "dailypress.net",
-      "title": "State urges residents to prepare homes and vehicles for winter weather",
-      "url": "https://www.dailypress.net/news/local-news/2026/11/state-urges-residents-to-prepare-homes-and-vehicles-for-winter-weather/",
-      "published_at": "2026-11-12T07:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dailypress.net"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.newscientist.com/article/2598571-some-pfas-chemicals-are-declining-in-english-rivers-but-others-are-appearing/",
-      "domain": "newscientist.com",
-      "title": "Some PFAS chemicals are declining in English rivers but others are appearing",
-      "url": "https://www.newscientist.com/article/2598571-some-pfas-chemicals-are-declining-in-english-rivers-but-others-are-appearing/",
-      "published_at": "2026-11-12T03:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.newscientist.com/wp-content/uploads/2026/11/SEI_320306700.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "newscientist.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
       "id": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
       "domain": "ksat.com",
       "title": "FEMA emergency drill , new nationwide outages add to doomsday fears for some people",
@@ -157,6 +73,49 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "ksat.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
+      "domain": "mariettatimes.com",
+      "title": "Local Events - Marietta Times",
+      "url": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
+      "published_at": "2026-11-16T08:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mariettatimes.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+      "domain": "wral.com",
+      "title": "Prince William presents Earthshot Prize winners with $1 . 3M each in Mumbai :: WRAL . com",
+      "url": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+      "published_at": "2026-11-18T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.wral.com/46c3e479-660d-54b9-9128-fa1ebf4eaa8a",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "ksat.com",
+        "wral.com"
       ],
       "relevance_score": 3,
       "primary_angle": "lifestyle",
@@ -186,85 +145,20 @@
       "classification_reason": "wildfire community response, not water"
     },
     {
-      "id": "https://www.azocleantech.com/article.aspx?ArticleID=2218",
-      "domain": "azocleantech.com",
-      "title": "The Role of Spectroscopy in Microplastic Detection",
-      "url": "https://www.azocleantech.com/article.aspx?ArticleID=2218",
-      "published_at": "2026-11-12T06:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.azocleantech.com/images/Article_Images/ImageForArticle_2218_17928364177725276.png",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "azocleantech.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "PR/brand launch, not news"
-    },
-    {
-      "id": "https://www.dailypolitical.com/2026/11/11/coca-cola-femsa-otcmktscocsf-shares-climb-1-4-heres-what-happened.html",
-      "domain": "dailypolitical.com",
-      "title": "Coca - Cola FEMSA ( OTCMKTS : COCSF ) Shares Climb 1 . 4 % \u2013 Here What Happened",
-      "url": "https://www.dailypolitical.com/2026/11/11/coca-cola-femsa-otcmktscocsf-shares-climb-1-4-heres-what-happened.html",
-      "published_at": "2026-11-12T06:45:00+00:00",
+      "id": "https://targetednews.com/pr_disp.php?pr_id=9851182",
+      "domain": "targetednews.com",
+      "title": "Targeted News Service",
+      "url": "https://targetednews.com/pr_disp.php?pr_id=9851182",
+      "published_at": "2026-11-18T17:30:00+00:00",
       "language": "English",
       "source_country": "United States",
       "thumbnail": "",
       "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dailypolitical.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "wildfire relief effort"
-    },
-    {
-      "id": "https://www.vaildaily.com/news/film-screenings-hosted-by-eagle-river-coalition-brings-community-together-over-water-conservation/",
-      "domain": "vaildaily.com",
-      "title": "Film screenings hosted by Eagle River Coalition brings community together over water conservation",
-      "url": "https://www.vaildaily.com/news/film-screenings-hosted-by-eagle-river-coalition-brings-community-together-over-water-conservation/",
-      "published_at": "2026-11-12T00:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/7/2026/11/11152600/1382c142-4153-4372-8f39-4cecfd550674-1024x441.png",
-      "matched_keywords": [
-        "forever chemicals",
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "vaildaily.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "wildfire donation drive"
-    },
-    {
-      "id": "https://www.ksat.com/tech/2026/11/17/prince-william-presents-earthshot-prize-winners-with-13-million-each/",
-      "domain": "ksat.com",
-      "title": "Prince William presents Earthshot Prize winners with $1 . 3 million each",
-      "url": "https://www.ksat.com/tech/2026/11/17/prince-william-presents-earthshot-prize-winners-with-13-million-each/",
-      "published_at": "2026-11-18T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/7FI7CFX73BFRTJCLCA6CK6DFA4.jpg?api_key=ksat_9a37fc89631abedf",
-      "matched_keywords": [
         "forever chemicals"
       ],
-      "syndicated_count": 2,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "ksat.com",
-        "wral.com"
+        "targetednews.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -272,20 +166,20 @@
       "classification_reason": "Georgia wildfire state of emergency, not water quality"
     },
     {
-      "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
-      "domain": "mariettatimes.com",
-      "title": "Local Events - Marietta Times",
-      "url": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
+      "id": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
+      "domain": "wowo.com",
+      "title": "Study links common PFAS chemicals to higher rates of aggressive breast cancer",
+      "url": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
       "published_at": "2026-11-16T08:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://wowo.com/wp-content/uploads/2026/11/sedjj4dmc9s.jpg",
       "matched_keywords": [
-        "bottled water"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "mariettatimes.com"
+        "wowo.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -312,29 +206,8 @@
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "wildfire evacuation advice"
-    },
-    {
-      "id": "https://freerepublic.com/tag/*/index?more=4402688",
-      "domain": "freerepublic.com",
-      "title": "Latest Articles",
-      "url": "https://freerepublic.com/tag/*/index?more=4402688",
-      "published_at": "2026-11-12T00:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "freerepublic.com"
-      ],
-      "relevance_score": 1,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "Reckitt earnings report"
     }
   ],
-  "classified_at": "2026-11-18T17:46:12+00:00",
+  "classified_at": "2026-11-19T18:10:58+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
