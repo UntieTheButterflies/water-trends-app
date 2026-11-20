@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-19T18:10:58+00:00",
+  "refreshed_at": "2026-11-20T17:57:13+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,10 +18,10 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 8,
+  "total_unique_mentions": 16,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 3,
+    "forever chemicals": 0,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
@@ -30,28 +30,199 @@
     "chromium 6": 0,
     "well water testing": 0,
     "hard water": 0,
-    "bottled water": 5,
+    "bottled water": 12,
     "water filter": 0,
-    "reverse osmosis": 0,
+    "reverse osmosis": 4,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
     {
-      "id": "https://targetednews.com/pr_disp.php?pr_id=9851182",
-      "domain": "targetednews.com",
-      "title": "Targeted News Service",
-      "url": "https://targetednews.com/pr_disp.php?pr_id=9851182",
-      "published_at": "2026-11-18T17:30:00+00:00",
+      "id": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
+      "domain": "chemeurope.com",
+      "title": "Constructed wetland treatment plant against \u00bb forever chemicals \u00ab ",
+      "url": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
+      "published_at": "2026-11-20T06:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://img.chemie.de/Portal/News/6afea01e266e0_Vu0jckalf.jpg?tr=w-1279,h-959,cm-extract,x-76,y-0:n-xzoom",
       "matched_keywords": [
-        "forever chemicals"
+        "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "targetednews.com"
+        "chemeurope.com"
+      ]
+    },
+    {
+      "id": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
+      "domain": "b93.net",
+      "title": "Where to Get a Free Thanksgiving Meal in El Paso and Las Cruces",
+      "url": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
+      "published_at": "2026-11-20T04:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://townsquare.media/site/63/files/2026/11/attachment-gettyimages-1804523528.jpg?&format=natural",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "b93.net"
+      ]
+    },
+    {
+      "id": "https://www.abc15.com/news/conserving-water-in-backyard-pools-with-reverse-osmosis",
+      "domain": "abc15.com",
+      "title": "Conserving water in backyard pools with reverse osmosis",
+      "url": "https://www.abc15.com/news/conserving-water-in-backyard-pools-with-reverse-osmosis",
+      "published_at": "2026-11-20T03:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/8d/88/8e8350bd4432a695087115929e6d/screenshot-2026-11-19-at-16-52-58.png",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "abc15.com"
+      ]
+    },
+    {
+      "id": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
+      "domain": "ojaivalleynews.com",
+      "title": "City approves increasing VenturaWaterPure contracts",
+      "url": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
+      "published_at": "2026-11-20T03:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/b/bc/bbccaa67-4bca-40d3-9c88-e5e2f5e76f36/6aff91b46f373.image.jpg?crop=1762%2C925%2C0%2C125",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ojaivalleynews.com"
+      ]
+    },
+    {
+      "id": "https://theonion.com/threat-of-tech-failures-prompts-americans-to-stockpile-food-water/",
+      "domain": "theonion.com",
+      "title": "Threat Of Tech Failures Prompts Americans To Stockpile Food , Water",
+      "url": "https://theonion.com/threat-of-tech-failures-prompts-americans-to-stockpile-food-water/",
+      "published_at": "2026-11-20T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://theonion.com/wp-content/uploads/2025/02/AmericanVoice_OG_FINAL.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "theonion.com"
+      ]
+    },
+    {
+      "id": "https://www.wyff4.com/article/spartanburg-school-districts-elearning-boil-water-advisory/74482847",
+      "domain": "wyff4.com",
+      "title": "Spartanburg school districts announce more eLearning as boil water advisory continues",
+      "url": "https://www.wyff4.com/article/spartanburg-school-districts-elearning-boil-water-advisory/74482847",
+      "published_at": "2026-11-20T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/school-desk-1537796159.jpg?crop=1.00xw%3A0.753xh%3B0%2C0",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wyff4.com"
+      ]
+    },
+    {
+      "id": "https://wcbm.com/local-story/health-officials-investigate-possible-legionnaires-disease-exposure-at-baltimore-hotel/",
+      "domain": "wcbm.com",
+      "title": "Health officials investigate possible Legionnaires\u00e2\u20ac\u2122 disease exposure at Baltimore hotel",
+      "url": "https://wcbm.com/local-story/health-officials-investigate-possible-legionnaires-disease-exposure-at-baltimore-hotel/",
+      "published_at": "2026-11-20T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://wcbm.com/wp-content/uploads/2026/11/e71eb0bb-4aa1-4d3f-87fc-fb7a6c01a8c1-health.webp",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "foxbaltimore.com",
+        "wcbm.com"
+      ]
+    },
+    {
+      "id": "https://www.wyff4.com/article/spartanburg-water-boil-advisory-saturday/74480896",
+      "domain": "wyff4.com",
+      "title": "Spartanburg Water boil water advisory in place until at least Saturday",
+      "url": "https://www.wyff4.com/article/spartanburg-water-boil-advisory-saturday/74480896",
+      "published_at": "2026-11-20T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kubrick.htvapps.com/htv-prod/images/f56904b4-1eb6-496e-a89b-b0a8b6e52112.png?crop=0.927xw%3A1.00xh%3B0.0732xw%2C0",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wyff4.com"
+      ]
+    },
+    {
+      "id": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
+      "domain": "spokesman.com",
+      "title": "Walmart says US shoppers stocked up after tech outages",
+      "url": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
+      "published_at": "2026-11-19T23:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://thumb.spokesman.com/bsEZw7DfUA7c860f5qaiApIiVzU=/2400x1260/smart/media.spokesman.com/photos/2026/11/19/6aff4d92514c9.image.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "spokesman.com"
+      ]
+    },
+    {
+      "id": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
+      "domain": "wateronline.com",
+      "title": "NSF Expands Global Laboratory Network With New Testing Facility In Shanghai",
+      "url": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
+      "published_at": "2026-11-19T23:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://vertassets.blob.core.windows.net/image/20e141fa/20e141fa-0d97-42b4-a3a8-3d5215829f40/nsf.jpg",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wateronline.com"
+      ]
+    },
+    {
+      "id": "https://www.latimes.com/business/story/2026-11-19/walmart-raises-outlook-as-wealthier-shoppers-hunt-for-deals",
+      "domain": "latimes.com",
+      "title": "Walmart raises outlook as wealthier shoppers hunt for deals",
+      "url": "https://www.latimes.com/business/story/2026-11-19/walmart-raises-outlook-as-wealthier-shoppers-hunt-for-deals",
+      "published_at": "2026-11-19T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://california-times-brightspot.s3.amazonaws.com/8c/96/2ea70464784260bbaed562975f65/1x-1.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "latimes.com"
       ]
     },
     {
@@ -72,24 +243,6 @@
       ]
     },
     {
-      "id": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
-      "domain": "wral.com",
-      "title": "Prince William presents Earthshot Prize winners with $1 . 3M each in Mumbai :: WRAL . com",
-      "url": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
-      "published_at": "2026-11-18T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://images.wral.com/46c3e479-660d-54b9-9128-fa1ebf4eaa8a",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "ksat.com",
-        "wral.com"
-      ]
-    },
-    {
       "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
       "domain": "mariettatimes.com",
       "title": "Local Events - Marietta Times",
@@ -104,23 +257,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "mariettatimes.com"
-      ]
-    },
-    {
-      "id": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
-      "domain": "wowo.com",
-      "title": "Study links common PFAS chemicals to higher rates of aggressive breast cancer",
-      "url": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
-      "published_at": "2026-11-16T08:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wowo.com/wp-content/uploads/2026/11/sedjj4dmc9s.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wowo.com"
       ]
     },
     {
