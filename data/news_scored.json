@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-20T17:57:13+00:00",
+  "refreshed_at": "2026-11-21T16:44:16+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,45 +18,133 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 16,
+  "total_unique_mentions": 31,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
+    "forever chemicals": 9,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
-    "microplastics": 0,
+    "microplastics": 3,
     "fluoride in water": 0,
-    "chromium 6": 0,
+    "chromium 6": 1,
     "well water testing": 0,
-    "hard water": 0,
-    "bottled water": 12,
-    "water filter": 0,
-    "reverse osmosis": 4,
+    "hard water": 3,
+    "bottled water": 15,
+    "water filter": 2,
+    "reverse osmosis": 5,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
     {
-      "id": "https://www.wyff4.com/article/spartanburg-school-districts-elearning-boil-water-advisory/74482847",
-      "domain": "wyff4.com",
-      "title": "Spartanburg school districts announce more eLearning as boil water advisory continues",
-      "url": "https://www.wyff4.com/article/spartanburg-school-districts-elearning-boil-water-advisory/74482847",
-      "published_at": "2026-11-20T00:45:00+00:00",
+      "id": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
+      "domain": "dominicanrepublicpost.com",
+      "title": "Yemen besieged city of Taiz faces a deepening water crisis - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
+      "published_at": "2026-11-19T19:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/school-desk-1537796159.jpg?crop=1.00xw%3A0.753xh%3B0%2C0",
+      "thumbnail": "https://dominicanrepublicpost.com/app/uploads/2026/11/reuters_6aff1b9b-1795103643-NUBA0E.jpg",
       "matched_keywords": [
-        "bottled water"
+        "hard water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "wyff4.com"
+        "dominicanrepublicpost.com"
       ],
       "relevance_score": 9,
       "primary_angle": "crisis",
       "notable": true,
       "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.kiro7.com/news/local/ocean-shores-residents-navigating-state-emergency-boil-water-advisory/BNRXZBQLNVEIJAVJHBTJG4LZM4/",
+      "domain": "kiro7.com",
+      "title": "Ocean Shores residents navigating state of emergency and boil water advisory",
+      "url": "https://www.kiro7.com/news/local/ocean-shores-residents-navigating-state-emergency-boil-water-advisory/BNRXZBQLNVEIJAVJHBTJG4LZM4/",
+      "published_at": "2026-11-14T21:00:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKI4YHQFNWFDCFM4D6KFSPNBEIM.jpeg?auth=62df8144b5d2478d3e29a965d6ebf33ed3f1d9dbf359f8977815ab085b52587e&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kiro7.com"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "crisis",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://kfoxtv.com/news/local/el-pasos-jalisco-cafe-to-serve-free-thanksgiving-dinner",
+      "domain": "kfoxtv.com",
+      "title": "El Paso Jalisco Cafe to serve free Thanksgiving dinner",
+      "url": "https://kfoxtv.com/news/local/el-pasos-jalisco-cafe-to-serve-free-thanksgiving-dinner",
+      "published_at": "2026-11-21T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kfoxtv.com/resources/media/cdd02272-4d05-451f-864d-c4fd8a017e25-jumbo16x9_ASDFDASDF.jpeg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kfoxtv.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
+      "domain": "portcitydaily.com",
+      "title": "County uses $5M from Chemour settlement on tap fees for PFAS - contaminated wells",
+      "url": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
+      "published_at": "2026-11-20T21:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://d2m9t6p6qpk0cr.cloudfront.net/wp-content/uploads/2023/03/waterfaucet.jpg",
+      "matched_keywords": [
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "portcitydaily.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.wcpo.com/us-news/walmart-shoppers-stock-up-on-water-propane-amid-recent-disruptions",
+      "domain": "wcpo.com",
+      "title": "Walmart shoppers stock up on water , propane amid recent disruptions",
+      "url": "https://www.wcpo.com/us-news/walmart-shoppers-stock-up-on-water-propane-amid-recent-disruptions",
+      "published_at": "2026-11-20T21:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://ewscripps.brightspotcdn.com/d8/be/283e49194b48b751fca339467b92/ap24121461117217.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 4,
+      "syndicated_domains": [
+        "kxlf.com",
+        "kxxv.com",
+        "lex18.com",
+        "wcpo.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
     },
     {
       "id": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
@@ -80,20 +168,63 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
-      "domain": "ojaivalleynews.com",
-      "title": "City approves increasing VenturaWaterPure contracts",
-      "url": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
-      "published_at": "2026-11-20T03:30:00+00:00",
+      "id": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
+      "domain": "wgcu.org",
+      "title": "FGCU Academic Building 9 officially named Margaret Antonier Hall | WGCU News",
+      "url": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
+      "published_at": "2026-11-20T01:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/b/bc/bbccaa67-4bca-40d3-9c88-e5e2f5e76f36/6aff91b46f373.image.jpg?crop=1762%2C925%2C0%2C125",
+      "thumbnail": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/2f/1c/b3ae88e8400eaf7af28f09d2cc8d/dsc5806.JPG",
       "matched_keywords": [
-        "reverse osmosis"
+        "microplastics"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "ojaivalleynews.com"
+        "wgcu.org"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://wcbm.com/local-story/health-officials-investigate-possible-legionnaires-disease-exposure-at-baltimore-hotel/",
+      "domain": "wcbm.com",
+      "title": "Health officials investigate possible Legionnaires\u00e2\u20ac\u2122 disease exposure at Baltimore hotel",
+      "url": "https://wcbm.com/local-story/health-officials-investigate-possible-legionnaires-disease-exposure-at-baltimore-hotel/",
+      "published_at": "2026-11-20T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://wcbm.com/wp-content/uploads/2026/11/e71eb0bb-4aa1-4d3f-87fc-fb7a6c01a8c1-health.webp",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "foxbaltimore.com",
+        "wcbm.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.prnewswire.com/news-releases/neighborhood-plumbing-and-drain-earns-2026-best-of-texas-award-for-plumbing-services-302946225.html",
+      "domain": "prnewswire.com",
+      "title": "Neighborhood Plumbing and Drain Earns 2026 Best of Texas Award for Plumbing Services",
+      "url": "https://www.prnewswire.com/news-releases/neighborhood-plumbing-and-drain-earns-2026-best-of-texas-award-for-plumbing-services-302946225.html",
+      "published_at": "2026-11-19T23:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "prnewswire.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -115,6 +246,90 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "spokesman.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "americans picky about water - lightweight consumer piece"
+    },
+    {
+      "id": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
+      "domain": "wateronline.com",
+      "title": "NSF Expands Global Laboratory Network With New Testing Facility In Shanghai",
+      "url": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
+      "published_at": "2026-11-19T23:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://vertassets.blob.core.windows.net/image/20e141fa/20e141fa-0d97-42b4-a3a8-3d5215829f40/nsf.jpg",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wateronline.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
+      "domain": "gpb.org",
+      "title": "Georgia Water Coalition releases its 14th  Dirty Dozen  report for 2026",
+      "url": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
+      "published_at": "2026-11-19T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/2024-06/phenix_city_outfall_chattahoochee_riverkeeper_6-4-24.jpg?bdec&itok=8a9MbPo2",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "gpb.org"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://targetednews.com/pr_disp.php?pr_id=9851182",
+      "domain": "targetednews.com",
+      "title": "Targeted News Service",
+      "url": "https://targetednews.com/pr_disp.php?pr_id=9851182",
+      "published_at": "2026-11-18T17:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "targetednews.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
+      "domain": "ecoportal.net",
+      "title": "A plant on the Atlantic City shoreline traps 580 million plastic specks a year , and it runs that way full time before its water reaches the ocean",
+      "url": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
+      "published_at": "2026-11-18T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/plant-atlantic-city-shoreline-traps-580-photo.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ecoportal.net"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -143,25 +358,88 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.turnto23.com/news/national/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us",
-      "domain": "turnto23.com",
-      "title": "Bigger and more - frequent wildfires threaten water supplies across the US",
-      "url": "https://www.turnto23.com/news/national/bigger-and-more-frequent-wildfires-threaten-water-supplies-across-the-us",
-      "published_at": "2026-11-13T18:00:00+00:00",
+      "id": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
+      "domain": "wowo.com",
+      "title": "Study links common PFAS chemicals to higher rates of aggressive breast cancer",
+      "url": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
+      "published_at": "2026-11-16T08:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://ewscripps.brightspotcdn.com/2a/a8/2210e55e44b6ac36223edd42b57f/wildfire.png",
+      "thumbnail": "https://wowo.com/wp-content/uploads/2026/11/sedjj4dmc9s.jpg",
       "matched_keywords": [
-        "bottled water"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "turnto23.com"
+        "wowo.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
       "notable": false,
       "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
+      "domain": "mariettatimes.com",
+      "title": "Local Events - Marietta Times",
+      "url": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
+      "published_at": "2026-11-16T08:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mariettatimes.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.dailymail.com/lifestyle/food-drink/article-16287551/Forget-baked-beans-TOM-PARKER-BOWLES-shares-foodie-guide-posh-prepping.html",
+      "domain": "dailymail.com",
+      "title": "Forget baked beans : TOM PARKER BOWLES shares his foodie guide to posh prepping",
+      "url": "https://www.dailymail.com/lifestyle/food-drink/article-16287551/Forget-baked-beans-TOM-PARKER-BOWLES-shares-foodie-guide-posh-prepping.html",
+      "published_at": "2026-11-21T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i.dailymail.com/1s/2026/11/16/12/112536311-0-image-a-4_1794832451837.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailymail.com"
+      ],
+      "relevance_score": 3,
+      "primary_angle": "lifestyle",
+      "notable": false,
+      "classification_reason": "Adopt-a-Beach awareness; tangential"
+    },
+    {
+      "id": "https://www.wjhg.com/2026/11/20/precautionary-boil-water-notice-issued-dog-hobble-lane/",
+      "domain": "wjhg.com",
+      "title": "Precautionary boil water notice issued for Dog Hobble Lane",
+      "url": "https://www.wjhg.com/2026/11/20/precautionary-boil-water-notice-issued-dog-hobble-lane/",
+      "published_at": "2026-11-20T21:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wjhg-prod.gtv-cdn.com/resizer/v2/UEVDX5CQ3BAR3GSIOIKOYULPNQ.jpg?auth=306cea6df245be4d98ecf366117a1cfedfb18c876366400cf710879a4ec8988a&smart=false&focal=456%2C318",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wjhg.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "wildfire community response, not water"
     },
     {
       "id": "https://www.abc15.com/news/conserving-water-in-backyard-pools-with-reverse-osmosis",
@@ -173,54 +451,12 @@
       "source_country": "United States",
       "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/8d/88/8e8350bd4432a695087115929e6d/screenshot-2026-11-19-at-16-52-58.png",
       "matched_keywords": [
+        "hard water",
         "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "abc15.com"
-      ],
-      "relevance_score": 3,
-      "primary_angle": "lifestyle",
-      "notable": false,
-      "classification_reason": "Adopt-a-Beach awareness; tangential"
-    },
-    {
-      "id": "https://wcbm.com/local-story/health-officials-investigate-possible-legionnaires-disease-exposure-at-baltimore-hotel/",
-      "domain": "wcbm.com",
-      "title": "Health officials investigate possible Legionnaires\u00e2\u20ac\u2122 disease exposure at Baltimore hotel",
-      "url": "https://wcbm.com/local-story/health-officials-investigate-possible-legionnaires-disease-exposure-at-baltimore-hotel/",
-      "published_at": "2026-11-20T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wcbm.com/wp-content/uploads/2026/11/e71eb0bb-4aa1-4d3f-87fc-fb7a6c01a8c1-health.webp",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "foxbaltimore.com",
-        "wcbm.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
-      "classification_reason": "wildfire community response, not water"
-    },
-    {
-      "id": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
-      "domain": "wateronline.com",
-      "title": "NSF Expands Global Laboratory Network With New Testing Facility In Shanghai",
-      "url": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
-      "published_at": "2026-11-19T23:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://vertassets.blob.core.windows.net/image/20e141fa/20e141fa-0d97-42b4-a3a8-3d5215829f40/nsf.jpg",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wateronline.com"
       ],
       "relevance_score": 2,
       "primary_angle": "noise",
@@ -228,20 +464,21 @@
       "classification_reason": "PR/brand launch, not news"
     },
     {
-      "id": "https://www.latimes.com/business/story/2026-11-19/walmart-raises-outlook-as-wealthier-shoppers-hunt-for-deals",
-      "domain": "latimes.com",
-      "title": "Walmart raises outlook as wealthier shoppers hunt for deals",
-      "url": "https://www.latimes.com/business/story/2026-11-19/walmart-raises-outlook-as-wealthier-shoppers-hunt-for-deals",
-      "published_at": "2026-11-19T19:30:00+00:00",
+      "id": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
+      "domain": "ojaivalleynews.com",
+      "title": "City approves increasing VenturaWaterPure contracts",
+      "url": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
+      "published_at": "2026-11-20T03:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://california-times-brightspot.s3.amazonaws.com/8c/96/2ea70464784260bbaed562975f65/1x-1.jpg",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/b/bc/bbccaa67-4bca-40d3-9c88-e5e2f5e76f36/6aff91b46f373.image.jpg?crop=1762%2C925%2C0%2C125",
       "matched_keywords": [
-        "bottled water"
+        "forever chemicals",
+        "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "latimes.com"
+        "ojaivalleynews.com"
       ],
       "relevance_score": 2,
       "primary_angle": "noise",
@@ -249,25 +486,92 @@
       "classification_reason": "wildfire relief effort"
     },
     {
-      "id": "https://www.kiro7.com/news/local/ocean-shores-residents-navigating-state-emergency-boil-water-advisory/BNRXZBQLNVEIJAVJHBTJG4LZM4/",
-      "domain": "kiro7.com",
-      "title": "Ocean Shores residents navigating state of emergency and boil water advisory",
-      "url": "https://www.kiro7.com/news/local/ocean-shores-residents-navigating-state-emergency-boil-water-advisory/BNRXZBQLNVEIJAVJHBTJG4LZM4/",
-      "published_at": "2026-11-14T21:00:00+00:00",
+      "id": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
+      "domain": "benningtonbanner.com",
+      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
+      "url": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
+      "published_at": "2026-11-20T00:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKI4YHQFNWFDCFM4D6KFSPNBEIM.jpeg?auth=62df8144b5d2478d3e29a965d6ebf33ed3f1d9dbf359f8977815ab085b52587e&smart=true",
+      "thumbnail": "https://image.benningtonbanner.com/5680735.jpg?imageId=5680735&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
       "matched_keywords": [
-        "bottled water"
+        "forever chemicals"
       ],
-      "syndicated_count": 1,
+      "syndicated_count": 2,
       "syndicated_domains": [
-        "kiro7.com"
+        "benningtonbanner.com",
+        "vtdigger.org"
       ],
       "relevance_score": 2,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "wildfire donation drive"
+    },
+    {
+      "id": "https://www.wateronline.com/doc/ewg-tap-water-database-update-reveals-toxic-chemical-contamination-throughout-u-s-0001",
+      "domain": "wateronline.com",
+      "title": "EWG Tap Water Database Update Reveals Toxic Chemical Contamination Throughout US",
+      "url": "https://www.wateronline.com/doc/ewg-tap-water-database-update-reveals-toxic-chemical-contamination-throughout-u-s-0001",
+      "published_at": "2026-11-19T23:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "chromium 6",
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wateronline.com"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "crisis",
+      "notable": false,
+      "classification_reason": "typhoon recovery, not drinking water focused"
+    },
+    {
+      "id": "https://sunset.com/lifestyle/shopping/wellness-gifts",
+      "domain": "sunset.com",
+      "title": "The Wellness Gifts That Will Optimize Your Whole Life \u2013 Sunset Magazine",
+      "url": "https://sunset.com/lifestyle/shopping/wellness-gifts",
+      "published_at": "2026-11-21T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://sunset.com/wp-content/uploads/2026/11/yoga-mat-workout-gear-pc-mrs-getty.jpg",
+      "matched_keywords": [
+        "microplastics",
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "sunset.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "Georgia wildfire state of emergency, not water quality"
+    },
+    {
+      "id": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
+      "domain": "channel3000.com",
+      "title": "Watertown warns of elevated levels of lead found in tap water",
+      "url": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
+      "published_at": "2026-11-20T21:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/8/12/81220cef-1315-542b-8c9a-3a9336fd82b4/63be18ac81aba.image.jpg?crop=1024%2C538%2C0%2C19",
+      "matched_keywords": [
+        "bottled water",
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "channel3000.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "Navy divers recovering Orion space capsule"
     },
     {
       "id": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
@@ -279,6 +583,7 @@
       "source_country": "United States",
       "thumbnail": "https://img.chemie.de/Portal/News/6afea01e266e0_Vu0jckalf.jpg?tr=w-1279,h-959,cm-extract,x-76,y-0:n-xzoom",
       "matched_keywords": [
+        "forever chemicals",
         "reverse osmosis"
       ],
       "syndicated_count": 1,
@@ -288,7 +593,7 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "Georgia wildfire state of emergency, not water quality"
+      "classification_reason": "wildfire evacuation advice"
     },
     {
       "id": "https://theonion.com/threat-of-tech-failures-prompts-americans-to-stockpile-food-water/",
@@ -309,7 +614,28 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "Navy divers recovering Orion space capsule"
+      "classification_reason": "Reckitt earnings report"
+    },
+    {
+      "id": "https://www.wyff4.com/article/spartanburg-school-districts-elearning-boil-water-advisory/74482847",
+      "domain": "wyff4.com",
+      "title": "Spartanburg school districts announce more eLearning as boil water advisory continues",
+      "url": "https://www.wyff4.com/article/spartanburg-school-districts-elearning-boil-water-advisory/74482847",
+      "published_at": "2026-11-20T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/school-desk-1537796159.jpg?crop=1.00xw%3A0.753xh%3B0%2C0",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wyff4.com"
+      ],
+      "relevance_score": 1,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "football transfer commentary"
     },
     {
       "id": "https://www.wyff4.com/article/spartanburg-water-boil-advisory-saturday/74480896",
@@ -330,52 +656,52 @@
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "wildfire evacuation advice"
+      "classification_reason": "hollywood celebrity roundup"
     },
     {
-      "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
-      "domain": "mariettatimes.com",
-      "title": "Local Events - Marietta Times",
-      "url": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
-      "published_at": "2026-11-16T08:15:00+00:00",
+      "id": "https://www.latimes.com/business/story/2026-11-19/walmart-raises-outlook-as-wealthier-shoppers-hunt-for-deals",
+      "domain": "latimes.com",
+      "title": "Walmart raises outlook as wealthier shoppers hunt for deals",
+      "url": "https://www.latimes.com/business/story/2026-11-19/walmart-raises-outlook-as-wealthier-shoppers-hunt-for-deals",
+      "published_at": "2026-11-19T19:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://california-times-brightspot.s3.amazonaws.com/8c/96/2ea70464784260bbaed562975f65/1x-1.jpg",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "mariettatimes.com"
+        "latimes.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "Reckitt earnings report"
+      "classification_reason": "maple syrup farm expansion"
     },
     {
-      "id": "https://www.orlandosentinel.com/2026/11/13/wildfires-contaminate-drinking-water-supply/",
-      "domain": "orlandosentinel.com",
-      "title": "US water supplies are threatened by bigger , more frequent wildfires",
-      "url": "https://www.orlandosentinel.com/2026/11/13/wildfires-contaminate-drinking-water-supply/",
-      "published_at": "2026-11-13T18:00:00+00:00",
+      "id": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+      "domain": "wral.com",
+      "title": "Prince William presents Earthshot Prize winners with $1 . 3M each in Mumbai :: WRAL . com",
+      "url": "https://www.wral.com/news/ap/ca7f0-prince-william-s-presents-earthshot-prize-winners-with-1-3m-each-in-mumbai/",
+      "published_at": "2026-11-18T01:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.orlandosentinel.com/wp-content/uploads/2026/11/Wildfires_Drinking_Water_51416-1.jpg",
+      "thumbnail": "https://images.wral.com/46c3e479-660d-54b9-9128-fa1ebf4eaa8a",
       "matched_keywords": [
-        "bottled water"
+        "forever chemicals"
       ],
       "syndicated_count": 2,
       "syndicated_domains": [
-        "orlandosentinel.com",
-        "record-bee.com"
+        "ksat.com",
+        "wral.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "football transfer commentary"
+      "classification_reason": "keyword token appears but article off-topic"
     }
   ],
-  "classified_at": "2026-11-20T17:57:13+00:00",
+  "classified_at": "2026-11-21T16:44:16+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
