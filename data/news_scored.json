@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-21T16:44:16+00:00",
+  "refreshed_at": "2026-11-22T16:56:39+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -31,12 +31,77 @@
     "well water testing": 0,
     "hard water": 3,
     "bottled water": 15,
-    "water filter": 2,
+    "water filter": 0,
     "reverse osmosis": 5,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.wjhg.com/2026/11/20/precautionary-boil-water-notice-issued-dog-hobble-lane/",
+      "domain": "wjhg.com",
+      "title": "Precautionary boil water notice issued for Dog Hobble Lane",
+      "url": "https://www.wjhg.com/2026/11/20/precautionary-boil-water-notice-issued-dog-hobble-lane/",
+      "published_at": "2026-11-20T21:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-wjhg-prod.gtv-cdn.com/resizer/v2/UEVDX5CQ3BAR3GSIOIKOYULPNQ.jpg?auth=306cea6df245be4d98ecf366117a1cfedfb18c876366400cf710879a4ec8988a&smart=false&focal=456%2C318",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wjhg.com"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "crisis",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
+      "domain": "benningtonbanner.com",
+      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
+      "url": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
+      "published_at": "2026-11-20T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://image.benningtonbanner.com/5680735.jpg?imageId=5680735&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "benningtonbanner.com",
+        "vtdigger.org"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "crisis",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
+    {
+      "id": "https://www.wateronline.com/doc/ewg-tap-water-database-update-reveals-toxic-chemical-contamination-throughout-u-s-0001",
+      "domain": "wateronline.com",
+      "title": "EWG Tap Water Database Update Reveals Toxic Chemical Contamination Throughout US",
+      "url": "https://www.wateronline.com/doc/ewg-tap-water-database-update-reveals-toxic-chemical-contamination-throughout-u-s-0001",
+      "published_at": "2026-11-19T23:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "chromium 6",
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wateronline.com"
+      ],
+      "relevance_score": 9,
+      "primary_angle": "crisis",
+      "notable": true,
+      "classification_reason": "direct water-quality / regulatory / crisis coverage"
+    },
     {
       "id": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
       "domain": "dominicanrepublicpost.com",
@@ -52,27 +117,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "dominicanrepublicpost.com"
-      ],
-      "relevance_score": 9,
-      "primary_angle": "crisis",
-      "notable": true,
-      "classification_reason": "direct water-quality / regulatory / crisis coverage"
-    },
-    {
-      "id": "https://www.kiro7.com/news/local/ocean-shores-residents-navigating-state-emergency-boil-water-advisory/BNRXZBQLNVEIJAVJHBTJG4LZM4/",
-      "domain": "kiro7.com",
-      "title": "Ocean Shores residents navigating state of emergency and boil water advisory",
-      "url": "https://www.kiro7.com/news/local/ocean-shores-residents-navigating-state-emergency-boil-water-advisory/BNRXZBQLNVEIJAVJHBTJG4LZM4/",
-      "published_at": "2026-11-14T21:00:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FKI4YHQFNWFDCFM4D6KFSPNBEIM.jpeg?auth=62df8144b5d2478d3e29a965d6ebf33ed3f1d9dbf359f8977815ab085b52587e&smart=true",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "kiro7.com"
       ],
       "relevance_score": 9,
       "primary_angle": "crisis",
@@ -101,21 +145,42 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
-      "domain": "portcitydaily.com",
-      "title": "County uses $5M from Chemour settlement on tap fees for PFAS - contaminated wells",
-      "url": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
-      "published_at": "2026-11-20T21:45:00+00:00",
+      "id": "https://sunset.com/lifestyle/shopping/wellness-gifts",
+      "domain": "sunset.com",
+      "title": "The Wellness Gifts That Will Optimize Your Whole Life \u2013 Sunset Magazine",
+      "url": "https://sunset.com/lifestyle/shopping/wellness-gifts",
+      "published_at": "2026-11-21T00:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://d2m9t6p6qpk0cr.cloudfront.net/wp-content/uploads/2023/03/waterfaucet.jpg",
+      "thumbnail": "https://sunset.com/wp-content/uploads/2026/11/yoga-mat-workout-gear-pc-mrs-getty.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "sunset.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
+      "id": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
+      "domain": "chemeurope.com",
+      "title": "Constructed wetland treatment plant against \u00bb forever chemicals \u00ab ",
+      "url": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
+      "published_at": "2026-11-20T06:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://img.chemie.de/Portal/News/6afea01e266e0_Vu0jckalf.jpg?tr=w-1279,h-959,cm-extract,x-76,y-0:n-xzoom",
       "matched_keywords": [
         "forever chemicals",
         "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "portcitydaily.com"
+        "chemeurope.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -123,65 +188,21 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.wcpo.com/us-news/walmart-shoppers-stock-up-on-water-propane-amid-recent-disruptions",
-      "domain": "wcpo.com",
-      "title": "Walmart shoppers stock up on water , propane amid recent disruptions",
-      "url": "https://www.wcpo.com/us-news/walmart-shoppers-stock-up-on-water-propane-amid-recent-disruptions",
-      "published_at": "2026-11-20T21:45:00+00:00",
+      "id": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
+      "domain": "ojaivalleynews.com",
+      "title": "City approves increasing VenturaWaterPure contracts",
+      "url": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
+      "published_at": "2026-11-20T03:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://ewscripps.brightspotcdn.com/d8/be/283e49194b48b751fca339467b92/ap24121461117217.jpg",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/b/bc/bbccaa67-4bca-40d3-9c88-e5e2f5e76f36/6aff91b46f373.image.jpg?crop=1762%2C925%2C0%2C125",
       "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 4,
-      "syndicated_domains": [
-        "kxlf.com",
-        "kxxv.com",
-        "lex18.com",
-        "wcpo.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
-      "domain": "b93.net",
-      "title": "Where to Get a Free Thanksgiving Meal in El Paso and Las Cruces",
-      "url": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
-      "published_at": "2026-11-20T04:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://townsquare.media/site/63/files/2026/11/attachment-gettyimages-1804523528.jpg?&format=natural",
-      "matched_keywords": [
-        "bottled water"
+        "forever chemicals",
+        "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "b93.net"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
-      "domain": "wgcu.org",
-      "title": "FGCU Academic Building 9 officially named Margaret Antonier Hall | WGCU News",
-      "url": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
-      "published_at": "2026-11-20T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/2f/1c/b3ae88e8400eaf7af28f09d2cc8d/dsc5806.JPG",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wgcu.org"
+        "ojaivalleynews.com"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -225,27 +246,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "prnewswire.com"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
-      "id": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
-      "domain": "spokesman.com",
-      "title": "Walmart says US shoppers stocked up after tech outages",
-      "url": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
-      "published_at": "2026-11-19T23:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://thumb.spokesman.com/bsEZw7DfUA7c860f5qaiApIiVzU=/2400x1260/smart/media.spokesman.com/photos/2026/11/19/6aff4d92514c9.image.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "spokesman.com"
       ],
       "relevance_score": 4,
       "primary_angle": "lifestyle",
@@ -316,27 +316,6 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
-      "domain": "ecoportal.net",
-      "title": "A plant on the Atlantic City shoreline traps 580 million plastic specks a year , and it runs that way full time before its water reaches the ocean",
-      "url": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
-      "published_at": "2026-11-18T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/plant-atlantic-city-shoreline-traps-580-photo.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ecoportal.net"
-      ],
-      "relevance_score": 4,
-      "primary_angle": "tangential",
-      "notable": false,
-      "classification_reason": "keyword appears, relevance unclear"
-    },
-    {
       "id": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
       "domain": "ksat.com",
       "title": "FEMA emergency drill , new nationwide outages add to doomsday fears for some people",
@@ -358,20 +337,20 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
-      "id": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
-      "domain": "wowo.com",
-      "title": "Study links common PFAS chemicals to higher rates of aggressive breast cancer",
-      "url": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
-      "published_at": "2026-11-16T08:15:00+00:00",
+      "id": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
+      "domain": "ecoportal.net",
+      "title": "A plant on the Atlantic City shoreline traps 580 million plastic specks a year , and it runs that way full time before its water reaches the ocean",
+      "url": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
+      "published_at": "2026-11-18T01:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://wowo.com/wp-content/uploads/2026/11/sedjj4dmc9s.jpg",
+      "thumbnail": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/plant-atlantic-city-shoreline-traps-580-photo.jpg",
       "matched_keywords": [
-        "forever chemicals"
+        "microplastics"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "wowo.com"
+        "ecoportal.net"
       ],
       "relevance_score": 4,
       "primary_angle": "tangential",
@@ -400,6 +379,27 @@
       "classification_reason": "keyword appears, relevance unclear"
     },
     {
+      "id": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
+      "domain": "wowo.com",
+      "title": "Study links common PFAS chemicals to higher rates of aggressive breast cancer",
+      "url": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
+      "published_at": "2026-11-16T08:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://wowo.com/wp-content/uploads/2026/11/sedjj4dmc9s.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wowo.com"
+      ],
+      "relevance_score": 4,
+      "primary_angle": "tangential",
+      "notable": false,
+      "classification_reason": "keyword appears, relevance unclear"
+    },
+    {
       "id": "https://www.dailymail.com/lifestyle/food-drink/article-16287551/Forget-baked-beans-TOM-PARKER-BOWLES-shares-foodie-guide-posh-prepping.html",
       "domain": "dailymail.com",
       "title": "Forget baked beans : TOM PARKER BOWLES shares his foodie guide to posh prepping",
@@ -421,25 +421,46 @@
       "classification_reason": "Adopt-a-Beach awareness; tangential"
     },
     {
-      "id": "https://www.wjhg.com/2026/11/20/precautionary-boil-water-notice-issued-dog-hobble-lane/",
-      "domain": "wjhg.com",
-      "title": "Precautionary boil water notice issued for Dog Hobble Lane",
-      "url": "https://www.wjhg.com/2026/11/20/precautionary-boil-water-notice-issued-dog-hobble-lane/",
+      "id": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
+      "domain": "channel3000.com",
+      "title": "Watertown warns of elevated levels of lead found in tap water",
+      "url": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
       "published_at": "2026-11-20T21:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://gray-wjhg-prod.gtv-cdn.com/resizer/v2/UEVDX5CQ3BAR3GSIOIKOYULPNQ.jpg?auth=306cea6df245be4d98ecf366117a1cfedfb18c876366400cf710879a4ec8988a&smart=false&focal=456%2C318",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/8/12/81220cef-1315-542b-8c9a-3a9336fd82b4/63be18ac81aba.image.jpg?crop=1024%2C538%2C0%2C19",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "wjhg.com"
+        "channel3000.com"
       ],
       "relevance_score": 2,
       "primary_angle": "noise",
       "notable": false,
       "classification_reason": "wildfire community response, not water"
+    },
+    {
+      "id": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
+      "domain": "b93.net",
+      "title": "Where to Get a Free Thanksgiving Meal in El Paso and Las Cruces",
+      "url": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
+      "published_at": "2026-11-20T04:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://townsquare.media/site/63/files/2026/11/attachment-gettyimages-1804523528.jpg?&format=natural",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "b93.net"
+      ],
+      "relevance_score": 2,
+      "primary_angle": "noise",
+      "notable": false,
+      "classification_reason": "PR/brand launch, not news"
     },
     {
       "id": "https://www.abc15.com/news/conserving-water-in-backyard-pools-with-reverse-osmosis",
@@ -461,46 +482,23 @@
       "relevance_score": 2,
       "primary_angle": "noise",
       "notable": false,
-      "classification_reason": "PR/brand launch, not news"
-    },
-    {
-      "id": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
-      "domain": "ojaivalleynews.com",
-      "title": "City approves increasing VenturaWaterPure contracts",
-      "url": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
-      "published_at": "2026-11-20T03:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/b/bc/bbccaa67-4bca-40d3-9c88-e5e2f5e76f36/6aff91b46f373.image.jpg?crop=1762%2C925%2C0%2C125",
-      "matched_keywords": [
-        "forever chemicals",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ojaivalleynews.com"
-      ],
-      "relevance_score": 2,
-      "primary_angle": "noise",
-      "notable": false,
       "classification_reason": "wildfire relief effort"
     },
     {
-      "id": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
-      "domain": "benningtonbanner.com",
-      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
-      "url": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
-      "published_at": "2026-11-20T00:45:00+00:00",
+      "id": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
+      "domain": "wgcu.org",
+      "title": "FGCU Academic Building 9 officially named Margaret Antonier Hall | WGCU News",
+      "url": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
+      "published_at": "2026-11-20T01:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://image.benningtonbanner.com/5680735.jpg?imageId=5680735&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "thumbnail": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/2f/1c/b3ae88e8400eaf7af28f09d2cc8d/dsc5806.JPG",
       "matched_keywords": [
-        "forever chemicals"
+        "microplastics"
       ],
-      "syndicated_count": 2,
+      "syndicated_count": 1,
       "syndicated_domains": [
-        "benningtonbanner.com",
-        "vtdigger.org"
+        "wgcu.org"
       ],
       "relevance_score": 2,
       "primary_angle": "noise",
@@ -508,21 +506,20 @@
       "classification_reason": "wildfire donation drive"
     },
     {
-      "id": "https://www.wateronline.com/doc/ewg-tap-water-database-update-reveals-toxic-chemical-contamination-throughout-u-s-0001",
-      "domain": "wateronline.com",
-      "title": "EWG Tap Water Database Update Reveals Toxic Chemical Contamination Throughout US",
-      "url": "https://www.wateronline.com/doc/ewg-tap-water-database-update-reveals-toxic-chemical-contamination-throughout-u-s-0001",
-      "published_at": "2026-11-19T23:30:00+00:00",
+      "id": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
+      "domain": "spokesman.com",
+      "title": "Walmart says US shoppers stocked up after tech outages",
+      "url": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
+      "published_at": "2026-11-19T23:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://thumb.spokesman.com/bsEZw7DfUA7c860f5qaiApIiVzU=/2400x1260/smart/media.spokesman.com/photos/2026/11/19/6aff4d92514c9.image.jpg",
       "matched_keywords": [
-        "chromium 6",
-        "forever chemicals"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "wateronline.com"
+        "spokesman.com"
       ],
       "relevance_score": 2,
       "primary_angle": "crisis",
@@ -530,21 +527,20 @@
       "classification_reason": "typhoon recovery, not drinking water focused"
     },
     {
-      "id": "https://sunset.com/lifestyle/shopping/wellness-gifts",
-      "domain": "sunset.com",
-      "title": "The Wellness Gifts That Will Optimize Your Whole Life \u2013 Sunset Magazine",
-      "url": "https://sunset.com/lifestyle/shopping/wellness-gifts",
-      "published_at": "2026-11-21T00:30:00+00:00",
+      "id": "https://ctmirror.org/2026/11/22/ct-shutter-osborn-correctional-prison/",
+      "domain": "ctmirror.org",
+      "title": "Calls mount to shutter one of CT oldest prisons",
+      "url": "https://ctmirror.org/2026/11/22/ct-shutter-osborn-correctional-prison/",
+      "published_at": "2026-11-22T11:30:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://sunset.com/wp-content/uploads/2026/11/yoga-mat-workout-gear-pc-mrs-getty.jpg",
+      "thumbnail": "https://ctmirror.org/wp-content/uploads/2025/12/2025_1218_SR_PrisonWater_021.jpg",
       "matched_keywords": [
-        "microplastics",
-        "water filter"
+        "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "sunset.com"
+        "ctmirror.org"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -552,21 +548,23 @@
       "classification_reason": "Georgia wildfire state of emergency, not water quality"
     },
     {
-      "id": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
-      "domain": "channel3000.com",
-      "title": "Watertown warns of elevated levels of lead found in tap water",
-      "url": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
+      "id": "https://www.wcpo.com/us-news/walmart-shoppers-stock-up-on-water-propane-amid-recent-disruptions",
+      "domain": "wcpo.com",
+      "title": "Walmart shoppers stock up on water , propane amid recent disruptions",
+      "url": "https://www.wcpo.com/us-news/walmart-shoppers-stock-up-on-water-propane-amid-recent-disruptions",
       "published_at": "2026-11-20T21:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/8/12/81220cef-1315-542b-8c9a-3a9336fd82b4/63be18ac81aba.image.jpg?crop=1024%2C538%2C0%2C19",
+      "thumbnail": "https://ewscripps.brightspotcdn.com/d8/be/283e49194b48b751fca339467b92/ap24121461117217.jpg",
       "matched_keywords": [
-        "bottled water",
-        "water filter"
+        "bottled water"
       ],
-      "syndicated_count": 1,
+      "syndicated_count": 4,
       "syndicated_domains": [
-        "channel3000.com"
+        "kxlf.com",
+        "kxxv.com",
+        "lex18.com",
+        "wcpo.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -574,21 +572,21 @@
       "classification_reason": "Navy divers recovering Orion space capsule"
     },
     {
-      "id": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
-      "domain": "chemeurope.com",
-      "title": "Constructed wetland treatment plant against \u00bb forever chemicals \u00ab ",
-      "url": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
-      "published_at": "2026-11-20T06:45:00+00:00",
+      "id": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
+      "domain": "portcitydaily.com",
+      "title": "County uses $5M from Chemour settlement on tap fees for PFAS - contaminated wells",
+      "url": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
+      "published_at": "2026-11-20T21:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://img.chemie.de/Portal/News/6afea01e266e0_Vu0jckalf.jpg?tr=w-1279,h-959,cm-extract,x-76,y-0:n-xzoom",
+      "thumbnail": "https://d2m9t6p6qpk0cr.cloudfront.net/wp-content/uploads/2023/03/waterfaucet.jpg",
       "matched_keywords": [
         "forever chemicals",
         "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "chemeurope.com"
+        "portcitydaily.com"
       ],
       "relevance_score": 1,
       "primary_angle": "noise",
@@ -702,6 +700,6 @@
       "classification_reason": "keyword token appears but article off-topic"
     }
   ],
-  "classified_at": "2026-11-21T16:44:16+00:00",
+  "classified_at": "2026-11-22T16:56:39+00:00",
   "classifier": "pattern-1 manual (rules + overrides)"
 }
