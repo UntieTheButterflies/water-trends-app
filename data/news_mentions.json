@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-22T16:56:39+00:00",
+  "refreshed_at": "2026-11-23T21:04:29+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -21,22 +21,75 @@
   "total_unique_mentions": 31,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 9,
+    "forever chemicals": 8,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
-    "microplastics": 3,
+    "microplastics": 0,
     "fluoride in water": 0,
     "chromium 6": 1,
     "well water testing": 0,
     "hard water": 3,
-    "bottled water": 15,
-    "water filter": 0,
+    "bottled water": 17,
+    "water filter": 3,
     "reverse osmosis": 5,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.wsbtv.com/news/local/scam-warning-issued-fake-north-georgia-fire-fundraisers/NIXQ6UJCERCWXEMSBPTAD7UJW4/",
+      "domain": "wsbtv.com",
+      "title": "Scam warning issued for fake North Georgia fire fundraisers",
+      "url": "https://www.wsbtv.com/news/local/scam-warning-issued-fake-north-georgia-fire-fundraisers/NIXQ6UJCERCWXEMSBPTAD7UJW4/",
+      "published_at": "2026-11-23T03:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FTMEMGU37M5FXHGLTUQWROVRX2M.jpeg?auth=3f002a12d59f1edf30457311377f98d08c260b0e5f80024cb596e875cd6c3d49&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wsbtv.com"
+      ]
+    },
+    {
+      "id": "https://www.fox5atlanta.com/news/red-cross-closes-ellijay-shelter-fire-help-remains-open",
+      "domain": "fox5atlanta.com",
+      "title": "Gilmer County officials warn scammers are using fire photos to steal donations",
+      "url": "https://www.fox5atlanta.com/news/red-cross-closes-ellijay-shelter-fire-help-remains-open",
+      "published_at": "2026-11-22T22:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2026/11/1280/720/f6fa5009-ellijay-rv-fire-aerials-wagame001_mxf_00.02.17.24.jpg?ve=1&tl=1",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "fox5atlanta.com"
+      ]
+    },
+    {
+      "id": "https://www.pasadenastarnews.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
+      "domain": "pasadenastarnews.com",
+      "title": "Ahead of Thanksgiving , Southern Californians feel pinch of high food prices",
+      "url": "https://www.pasadenastarnews.com/2026/11/22/ahead-of-thanksgiving-southern-californians-feel-pinch-of-high-food-prices/",
+      "published_at": "2026-11-22T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.pasadenastarnews.com/wp-content/uploads/2026/11/OCR-L-THANKSGIVING-COSTS17-1122-01.jpeg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 3,
+      "syndicated_domains": [
+        "pasadenastarnews.com",
+        "presstelegram.com",
+        "sgvtribune.com"
+      ]
+    },
     {
       "id": "https://ctmirror.org/2026/11/22/ct-shutter-osborn-correctional-prison/",
       "domain": "ctmirror.org",
@@ -52,6 +105,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "ctmirror.org"
+      ]
+    },
+    {
+      "id": "https://www.makeuseof.com/home-assistant-integrations-track-printer-filaments-vacuum/",
+      "domain": "makeuseof.com",
+      "title": "These Home Assistant integrations track printer ink , filaments , vacuum brushes , and filters for me",
+      "url": "https://www.makeuseof.com/home-assistant-integrations-track-printer-filaments-vacuum/",
+      "published_at": "2026-11-21T20:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/home-assistant-maintainence-dashboard.JPG?&fit=crop",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "makeuseof.com"
       ]
     },
     {
@@ -98,11 +168,29 @@
       "source_country": "United States",
       "thumbnail": "https://sunset.com/wp-content/uploads/2026/11/yoga-mat-workout-gear-pc-mrs-getty.jpg",
       "matched_keywords": [
-        "microplastics"
+        "water filter"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "sunset.com"
+      ]
+    },
+    {
+      "id": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
+      "domain": "portcitydaily.com",
+      "title": "County uses $5M from Chemour settlement on tap fees for PFAS - contaminated wells",
+      "url": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
+      "published_at": "2026-11-20T21:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://d2m9t6p6qpk0cr.cloudfront.net/wp-content/uploads/2023/03/waterfaucet.jpg",
+      "matched_keywords": [
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "portcitydaily.com"
       ]
     },
     {
@@ -152,29 +240,12 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/8/12/81220cef-1315-542b-8c9a-3a9336fd82b4/63be18ac81aba.image.jpg?crop=1024%2C538%2C0%2C19",
       "matched_keywords": [
-        "bottled water"
+        "bottled water",
+        "water filter"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "channel3000.com"
-      ]
-    },
-    {
-      "id": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
-      "domain": "portcitydaily.com",
-      "title": "County uses $5M from Chemour settlement on tap fees for PFAS - contaminated wells",
-      "url": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
-      "published_at": "2026-11-20T21:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://d2m9t6p6qpk0cr.cloudfront.net/wp-content/uploads/2023/03/waterfaucet.jpg",
-      "matched_keywords": [
-        "forever chemicals",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "portcitydaily.com"
       ]
     },
     {
@@ -266,20 +337,21 @@
       ]
     },
     {
-      "id": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
-      "domain": "wgcu.org",
-      "title": "FGCU Academic Building 9 officially named Margaret Antonier Hall | WGCU News",
-      "url": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
-      "published_at": "2026-11-20T01:15:00+00:00",
+      "id": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
+      "domain": "benningtonbanner.com",
+      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
+      "url": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
+      "published_at": "2026-11-20T00:45:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/2f/1c/b3ae88e8400eaf7af28f09d2cc8d/dsc5806.JPG",
+      "thumbnail": "https://image.benningtonbanner.com/5680735.jpg?imageId=5680735&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
       "matched_keywords": [
-        "microplastics"
+        "forever chemicals"
       ],
-      "syndicated_count": 1,
+      "syndicated_count": 2,
       "syndicated_domains": [
-        "wgcu.org"
+        "benningtonbanner.com",
+        "vtdigger.org"
       ]
     },
     {
@@ -332,24 +404,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wyff4.com"
-      ]
-    },
-    {
-      "id": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
-      "domain": "benningtonbanner.com",
-      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
-      "url": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
-      "published_at": "2026-11-20T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://image.benningtonbanner.com/5680735.jpg?imageId=5680735&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "benningtonbanner.com",
-        "vtdigger.org"
       ]
     },
     {
@@ -422,6 +476,23 @@
       ]
     },
     {
+      "id": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
+      "domain": "gpb.org",
+      "title": "Georgia Water Coalition releases its 14th  Dirty Dozen  report for 2026",
+      "url": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
+      "published_at": "2026-11-19T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/2024-06/phenix_city_outfall_chattahoochee_riverkeeper_6-4-24.jpg?bdec&itok=8a9MbPo2",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "gpb.org"
+      ]
+    },
+    {
       "id": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
       "domain": "dominicanrepublicpost.com",
       "title": "Yemen besieged city of Taiz faces a deepening water crisis - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
@@ -456,23 +527,6 @@
       ]
     },
     {
-      "id": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
-      "domain": "gpb.org",
-      "title": "Georgia Water Coalition releases its 14th  Dirty Dozen  report for 2026",
-      "url": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
-      "published_at": "2026-11-19T19:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/2024-06/phenix_city_outfall_chattahoochee_riverkeeper_6-4-24.jpg?bdec&itok=8a9MbPo2",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "gpb.org"
-      ]
-    },
-    {
       "id": "https://targetednews.com/pr_disp.php?pr_id=9851182",
       "domain": "targetednews.com",
       "title": "Targeted News Service",
@@ -487,23 +541,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "targetednews.com"
-      ]
-    },
-    {
-      "id": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
-      "domain": "ksat.com",
-      "title": "FEMA emergency drill , new nationwide outages add to doomsday fears for some people",
-      "url": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
-      "published_at": "2026-11-18T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/ksat/ed67ad15-0c76-47cf-a3c7-ed4c33d94fd5/image.jpg?api_key=ksat_9a37fc89631abedf",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ksat.com"
       ]
     },
     {
@@ -525,54 +562,20 @@
       ]
     },
     {
-      "id": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
-      "domain": "ecoportal.net",
-      "title": "A plant on the Atlantic City shoreline traps 580 million plastic specks a year , and it runs that way full time before its water reaches the ocean",
-      "url": "https://www.ecoportal.net/en/plant-atlantic-city-shoreline-traps-580/46614/",
+      "id": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
+      "domain": "ksat.com",
+      "title": "FEMA emergency drill , new nationwide outages add to doomsday fears for some people",
+      "url": "https://www.ksat.com/news/local/2026/11/17/fema-emergency-drill-new-nationwide-outages-add-to-doomsday-fears-for-some-people/",
       "published_at": "2026-11-18T01:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.ecoportal.net/en/wp-content/uploads/2026/11/plant-atlantic-city-shoreline-traps-580-photo.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ecoportal.net"
-      ]
-    },
-    {
-      "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
-      "domain": "mariettatimes.com",
-      "title": "Local Events - Marietta Times",
-      "url": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-523/",
-      "published_at": "2026-11-16T08:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
+      "thumbnail": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/ksat/ed67ad15-0c76-47cf-a3c7-ed4c33d94fd5/image.jpg?api_key=ksat_9a37fc89631abedf",
       "matched_keywords": [
         "bottled water"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "mariettatimes.com"
-      ]
-    },
-    {
-      "id": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
-      "domain": "wowo.com",
-      "title": "Study links common PFAS chemicals to higher rates of aggressive breast cancer",
-      "url": "https://wowo.com/study-links-common-pfas-chemicals-to-higher-rates-of-aggressive-breast-cancer/",
-      "published_at": "2026-11-16T08:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wowo.com/wp-content/uploads/2026/11/sedjj4dmc9s.jpg",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wowo.com"
+        "ksat.com"
       ]
     }
   ]
