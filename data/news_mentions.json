@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-23T21:04:29+00:00",
+  "refreshed_at": "2026-11-24T20:12:41+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,25 +18,311 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 31,
+  "total_unique_mentions": 45,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 8,
+    "forever chemicals": 10,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 0,
     "microplastics": 0,
     "fluoride in water": 0,
-    "chromium 6": 1,
+    "chromium 6": 0,
     "well water testing": 0,
     "hard water": 3,
-    "bottled water": 17,
+    "bottled water": 30,
     "water filter": 3,
-    "reverse osmosis": 5,
+    "reverse osmosis": 6,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.salemnews.net/news/local-news/2026/11/shsaa-continues-supporting-student-development/",
+      "domain": "salemnews.net",
+      "title": "SHSAA continues supporting student development",
+      "url": "https://www.salemnews.net/news/local-news/2026/11/shsaa-continues-supporting-student-development/",
+      "published_at": "2026-11-24T07:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://ogden_images.s3.amazonaws.com/www.salemnews.net/images/2026/11/23201930/11-24-SHSAA-Career-Day-26.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "salemnews.net"
+      ]
+    },
+    {
+      "id": "https://www.coloradohometownweekly.com/2026/11/02/extreme-weather-southwest-flooding/",
+      "domain": "coloradohometownweekly.com",
+      "title": "Rain clears but flood risk remains high after storms swamp Southwest",
+      "url": "https://www.coloradohometownweekly.com/2026/11/02/extreme-weather-southwest-flooding/",
+      "published_at": "2026-11-24T07:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.coloradohometownweekly.com/wp-content/uploads/2026/11/AP26306805663701.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "coloradohometownweekly.com"
+      ]
+    },
+    {
+      "id": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-529/",
+      "domain": "mariettatimes.com",
+      "title": "Local Events - Marietta Times",
+      "url": "https://www.mariettatimes.com/news/local-news/2026/11/local-events-529/",
+      "published_at": "2026-11-24T07:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "mariettatimes.com"
+      ]
+    },
+    {
+      "id": "https://www.ksby.com/san-luis-obispo/more-than-500-san-luis-obispo-homes-under-do-not-drink-notice-following-possible-water-tank-tampering",
+      "domain": "ksby.com",
+      "title": "More than 500 San Luis Obispo homes under do - not - drink notice",
+      "url": "https://www.ksby.com/san-luis-obispo/more-than-500-san-luis-obispo-homes-under-do-not-drink-notice-following-possible-water-tank-tampering",
+      "published_at": "2026-11-24T07:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/a3/54/6601b7b746e586bcadaf945bd4d4/water-bottle-pick-up.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ksby.com"
+      ]
+    },
+    {
+      "id": "https://krcrtv.com/news/local/orland-unveils-1-million-gallon-water-tank-in-167m-upgrade-adding-8-miles-of-mains",
+      "domain": "krcrtv.com",
+      "title": "Redding Chico Eureka",
+      "url": "https://krcrtv.com/news/local/orland-unveils-1-million-gallon-water-tank-in-167m-upgrade-adding-8-miles-of-mains",
+      "published_at": "2026-11-24T06:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://krcrtv.com/resources/media2/16x9/1582/1320/3x0/90/0b5f2ba8-5b33-429d-a9fd-193e4fa2eed7-Screenshot20261123180301.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "krcrtv.com"
+      ]
+    },
+    {
+      "id": "https://www.kait8.com/sponsored/ct-towing/summer-road-trip-safety-how-prepare-your-vehicle-before-you-hit-road/",
+      "domain": "kait8.com",
+      "title": "Summer Road Trip Safety : How to Prepare Your Vehicle Before You Hit the Road",
+      "url": "https://www.kait8.com/sponsored/ct-towing/summer-road-trip-safety-how-prepare-your-vehicle-before-you-hit-road/",
+      "published_at": "2026-11-24T06:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-kait-prod.gtv-cdn.com/resizer/v2/JOSESKYFDVFMPCIRHU6AJ7SK7I.png?auth=08838f2d65cc506265e1150539f0e4e9f710503d94bcf6c6e570254d36d37703&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kait8.com"
+      ]
+    },
+    {
+      "id": "http://www.thegazette.com/mt-pleasant/news/middletown-residents-prepare-for-detonations-delayed-again/article_4f73edc2-b263-52a6-b01c-e2130d83d8ed.html",
+      "domain": "thegazette.com",
+      "title": "Middletown residents prepare for detonations , delayed again",
+      "url": "http://www.thegazette.com/mt-pleasant/news/middletown-residents-prepare-for-detonations-delayed-again/article_4f73edc2-b263-52a6-b01c-e2130d83d8ed.html",
+      "published_at": "2026-11-24T05:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.chicago2.vip.townnews.com/thegazette.com/content/tncms/assets/v3/editorial/4/f7/4f73edc2-b263-52a6-b01c-e2130d83d8ed/6b009975cb449.preview.jpg?crop=1955%2C1026%2C0%2C16",
+      "matched_keywords": [
+        "bottled water",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "thegazette.com"
+      ]
+    },
+    {
+      "id": "https://www.dailymail.com/lifestyle/article-16316617/Uber-Elite-Australia-Sydney-Melbourne-luxury.html",
+      "domain": "dailymail.com",
+      "title": "Uber Elite is here : A luxury  invite - only  feature has just arrived in Australia after huge success in LA and NYC",
+      "url": "https://www.dailymail.com/lifestyle/article-16316617/Uber-Elite-Australia-Sydney-Melbourne-luxury.html",
+      "published_at": "2026-11-24T02:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i.dailymail.com/1s/2026/11/23/23/112686571-0-image-a-5_1795476572053.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dailymail.com"
+      ]
+    },
+    {
+      "id": "http://www.liherald.com/stories/we-cant-afford-to-gamble-with-our-water,226801",
+      "domain": "liherald.com",
+      "title": "We cant afford to gamble with our water | Herald Community Newspapers",
+      "url": "http://www.liherald.com/stories/we-cant-afford-to-gamble-with-our-water,226801",
+      "published_at": "2026-11-24T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water",
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "liherald.com"
+      ]
+    },
+    {
+      "id": "http://www.zerohedge.com/medical/dont-even-boil-it-california-city-warns-residents-not-drink-tap-water-after-sinister-tank",
+      "domain": "zerohedge.com",
+      "title": "Dont Even Boil It : California City Warns Residents Not To Drink Tap Water After Suspicious Tank  Tampering  Alarm",
+      "url": "http://www.zerohedge.com/medical/dont-even-boil-it-california-city-warns-residents-not-drink-tap-water-after-sinister-tank",
+      "published_at": "2026-11-24T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://cms.zerohedge.com/sites/default/files/styles/16_9_max_700/public/2026-11/55309489-4c08-4bae-af6e-46221968392d_80.jpg?itok=TcDv267m",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "zerohedge.com"
+      ]
+    },
+    {
+      "id": "https://newsradiowkcy.iheart.com/content/2026-11-23-fbi-warns-hackers-target-us-water-supply-systems/",
+      "domain": "newsradiowkcy.iheart.com",
+      "title": "FBI Warns Hackers Target U . S . Water Supply Systems | NewsRadio WKCY",
+      "url": "https://newsradiowkcy.iheart.com/content/2026-11-23-fbi-warns-hackers-target-us-water-supply-systems/",
+      "published_at": "2026-11-24T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://i.iheart.com/v3/re/assets.getty/6b04bc0c29752b78fd9be179?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 47,
+      "syndicated_domains": [
+        "1061fmtalk.iheart.com",
+        "1150wima.iheart.com",
+        "1190talkradio.iheart.com",
+        "790waeb.iheart.com",
+        "95wxtk.iheart.com",
+        "970kfbx.iheart.com",
+        "hallelujah955.iheart.com",
+        "kfyi.iheart.com",
+        "kfyr.iheart.com",
+        "khow.iheart.com",
+        "khvhradio.iheart.com",
+        "knrs.iheart.com",
+        "kogo.iheart.com",
+        "kprcradio.iheart.com",
+        "ktsmradio.iheart.com",
+        "kwhn.iheart.com",
+        "kxic.iheart.com",
+        "newsradio1049.iheart.com",
+        "newsradio967.iheart.com",
+        "newsradiori.iheart.com",
+        "newsradiowkcy.iheart.com",
+        "newstalk1130.iheart.com",
+        "newstalk1230.iheart.com",
+        "newstalk1400online.iheart.com",
+        "powertalk1360.iheart.com",
+        "powertalk967.iheart.com",
+        "talkradio1080.iheart.com",
+        "veropatriot.iheart.com",
+        "wbhpam.iheart.com",
+        "wdov.iheart.com",
+        "wgiram.iheart.com",
+        "whyn.iheart.com",
+        "wiba.iheart.com",
+        "wiod.iheart.com",
+        "wlac.iheart.com",
+        "wmeq.iheart.com",
+        "wmmbam.iheart.com",
+        "woc1420.iheart.com",
+        "woodradio.iheart.com",
+        "wrko.iheart.com",
+        "wrno.iheart.com",
+        "wsfcam.iheart.com",
+        "wsyr.iheart.com",
+        "wtag.iheart.com",
+        "wtam.iheart.com",
+        "wtkg.iheart.com",
+        "wvoc.iheart.com"
+      ]
+    },
+    {
+      "id": "https://grenadachronicle.com/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst/",
+      "domain": "grenadachronicle.com",
+      "title": "As tech outages mount , some New Yorkers prepare for the worst - Grenada Chronicle \u2013 Daily Grenada And Caribbean News",
+      "url": "https://grenadachronicle.com/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst/",
+      "published_at": "2026-11-24T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://grenadachronicle.com/app/uploads/2026/11/2019-07-14T011940Z_2110804009_RC1E2C380100_RTRMADP_3_NEW-YORK-OUTAGES-1795385001-Z6DFPc.jpg",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "grenadachronicle.com"
+      ]
+    },
+    {
+      "id": "https://www.progressive-charlestown.com/search?updated-max=2026-11-20T23:54:00-05:00&max-results=15",
+      "domain": "progressive-charlestown.com",
+      "title": "Progressive Charlestown",
+      "url": "https://www.progressive-charlestown.com/search?updated-max=2026-11-20T23:54:00-05:00&max-results=15",
+      "published_at": "2026-11-23T21:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "progressive-charlestown.com"
+      ]
+    },
+    {
+      "id": "https://www.kcbx.org/infrastructure-housing-and-development/2026-11-23/do-not-drink-notice-issued-for-parts-of-san-luis-obispo",
+      "domain": "kcbx.org",
+      "title": "  Do Not Drink  notice issued for parts of San Luis Obispo",
+      "url": "https://www.kcbx.org/infrastructure-housing-and-development/2026-11-23/do-not-drink-notice-issued-for-parts-of-san-luis-obispo",
+      "published_at": "2026-11-23T21:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/81/33/7958097d4731856df80371837d68/do-not-drink-notice-map.png",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "kcbx.org"
+      ]
+    },
     {
       "id": "https://www.wsbtv.com/news/local/scam-warning-issued-fake-north-georgia-fire-fundraisers/NIXQ6UJCERCWXEMSBPTAD7UJW4/",
       "domain": "wsbtv.com",
@@ -125,6 +411,23 @@
       ]
     },
     {
+      "id": "https://sunset.com/lifestyle/shopping/wellness-gifts",
+      "domain": "sunset.com",
+      "title": "The Wellness Gifts That Will Optimize Your Whole Life \u2013 Sunset Magazine",
+      "url": "https://sunset.com/lifestyle/shopping/wellness-gifts",
+      "published_at": "2026-11-21T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://sunset.com/wp-content/uploads/2026/11/yoga-mat-workout-gear-pc-mrs-getty.jpg",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "sunset.com"
+      ]
+    },
+    {
       "id": "https://kfoxtv.com/news/local/el-pasos-jalisco-cafe-to-serve-free-thanksgiving-dinner",
       "domain": "kfoxtv.com",
       "title": "El Paso Jalisco Cafe to serve free Thanksgiving dinner",
@@ -159,23 +462,6 @@
       ]
     },
     {
-      "id": "https://sunset.com/lifestyle/shopping/wellness-gifts",
-      "domain": "sunset.com",
-      "title": "The Wellness Gifts That Will Optimize Your Whole Life \u2013 Sunset Magazine",
-      "url": "https://sunset.com/lifestyle/shopping/wellness-gifts",
-      "published_at": "2026-11-21T00:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://sunset.com/wp-content/uploads/2026/11/yoga-mat-workout-gear-pc-mrs-getty.jpg",
-      "matched_keywords": [
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "sunset.com"
-      ]
-    },
-    {
       "id": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
       "domain": "portcitydaily.com",
       "title": "County uses $5M from Chemour settlement on tap fees for PFAS - contaminated wells",
@@ -191,6 +477,24 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "portcitydaily.com"
+      ]
+    },
+    {
+      "id": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
+      "domain": "channel3000.com",
+      "title": "Watertown warns of elevated levels of lead found in tap water",
+      "url": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
+      "published_at": "2026-11-20T21:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/8/12/81220cef-1315-542b-8c9a-3a9336fd82b4/63be18ac81aba.image.jpg?crop=1024%2C538%2C0%2C19",
+      "matched_keywords": [
+        "bottled water",
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "channel3000.com"
       ]
     },
     {
@@ -228,24 +532,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wjhg.com"
-      ]
-    },
-    {
-      "id": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
-      "domain": "channel3000.com",
-      "title": "Watertown warns of elevated levels of lead found in tap water",
-      "url": "https://www.channel3000.com/news/watertown-warns-of-elevated-levels-of-lead-found-in-tap-water/article_924827fb-2393-4e21-abf3-64d7a92fbe7d.html",
-      "published_at": "2026-11-20T21:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/8/12/81220cef-1315-542b-8c9a-3a9336fd82b4/63be18ac81aba.image.jpg?crop=1024%2C538%2C0%2C19",
-      "matched_keywords": [
-        "bottled water",
-        "water filter"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "channel3000.com"
       ]
     },
     {
@@ -450,7 +736,6 @@
       "source_country": "United States",
       "thumbnail": "",
       "matched_keywords": [
-        "chromium 6",
         "forever chemicals"
       ],
       "syndicated_count": 1,
