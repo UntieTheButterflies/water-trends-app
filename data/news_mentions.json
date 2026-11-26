@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-25T19:34:36+00:00",
+  "refreshed_at": "2026-11-26T19:04:43+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,10 +18,10 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 45,
+  "total_unique_mentions": 65,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 0,
+    "forever chemicals": 14,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 1,
@@ -29,14 +29,31 @@
     "fluoride in water": 0,
     "chromium 6": 1,
     "well water testing": 0,
-    "hard water": 0,
-    "bottled water": 36,
-    "water filter": 0,
-    "reverse osmosis": 0,
+    "hard water": 4,
+    "bottled water": 37,
+    "water filter": 4,
+    "reverse osmosis": 7,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.ky3.com/2026/11/25/warsaw-mo-restaurants-adjust-boil-water-advisory-reaches-eighth-day/",
+      "domain": "ky3.com",
+      "title": "Warsaw , Mo ., restaurants adjust as boil water advisory reaches eighth day",
+      "url": "https://www.ky3.com/2026/11/25/warsaw-mo-restaurants-adjust-boil-water-advisory-reaches-eighth-day/",
+      "published_at": "2026-11-26T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://gray-ky3-prod.gtv-cdn.com/resizer/v2/DE4355ZUDNEQHOWDPPFYW7RYBU.png?auth=16f0ef9ac6f33c7159fdf6244475581b07d83e2062c36877ef1646db6b237a9b&smart=true",
+      "matched_keywords": [
+        "bottled water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ky3.com"
+      ]
+    },
     {
       "id": "https://www.galvnews.com/news/galvestons-longtime-water-guy-recovering-in-galveston-county-friends-say/article_45cca428-3a2d-4b00-bfd4-41a1491d2c3e.html",
       "domain": "galvnews.com",
@@ -69,6 +86,75 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "wesh.com"
+      ]
+    },
+    {
+      "id": "https://www.hastingsstargazette.com/news/hastings-advances-water-treatment-plans-amid-3m-pfas-lawsuit/article_8db3be19-73cf-4ec8-94dc-fe368ac4e0ca.html",
+      "domain": "hastingsstargazette.com",
+      "title": "Hastings Advances Water Treatment Plans Amid 3M PFAS Lawsuit",
+      "url": "https://www.hastingsstargazette.com/news/hastings-advances-water-treatment-plans-amid-3m-pfas-lawsuit/article_8db3be19-73cf-4ec8-94dc-fe368ac4e0ca.html",
+      "published_at": "2026-11-25T02:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/hastingsstargazette.com/content/tncms/custom/image/68529f64-c53e-11eb-8535-f35b52ce6974.png",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "hastingsstargazette.com"
+      ]
+    },
+    {
+      "id": "https://wgme.com/news/local/maine-dep-gives-update-on-toxic-foam-released-in-owls-head",
+      "domain": "wgme.com",
+      "title": "Maine DEP gives update on toxic foam released in Owls Head",
+      "url": "https://wgme.com/news/local/maine-dep-gives-update-on-toxic-foam-released-in-owls-head",
+      "published_at": "2026-11-25T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://wgme.com/resources/media2/16x9/1280/1320/center/90/1aff07e9-0530-4d46-ae26-c2afc5d8beb8-OWLSHEADFFFOAMUPDATE.transfer_frame_415.jpeg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "fox23maine.com",
+        "wgme.com"
+      ]
+    },
+    {
+      "id": "https://www.zimbio.com/living-with-hard-water-without-wearing-out-the-house/",
+      "domain": "zimbio.com",
+      "title": "Living With Hard Water Without Wearing Out the House",
+      "url": "https://www.zimbio.com/living-with-hard-water-without-wearing-out-the-house/",
+      "published_at": "2026-11-25T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.zimbio.com/wp-content/uploads/2026/11/living-with-hard-water-without-wearing-out-the-house.jpg",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "zimbio.com"
+      ]
+    },
+    {
+      "id": "https://abcnews4.com/news/local/mount-pleasant-to-bring-more-plant-barriers-to-stormwater-ponds-to-curb-flooding",
+      "domain": "abcnews4.com",
+      "title": "Mount Pleasant to bring more plant barriers to stormwater ponds to curb flooding",
+      "url": "https://abcnews4.com/news/local/mount-pleasant-to-bring-more-plant-barriers-to-stormwater-ponds-to-curb-flooding",
+      "published_at": "2026-11-25T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://abcnews4.com/resources/media2/16x9/583/1320/3x0/90/dd8b1fce-146e-4989-b698-b791e200c33f-Screenshot20261124180044.png",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "abcnews4.com"
       ]
     },
     {
@@ -116,6 +202,7 @@
       "thumbnail": "",
       "matched_keywords": [
         "bottled water",
+        "forever chemicals",
         "microplastics"
       ],
       "syndicated_count": 1,
@@ -141,21 +228,20 @@
       ]
     },
     {
-      "id": "https://www.klkntv.com/city-of-fairbury-warns-residents-after-finding-elevated-levels-of-nitrate-in-water/",
-      "domain": "klkntv.com",
-      "title": "City of Fairbury warns residents after finding elevated levels of nitrate in water",
-      "url": "https://www.klkntv.com/city-of-fairbury-warns-residents-after-finding-elevated-levels-of-nitrate-in-water/",
+      "id": "https://www.wsbtv.com/news/local/atlanta/fish-kills-pfas-chemicals-sewage-among-dirty-dozen-water-offenses-georgia/TEHUSYIP2NE3RF4FSZM3263KJY/",
+      "domain": "wsbtv.com",
+      "title": "What are 2026 worst offenses against Georgia water ? - WSB - TV Channel 2",
+      "url": "https://www.wsbtv.com/news/local/atlanta/fish-kills-pfas-chemicals-sewage-among-dirty-dozen-water-offenses-georgia/TEHUSYIP2NE3RF4FSZM3263KJY/",
       "published_at": "2026-11-24T22:15:00+00:00",
       "language": "English",
       "source_country": "United States",
-      "thumbnail": "https://www.klkntv.com/content/uploads/2023/07/r/b/ugc-media-d94ceb60-af0d-4a03-b3cf-e2f6d33f1d7c.jpg",
+      "thumbnail": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2F3XLVOB6TQZHDPJZCZ4QP62KDEU.jpeg?auth=679996f54cf07be466cb0f2dfbd2f1c0566726c067d3729e9a8eaeae17e403d5&smart=true",
       "matched_keywords": [
-        "bottled water",
-        "nitrate in water"
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
-        "klkntv.com"
+        "wsbtv.com"
       ]
     },
     {
@@ -176,6 +262,58 @@
       ]
     },
     {
+      "id": "https://www.klkntv.com/city-of-fairbury-warns-residents-after-finding-elevated-levels-of-nitrate-in-water/",
+      "domain": "klkntv.com",
+      "title": "City of Fairbury warns residents after finding elevated levels of nitrate in water",
+      "url": "https://www.klkntv.com/city-of-fairbury-warns-residents-after-finding-elevated-levels-of-nitrate-in-water/",
+      "published_at": "2026-11-24T22:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.klkntv.com/content/uploads/2023/07/r/b/ugc-media-d94ceb60-af0d-4a03-b3cf-e2f6d33f1d7c.jpg",
+      "matched_keywords": [
+        "bottled water",
+        "nitrate in water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "klkntv.com"
+      ]
+    },
+    {
+      "id": "https://www.capitalgazette.com/2026/11/24/baltimore-ashburton-pfas-umd-research/",
+      "domain": "capitalgazette.com",
+      "title": "UMD researcher tests PFAS removal in Baltimore water",
+      "url": "https://www.capitalgazette.com/2026/11/24/baltimore-ashburton-pfas-umd-research/",
+      "published_at": "2026-11-24T21:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.capitalgazette.com/wp-content/uploads/2026/11/TBS-L-ASHBURTONFILTRATION.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "capitalgazette.com"
+      ]
+    },
+    {
+      "id": "https://www.staradvertiser.com/2026/11/22/hawaii-news/to-know-reworld-honolulus-h-power-plant-operator-requires-rewind/",
+      "domain": "staradvertiser.com",
+      "title": "To know Reworld , Honolulu H - POWER plant operator , requires rewind",
+      "url": "https://www.staradvertiser.com/2026/11/22/hawaii-news/to-know-reworld-honolulus-h-power-plant-operator-requires-rewind/",
+      "published_at": "2026-11-24T21:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.staradvertiser.com/wp-content/uploads/2026/11/web1_CTY-h-power-spill-5.jpg",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "staradvertiser.com"
+      ]
+    },
+    {
       "id": "https://www.1011now.com/2026/11/24/fairbury-issues-drinking-water-notice-high-nitrate-levels/",
       "domain": "1011now.com",
       "title": "Fairbury issues drinking water notice for high nitrate levels",
@@ -190,6 +328,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "1011now.com"
+      ]
+    },
+    {
+      "id": "http://www.newjerseytelegraph.com/news/279452646/tgi-group-publishes-research-report-on-global-water-bankruptcy-and-groundwater-contamination-in-mexico-yucatan-peninsula",
+      "domain": "newjerseytelegraph.com",
+      "title": "TGI Group Publishes Research Report on Global Water Bankruptcy and Groundwater Contamination in Mexico Yucatan Peninsula",
+      "url": "http://www.newjerseytelegraph.com/news/279452646/tgi-group-publishes-research-report-on-global-water-bankruptcy-and-groundwater-contamination-in-mexico-yucatan-peninsula",
+      "published_at": "2026-11-24T20:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "newjerseytelegraph.com"
       ]
     },
     {
@@ -321,7 +476,8 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.chicago2.vip.townnews.com/thegazette.com/content/tncms/assets/v3/editorial/4/f7/4f73edc2-b263-52a6-b01c-e2130d83d8ed/6b009975cb449.preview.jpg?crop=1955%2C1026%2C0%2C16",
       "matched_keywords": [
-        "bottled water"
+        "bottled water",
+        "reverse osmosis"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
@@ -380,6 +536,24 @@
       ]
     },
     {
+      "id": "http://www.liherald.com/stories/we-cant-afford-to-gamble-with-our-water,226801",
+      "domain": "liherald.com",
+      "title": "We cant afford to gamble with our water | Herald Community Newspapers",
+      "url": "http://www.liherald.com/stories/we-cant-afford-to-gamble-with-our-water,226801",
+      "published_at": "2026-11-24T01:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "bottled water",
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "liherald.com"
+      ]
+    },
+    {
       "id": "http://www.zerohedge.com/medical/dont-even-boil-it-california-city-warns-residents-not-drink-tap-water-after-sinister-tank",
       "domain": "zerohedge.com",
       "title": "Dont Even Boil It : California City Warns Residents Not To Drink Tap Water After Suspicious Tank  Tampering  Alarm",
@@ -394,23 +568,6 @@
       "syndicated_count": 2,
       "syndicated_domains": [
         "zerohedge.com"
-      ]
-    },
-    {
-      "id": "http://www.liherald.com/stories/we-cant-afford-to-gamble-with-our-water,226801",
-      "domain": "liherald.com",
-      "title": "We cant afford to gamble with our water | Herald Community Newspapers",
-      "url": "http://www.liherald.com/stories/we-cant-afford-to-gamble-with-our-water,226801",
-      "published_at": "2026-11-24T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "liherald.com"
       ]
     },
     {
@@ -511,6 +668,23 @@
       ]
     },
     {
+      "id": "https://www.progressive-charlestown.com/search?updated-max=2026-11-20T23:54:00-05:00&max-results=15",
+      "domain": "progressive-charlestown.com",
+      "title": "Progressive Charlestown",
+      "url": "https://www.progressive-charlestown.com/search?updated-max=2026-11-20T23:54:00-05:00&max-results=15",
+      "published_at": "2026-11-23T21:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "progressive-charlestown.com"
+      ]
+    },
+    {
       "id": "https://www.kcbx.org/infrastructure-housing-and-development/2026-11-23/do-not-drink-notice-issued-for-parts-of-san-luis-obispo",
       "domain": "kcbx.org",
       "title": "  Do Not Drink  notice issued for parts of San Luis Obispo",
@@ -599,6 +773,23 @@
       ]
     },
     {
+      "id": "https://www.makeuseof.com/home-assistant-integrations-track-printer-filaments-vacuum/",
+      "domain": "makeuseof.com",
+      "title": "These Home Assistant integrations track printer ink , filaments , vacuum brushes , and filters for me",
+      "url": "https://www.makeuseof.com/home-assistant-integrations-track-printer-filaments-vacuum/",
+      "published_at": "2026-11-21T20:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/11/home-assistant-maintainence-dashboard.JPG?&fit=crop",
+      "matched_keywords": [
+        "water filter"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "makeuseof.com"
+      ]
+    },
+    {
       "id": "https://sunset.com/lifestyle/shopping/wellness-gifts",
       "domain": "sunset.com",
       "title": "The Wellness Gifts That Will Optimize Your Whole Life \u2013 Sunset Magazine",
@@ -608,7 +799,8 @@
       "source_country": "United States",
       "thumbnail": "https://sunset.com/wp-content/uploads/2026/11/yoga-mat-workout-gear-pc-mrs-getty.jpg",
       "matched_keywords": [
-        "microplastics"
+        "microplastics",
+        "water filter"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
@@ -647,6 +839,24 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "dailymail.com"
+      ]
+    },
+    {
+      "id": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
+      "domain": "portcitydaily.com",
+      "title": "County uses $5M from Chemour settlement on tap fees for PFAS - contaminated wells",
+      "url": "https://portcitydaily.com/local-news/2026/11/20/county-uses-5m-from-chemours-settlement-on-tap-fees-for-pfas-contaminated-wells/",
+      "published_at": "2026-11-20T21:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://d2m9t6p6qpk0cr.cloudfront.net/wp-content/uploads/2023/03/waterfaucet.jpg",
+      "matched_keywords": [
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "portcitydaily.com"
       ]
     },
     {
@@ -696,11 +906,30 @@
       "source_country": "United States",
       "thumbnail": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/8/12/81220cef-1315-542b-8c9a-3a9336fd82b4/63be18ac81aba.image.jpg?crop=1024%2C538%2C0%2C19",
       "matched_keywords": [
-        "bottled water"
+        "bottled water",
+        "water filter"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "channel3000.com"
+      ]
+    },
+    {
+      "id": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
+      "domain": "chemeurope.com",
+      "title": "Constructed wetland treatment plant against \u00bb forever chemicals \u00ab ",
+      "url": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
+      "published_at": "2026-11-20T06:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://img.chemie.de/Portal/News/6afea01e266e0_Vu0jckalf.jpg?tr=w-1279,h-959,cm-extract,x-76,y-0:n-xzoom",
+      "matched_keywords": [
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "chemeurope.com"
       ]
     },
     {
@@ -718,6 +947,42 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "b93.net"
+      ]
+    },
+    {
+      "id": "https://www.abc15.com/news/conserving-water-in-backyard-pools-with-reverse-osmosis",
+      "domain": "abc15.com",
+      "title": "Conserving water in backyard pools with reverse osmosis",
+      "url": "https://www.abc15.com/news/conserving-water-in-backyard-pools-with-reverse-osmosis",
+      "published_at": "2026-11-20T03:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/8d/88/8e8350bd4432a695087115929e6d/screenshot-2026-11-19-at-16-52-58.png",
+      "matched_keywords": [
+        "hard water",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "abc15.com"
+      ]
+    },
+    {
+      "id": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
+      "domain": "ojaivalleynews.com",
+      "title": "City approves increasing VenturaWaterPure contracts",
+      "url": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
+      "published_at": "2026-11-20T03:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/b/bc/bbccaa67-4bca-40d3-9c88-e5e2f5e76f36/6aff91b46f373.image.jpg?crop=1762%2C925%2C0%2C125",
+      "matched_keywords": [
+        "forever chemicals",
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "ojaivalleynews.com"
       ]
     },
     {
@@ -752,6 +1017,24 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "theonion.com"
+      ]
+    },
+    {
+      "id": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
+      "domain": "benningtonbanner.com",
+      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
+      "url": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
+      "published_at": "2026-11-20T00:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://image.benningtonbanner.com/5680735.jpg?imageId=5680735&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 2,
+      "syndicated_domains": [
+        "benningtonbanner.com",
+        "vtdigger.org"
       ]
     },
     {
@@ -807,6 +1090,23 @@
       ]
     },
     {
+      "id": "https://www.prnewswire.com/news-releases/neighborhood-plumbing-and-drain-earns-2026-best-of-texas-award-for-plumbing-services-302946225.html",
+      "domain": "prnewswire.com",
+      "title": "Neighborhood Plumbing and Drain Earns 2026 Best of Texas Award for Plumbing Services",
+      "url": "https://www.prnewswire.com/news-releases/neighborhood-plumbing-and-drain-earns-2026-best-of-texas-award-for-plumbing-services-302946225.html",
+      "published_at": "2026-11-19T23:45:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "prnewswire.com"
+      ]
+    },
+    {
       "id": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
       "domain": "spokesman.com",
       "title": "Walmart says US shoppers stocked up after tech outages",
@@ -833,11 +1133,63 @@
       "source_country": "United States",
       "thumbnail": "",
       "matched_keywords": [
-        "chromium 6"
+        "chromium 6",
+        "forever chemicals"
       ],
       "syndicated_count": 1,
       "syndicated_domains": [
         "wateronline.com"
+      ]
+    },
+    {
+      "id": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
+      "domain": "wateronline.com",
+      "title": "NSF Expands Global Laboratory Network With New Testing Facility In Shanghai",
+      "url": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
+      "published_at": "2026-11-19T23:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://vertassets.blob.core.windows.net/image/20e141fa/20e141fa-0d97-42b4-a3a8-3d5215829f40/nsf.jpg",
+      "matched_keywords": [
+        "reverse osmosis"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "wateronline.com"
+      ]
+    },
+    {
+      "id": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
+      "domain": "gpb.org",
+      "title": "Georgia Water Coalition releases its 14th  Dirty Dozen  report for 2026",
+      "url": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
+      "published_at": "2026-11-19T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/2024-06/phenix_city_outfall_chattahoochee_riverkeeper_6-4-24.jpg?bdec&itok=8a9MbPo2",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "gpb.org"
+      ]
+    },
+    {
+      "id": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
+      "domain": "dominicanrepublicpost.com",
+      "title": "Yemen besieged city of Taiz faces a deepening water crisis - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
+      "url": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
+      "published_at": "2026-11-19T19:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://dominicanrepublicpost.com/app/uploads/2026/11/reuters_6aff1b9b-1795103643-NUBA0E.jpg",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "dominicanrepublicpost.com"
       ]
     },
     {
