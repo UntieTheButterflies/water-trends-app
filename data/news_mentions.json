@@ -1,5 +1,5 @@
 {
-  "refreshed_at": "2026-11-26T19:04:43+00:00",
+  "refreshed_at": "2026-11-27T18:46:57+00:00",
   "keywords": [
     "PFAS",
     "forever chemicals",
@@ -18,25 +18,42 @@
     "whole house water filter"
   ],
   "timespan": "7d",
-  "total_unique_mentions": 65,
+  "total_unique_mentions": 50,
   "by_keyword_count": {
     "PFAS": 0,
-    "forever chemicals": 14,
+    "forever chemicals": 10,
     "lead in water": 0,
     "arsenic in water": 0,
     "nitrate in water": 1,
-    "microplastics": 9,
+    "microplastics": 8,
     "fluoride in water": 0,
-    "chromium 6": 1,
+    "chromium 6": 0,
     "well water testing": 0,
-    "hard water": 4,
-    "bottled water": 37,
+    "hard water": 2,
+    "bottled water": 30,
     "water filter": 4,
-    "reverse osmosis": 7,
+    "reverse osmosis": 3,
     "water softener": 0,
     "whole house water filter": 0
   },
   "mentions": [
+    {
+      "id": "https://www.aceshowbiz.com/news/view/00263587.html",
+      "domain": "aceshowbiz.com",
+      "title": "The Water Parameters That Keep Betta Fish Thriving",
+      "url": "https://www.aceshowbiz.com/news/view/00263587.html",
+      "published_at": "2026-11-27T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://www.aceshowbiz.com/display/images/photo/2026/11/27/6b08bb815ccdc.webp",
+      "matched_keywords": [
+        "hard water"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "aceshowbiz.com"
+      ]
+    },
     {
       "id": "https://www.ky3.com/2026/11/25/warsaw-mo-restaurants-adjust-boil-water-advisory-reaches-eighth-day/",
       "domain": "ky3.com",
@@ -245,23 +262,6 @@
       ]
     },
     {
-      "id": "https://www.sweetwaternow.com/western-students-make-national-science-debut/",
-      "domain": "sweetwaternow.com",
-      "title": "Western Students make National Science Debut",
-      "url": "https://www.sweetwaternow.com/western-students-make-national-science-debut/",
-      "published_at": "2026-11-24T22:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://dz3ltmj4z3fhz.cloudfront.net/wp-content/uploads/2026/11/WWC.jpg",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "sweetwaternow.com"
-      ]
-    },
-    {
       "id": "https://www.klkntv.com/city-of-fairbury-warns-residents-after-finding-elevated-levels-of-nitrate-in-water/",
       "domain": "klkntv.com",
       "title": "City of Fairbury warns residents after finding elevated levels of nitrate in water",
@@ -277,6 +277,23 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "klkntv.com"
+      ]
+    },
+    {
+      "id": "https://www.sweetwaternow.com/western-students-make-national-science-debut/",
+      "domain": "sweetwaternow.com",
+      "title": "Western Students make National Science Debut",
+      "url": "https://www.sweetwaternow.com/western-students-make-national-science-debut/",
+      "published_at": "2026-11-24T22:15:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://dz3ltmj4z3fhz.cloudfront.net/wp-content/uploads/2026/11/WWC.jpg",
+      "matched_keywords": [
+        "microplastics"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "sweetwaternow.com"
       ]
     },
     {
@@ -790,6 +807,23 @@
       ]
     },
     {
+      "id": "https://vtdigger.org/2026/11/20/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/",
+      "domain": "vtdigger.org",
+      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
+      "url": "https://vtdigger.org/2026/11/20/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/",
+      "published_at": "2026-11-21T00:30:00+00:00",
+      "language": "English",
+      "source_country": "United States",
+      "thumbnail": "https://vtdigger.org/wp-content/uploads/2026/11/PFAS-Bennington-Banner.webp",
+      "matched_keywords": [
+        "forever chemicals"
+      ],
+      "syndicated_count": 1,
+      "syndicated_domains": [
+        "vtdigger.org"
+      ]
+    },
+    {
       "id": "https://sunset.com/lifestyle/shopping/wellness-gifts",
       "domain": "sunset.com",
       "title": "The Wellness Gifts That Will Optimize Your Whole Life \u2013 Sunset Magazine",
@@ -912,301 +946,6 @@
       "syndicated_count": 1,
       "syndicated_domains": [
         "channel3000.com"
-      ]
-    },
-    {
-      "id": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
-      "domain": "chemeurope.com",
-      "title": "Constructed wetland treatment plant against \u00bb forever chemicals \u00ab ",
-      "url": "https://www.chemeurope.com/en/news/1190379/constructed-wetland-treatment-plant-against-forever-chemicals.html",
-      "published_at": "2026-11-20T06:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://img.chemie.de/Portal/News/6afea01e266e0_Vu0jckalf.jpg?tr=w-1279,h-959,cm-extract,x-76,y-0:n-xzoom",
-      "matched_keywords": [
-        "forever chemicals",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "chemeurope.com"
-      ]
-    },
-    {
-      "id": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
-      "domain": "b93.net",
-      "title": "Where to Get a Free Thanksgiving Meal in El Paso and Las Cruces",
-      "url": "https://b93.net/ixp/63/p/thanksgiving-dinner-el-paso/",
-      "published_at": "2026-11-20T04:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://townsquare.media/site/63/files/2026/11/attachment-gettyimages-1804523528.jpg?&format=natural",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "b93.net"
-      ]
-    },
-    {
-      "id": "https://www.abc15.com/news/conserving-water-in-backyard-pools-with-reverse-osmosis",
-      "domain": "abc15.com",
-      "title": "Conserving water in backyard pools with reverse osmosis",
-      "url": "https://www.abc15.com/news/conserving-water-in-backyard-pools-with-reverse-osmosis",
-      "published_at": "2026-11-20T03:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "http://ewscripps-brightspot.s3.amazonaws.com/8d/88/8e8350bd4432a695087115929e6d/screenshot-2026-11-19-at-16-52-58.png",
-      "matched_keywords": [
-        "hard water",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "abc15.com"
-      ]
-    },
-    {
-      "id": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
-      "domain": "ojaivalleynews.com",
-      "title": "City approves increasing VenturaWaterPure contracts",
-      "url": "https://www.ojaivalleynews.com/news/water/city-approves-increasing-venturawaterpure-contracts/article_0558d595-073e-4220-b93d-66672f539902.html",
-      "published_at": "2026-11-20T03:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://bloximages.newyork1.vip.townnews.com/ojaivalleynews.com/content/tncms/assets/v3/editorial/b/bc/bbccaa67-4bca-40d3-9c88-e5e2f5e76f36/6aff91b46f373.image.jpg?crop=1762%2C925%2C0%2C125",
-      "matched_keywords": [
-        "forever chemicals",
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "ojaivalleynews.com"
-      ]
-    },
-    {
-      "id": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
-      "domain": "wgcu.org",
-      "title": "FGCU Academic Building 9 officially named Margaret Antonier Hall | WGCU News",
-      "url": "https://www.wgcu.org/top-story/2026-11-19/fgcus-academic-building-9-officially-named-margaret-antonier-hall",
-      "published_at": "2026-11-20T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/2f/1c/b3ae88e8400eaf7af28f09d2cc8d/dsc5806.JPG",
-      "matched_keywords": [
-        "microplastics"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wgcu.org"
-      ]
-    },
-    {
-      "id": "https://theonion.com/threat-of-tech-failures-prompts-americans-to-stockpile-food-water/",
-      "domain": "theonion.com",
-      "title": "Threat Of Tech Failures Prompts Americans To Stockpile Food , Water",
-      "url": "https://theonion.com/threat-of-tech-failures-prompts-americans-to-stockpile-food-water/",
-      "published_at": "2026-11-20T01:15:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://theonion.com/wp-content/uploads/2025/02/AmericanVoice_OG_FINAL.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "theonion.com"
-      ]
-    },
-    {
-      "id": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
-      "domain": "benningtonbanner.com",
-      "title": "PFAS contamination from capped landfill impacting Shaftsbury residents and officials",
-      "url": "https://www.benningtonbanner.com/local-news/pfas-contamination-from-capped-landfill-impacting-shaftsbury-residents-and-officials/5680586",
-      "published_at": "2026-11-20T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://image.benningtonbanner.com/5680735.jpg?imageId=5680735&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "benningtonbanner.com",
-        "vtdigger.org"
-      ]
-    },
-    {
-      "id": "https://www.wyff4.com/article/spartanburg-school-districts-elearning-boil-water-advisory/74482847",
-      "domain": "wyff4.com",
-      "title": "Spartanburg school districts announce more eLearning as boil water advisory continues",
-      "url": "https://www.wyff4.com/article/spartanburg-school-districts-elearning-boil-water-advisory/74482847",
-      "published_at": "2026-11-20T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/school-desk-1537796159.jpg?crop=1.00xw%3A0.753xh%3B0%2C0",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wyff4.com"
-      ]
-    },
-    {
-      "id": "https://wcbm.com/local-story/health-officials-investigate-possible-legionnaires-disease-exposure-at-baltimore-hotel/",
-      "domain": "wcbm.com",
-      "title": "Health officials investigate possible Legionnaires\u00e2\u20ac\u2122 disease exposure at Baltimore hotel",
-      "url": "https://wcbm.com/local-story/health-officials-investigate-possible-legionnaires-disease-exposure-at-baltimore-hotel/",
-      "published_at": "2026-11-20T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://wcbm.com/wp-content/uploads/2026/11/e71eb0bb-4aa1-4d3f-87fc-fb7a6c01a8c1-health.webp",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 2,
-      "syndicated_domains": [
-        "foxbaltimore.com",
-        "wcbm.com"
-      ]
-    },
-    {
-      "id": "https://www.wyff4.com/article/spartanburg-water-boil-advisory-saturday/74480896",
-      "domain": "wyff4.com",
-      "title": "Spartanburg Water boil water advisory in place until at least Saturday",
-      "url": "https://www.wyff4.com/article/spartanburg-water-boil-advisory-saturday/74480896",
-      "published_at": "2026-11-20T00:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://kubrick.htvapps.com/htv-prod/images/f56904b4-1eb6-496e-a89b-b0a8b6e52112.png?crop=0.927xw%3A1.00xh%3B0.0732xw%2C0",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wyff4.com"
-      ]
-    },
-    {
-      "id": "https://www.prnewswire.com/news-releases/neighborhood-plumbing-and-drain-earns-2026-best-of-texas-award-for-plumbing-services-302946225.html",
-      "domain": "prnewswire.com",
-      "title": "Neighborhood Plumbing and Drain Earns 2026 Best of Texas Award for Plumbing Services",
-      "url": "https://www.prnewswire.com/news-releases/neighborhood-plumbing-and-drain-earns-2026-best-of-texas-award-for-plumbing-services-302946225.html",
-      "published_at": "2026-11-19T23:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "prnewswire.com"
-      ]
-    },
-    {
-      "id": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
-      "domain": "spokesman.com",
-      "title": "Walmart says US shoppers stocked up after tech outages",
-      "url": "https://www.spokesman.com/stories/2026/nov/19/walmart-says-us-shoppers-stocked-up-after-tech-out/",
-      "published_at": "2026-11-19T23:45:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://thumb.spokesman.com/bsEZw7DfUA7c860f5qaiApIiVzU=/2400x1260/smart/media.spokesman.com/photos/2026/11/19/6aff4d92514c9.image.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "spokesman.com"
-      ]
-    },
-    {
-      "id": "https://www.wateronline.com/doc/ewg-tap-water-database-update-reveals-toxic-chemical-contamination-throughout-u-s-0001",
-      "domain": "wateronline.com",
-      "title": "EWG Tap Water Database Update Reveals Toxic Chemical Contamination Throughout US",
-      "url": "https://www.wateronline.com/doc/ewg-tap-water-database-update-reveals-toxic-chemical-contamination-throughout-u-s-0001",
-      "published_at": "2026-11-19T23:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "",
-      "matched_keywords": [
-        "chromium 6",
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wateronline.com"
-      ]
-    },
-    {
-      "id": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
-      "domain": "wateronline.com",
-      "title": "NSF Expands Global Laboratory Network With New Testing Facility In Shanghai",
-      "url": "https://www.wateronline.com/doc/nsf-expands-global-laboratory-network-with-new-testing-facility-in-shanghai-0001",
-      "published_at": "2026-11-19T23:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://vertassets.blob.core.windows.net/image/20e141fa/20e141fa-0d97-42b4-a3a8-3d5215829f40/nsf.jpg",
-      "matched_keywords": [
-        "reverse osmosis"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "wateronline.com"
-      ]
-    },
-    {
-      "id": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
-      "domain": "gpb.org",
-      "title": "Georgia Water Coalition releases its 14th  Dirty Dozen  report for 2026",
-      "url": "https://www.gpb.org/news/2026/11/19/georgia-water-coalition-releases-its-14th-dirty-dozen-report-for-2026",
-      "published_at": "2026-11-19T19:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://www.gpb.org/sites/default/files/styles/three_two_702x468/public/2024-06/phenix_city_outfall_chattahoochee_riverkeeper_6-4-24.jpg?bdec&itok=8a9MbPo2",
-      "matched_keywords": [
-        "forever chemicals"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "gpb.org"
-      ]
-    },
-    {
-      "id": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
-      "domain": "dominicanrepublicpost.com",
-      "title": "Yemen besieged city of Taiz faces a deepening water crisis - Dominican Republic Post \u2013 Caribbean News , Business , Travel & Culture",
-      "url": "https://dominicanrepublicpost.com/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis/",
-      "published_at": "2026-11-19T19:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://dominicanrepublicpost.com/app/uploads/2026/11/reuters_6aff1b9b-1795103643-NUBA0E.jpg",
-      "matched_keywords": [
-        "hard water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "dominicanrepublicpost.com"
-      ]
-    },
-    {
-      "id": "https://www.latimes.com/business/story/2026-11-19/walmart-raises-outlook-as-wealthier-shoppers-hunt-for-deals",
-      "domain": "latimes.com",
-      "title": "Walmart raises outlook as wealthier shoppers hunt for deals",
-      "url": "https://www.latimes.com/business/story/2026-11-19/walmart-raises-outlook-as-wealthier-shoppers-hunt-for-deals",
-      "published_at": "2026-11-19T19:30:00+00:00",
-      "language": "English",
-      "source_country": "United States",
-      "thumbnail": "https://california-times-brightspot.s3.amazonaws.com/8c/96/2ea70464784260bbaed562975f65/1x-1.jpg",
-      "matched_keywords": [
-        "bottled water"
-      ],
-      "syndicated_count": 1,
-      "syndicated_domains": [
-        "latimes.com"
       ]
     }
   ]
